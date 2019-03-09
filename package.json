@@ -1,0 +1,23 @@
+{
+  "name": "ocd-json",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "author": "Our Voice USA",
+  "license": "MIT",
+  "nodemonConfig": {
+    "ignore": [
+      "ocd-division"
+    ]
+  },
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "geojson-bbox": "0.0.0",
+    "rbush": "^2.0.2",
+    "rtree": "^1.4.2"
+  }
+}
