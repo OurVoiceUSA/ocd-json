@@ -59,7 +59,7 @@ function geojson2rtree(file, state, type, name) {
     if (geo.geometry) geo = geo.geometry;
     let bb = bbox(geo);
     let obj = {minX: bb[0], minY: bb[1], maxX: bb[2], maxY: bb[3], state: state, type: type, name: name};
-    if (type === 'state') obj.subtree = true;
+    if (type === 'state') obj.subtree = 'state/'+state+'/rtree.json';
     tree.insert(obj);
   } catch (e) {
     console.warn('Unable to process '+file);
