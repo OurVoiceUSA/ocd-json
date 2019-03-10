@@ -12,23 +12,11 @@ Upon build, the file most likely to change is the `officials.json` as various di
 
 ## Examples
 
-Utah State
-ocd-id: `ocd-division/country:us/state:ut`
-geography path: `ocd-division/country/us/state/ut/shape.geojson`
-division path: `ocd-division/country/us/state/ut/division.json`
-officials path: `ocd-division/country/us/state/ut/officials.json`
-
-Utah Congressional District 3
-ocd-id: `ocd-division/country:us/state:ut/cd:3`
-geography path: `ocd-division/country/us/state/ut/cd/3/shape.geojson`
-division path: `ocd-division/country/us/state/ut/division.json`
-officials path: `ocd-division/country/us/state/ut/cd/3/officials.json`
-
-Utah State House District 11
-ocd-id: `ocd-division/country:us/state:ut/sldl:11`
-geography path: `ocd-division/country/us/state/ut/sldl/11/shape.geojson`
-division path: `ocd-division/country/us/state/ut/division.json`
-officials path: `ocd-division/country/us/state/ut/sldl/11/officials.json`
+| Legislative Division | ocd-id | file path prefix |
+|---|---|---|
+| State of Utah | `ocd-division/country:us/state:ut` | `/ocd-division/country/us/state/ut/` |
+| Utah Congressional District 3 | `ocd-division/country:us/state:ut/cd:3` | `/ocd-division/country/us/state/ut/cd/3/` |
+| Utah State House District 11 | `ocd-division/country:us/state:ut/sldl:11` | `ocd-division/country/us/state/ut/sldl/11/` |
 
 ## TODO
 
