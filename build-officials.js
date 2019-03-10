@@ -208,6 +208,7 @@ async function processCSUSA() {
     polProp(id, 'phones', obj.phone);
     // this data set doesn't contain email address
     polProp(id, 'urls', obj.website);
+    polProp(id, 'photoUrl', obj.photo_url);
     if (obj.facebook_url) polProp(id, 'channels', {type: "Facebook", id: obj.facebook_url.split('/')[3]});
     if (obj.twitter_handle) polProp(id, 'channels', {type: "Twitter", id: obj.twitter_handle});
     polSource(id, 'civil.services');
