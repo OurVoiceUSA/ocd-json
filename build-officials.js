@@ -91,25 +91,23 @@ async function processOCDID() {
 async function processUSLC() {
   let response, json;
 
-  try {
+  response = await fetch(
+    "https://theunitedstates.io/congress-legislators/legislators-district-offices.json",
+    {compress: true}
+  );
+  json = await response.json();
 
-    response = await fetch(
-      "https://theunitedstates.io/congress-legislators/legislators-district-offices.json",
-      {compress: true}
-    );
-    json = await response.json();
+  let offices = {};
 
-    let offices = {};
+  json.forEach(o => {
+    offices[o.id.bioguide] = o.offices;
+  });
 
-    json.forEach(o => {
-      offices[o.id.bioguide] = o.offices;
-    });
-
-    response = await fetch(
-      "https://theunitedstates.io/congress-legislators/legislators-current.json",
-      {compress: true}
-    );
-    json = await response.json();
+  response = await fetch(
+    "https://theunitedstates.io/congress-legislators/legislators-current.json",
+    {compress: true}
+  );
+  json = await response.json();
 
 /*
   input format:
@@ -162,41 +160,29 @@ async function processUSLC() {
   },
 */
 
-    for (let i in json) {
-      let obj = json[i];
-      try {
-        let term = obj.terms[obj.terms.length-1];
-        let div = 'ocd-division/country:us/state:'+term.state.toLowerCase()+((term.type == 'rep' && term.district)?'/cd:'+term.district:'');
+  json.forEach(obj => {
+    let term = obj.terms[obj.terms.length-1];
+    let div = 'ocd-division/country:us/state:'+term.state.toLowerCase()+((term.type == 'rep' && term.district)?'/cd:'+term.district:'');
 
-        // TODO: validate div
+    if (!ocd[div]) throw "Invlid div "+div;
 
-        let id = sha1(div+":"+obj.name.last.toLowerCase().trim()+":"+obj.name.first.toLowerCase().trim());
+    let id = sha1(div+":"+obj.name.last.toLowerCase().trim()+":"+obj.name.first.toLowerCase().trim());
 
-        polGen(id, div);
-        polProp(id, 'name', obj.name.official_full);
-        polProp(id, 'party', term.party);
-        polProp(id, 'phones', term.phone);
-        // this data set doesn't contain email address
-        polProp(id, 'urls', term.url);
-        // no social media either
-        polSource(id, 'theunitedstates.io');
-        polProp(id, 'officekey', 'us'+term.type);
-        if (term.district)
-          polProp(id, 'districtkey', term.state+'-'+term.district);
+    polGen(id, div);
+    polProp(id, 'name', obj.name.official_full);
+    polProp(id, 'party', term.party);
+    polProp(id, 'phones', term.phone);
+    // this data set doesn't contain email address
+    polProp(id, 'urls', term.url);
+    // no social media either
+    polSource(id, 'theunitedstates.io');
+    polProp(id, 'officekey', 'us'+term.type);
+    if (term.district)
+      polProp(id, 'districtkey', term.state+'-'+term.district);
 
-        if (offices[obj.id.bioguide])
-          offices[obj.id.bioguide].forEach(o => polAddress(id, o));
-
-        } catch (e) {
-          console.log("Unable to parse uslc record: %j", obj);
-          console.log(e);
-        }
-
-      }
-  } catch (e) {
-    console.log(e);
-  }
-
+    if (offices[obj.id.bioguide])
+      offices[obj.id.bioguide].forEach(o => polAddress(id, o));
+  });
 }
 
 function polGen(id, did) {
