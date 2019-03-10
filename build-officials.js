@@ -105,6 +105,18 @@ async function processUSLC() {
   });
 
   response = await fetch(
+    "https://raw.githubusercontent.com/unitedstates/congress-legislators/gh-pages/legislators-social-media.json",
+    {compress: true}
+  );
+  json = await response.json();
+
+  let sm = {};
+
+  json.forEach(s => {
+    sm[s.id.bioguide] = s.social;
+  });
+
+  response = await fetch(
     "https://theunitedstates.io/congress-legislators/legislators-current.json",
     {compress: true}
   );
@@ -183,6 +195,13 @@ async function processUSLC() {
 
     if (offices[obj.id.bioguide])
       offices[obj.id.bioguide].forEach(o => polAddress(id, o));
+
+    if (sm[obj.id.bioguide]) {
+      if (sm[obj.id.bioguide].twitter) polProp(id, 'channels', {type: "Twitter", id: sm[obj.id.bioguide].twitter});
+      if (sm[obj.id.bioguide].facebook) polProp(id, 'channels', {type: "Facebook", id: sm[obj.id.bioguide].facebook});
+      if (sm[obj.id.bioguide].youtube) polProp(id, 'channels', {type: "YouTube", id: sm[obj.id.bioguide].youtube});
+      if (sm[obj.id.bioguide].instagram) polProp(id, 'channels', {type: "Instagram", id: sm[obj.id.bioguide].instagram});
+    }
   });
 }
 
