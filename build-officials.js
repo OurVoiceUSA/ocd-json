@@ -187,7 +187,7 @@ async function processUSLC() {
     polProp(id, 'phones', term.phone);
     // this data set doesn't contain email address
     polProp(id, 'urls', term.url);
-    // no social media either
+    polProp(id, 'photoUrl', 'https://theunitedstates.io/images/congress/450x550/'+obj.id.bioguide+'.jpg');
     polSource(id, 'theunitedstates.io');
     polProp(id, 'officekey', 'us'+term.type);
     if (term.district)
