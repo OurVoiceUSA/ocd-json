@@ -21,7 +21,7 @@ doYerThang();
 async function doYerThang() {
 
   fs.readdirSync('./ocd-division/country/us/state/').forEach(state => {
-    geojson2rtree('./ocd-division/country/us/state/'+state+'/shape.geojson', state, 'state', state);
+    geojson2rtree('./ocd-division/country/us/state/'+state+'/shape.geojson', state, 'state', state, 'ocd-division/country:us/state:'+state);
   });
 
   fs.writeFileSync('./ocd-division/country/us/rtree.json', JSON.stringify(tree.toJSON()));
@@ -36,7 +36,7 @@ async function doYerThang() {
       if (type.match(/\./)) return;
 
       fs.readdirSync('./ocd-division/country/us/state/'+state+'/'+type).forEach(dist => {
-        geojson2rtree('./ocd-division/country/us/state/'+state+'/'+type+'/'+dist+'/shape.geojson', state, type, dist);
+        geojson2rtree('./ocd-division/country/us/state/'+state+'/'+type+'/'+dist+'/shape.geojson', state, type, dist, 'ocd-division/country:us/state:'+state+'/'+type+':'+dist);
       });
 
     });
@@ -49,7 +49,7 @@ async function doYerThang() {
   process.exit(0);
 }
 
-function geojson2rtree(file, state, type, name) {
+function geojson2rtree(file, state, type, name, div) {
   try {
     let geo;
     if (typeof file === 'object')
@@ -58,7 +58,7 @@ function geojson2rtree(file, state, type, name) {
       geo = JSON.parse(fs.readFileSync(file))
     if (geo.geometry) geo = geo.geometry;
     let bb = bbox(geo);
-    let obj = {minX: bb[0], minY: bb[1], maxX: bb[2], maxY: bb[3], state: state, type: type, name: name};
+    let obj = {minX: bb[0], minY: bb[1], maxX: bb[2], maxY: bb[3], state: state, type: type, name: name, div: div};
     if (type === 'state') obj.subtree = 'state/'+state+'/rtree.json';
     tree.insert(obj);
   } catch (e) {
