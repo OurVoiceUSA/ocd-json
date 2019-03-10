@@ -1,30 +1,91 @@
 
 import fetch from 'node-fetch';
+import csvjson from 'csvjson';
 import sha1 from 'sha1';
 import fs from 'fs';
 
 var pol = {};
 var div = {};
+var ocd = {};
 
 processAll();
 
 async function processAll() {
 
+  await processOCDID();
   await processUSLC();
 
   // TODO: use other sources
 
-  // TODO: write to divisions.json
+  // write to division.json
+  Object.keys(div).forEach(d => {
+    let offices = [], office_names = [];;
+    let scope;
+
+    // NOTE: officialIndices is missing here because it's up to the caller to build that index
+
+    div[d].forEach(id => {
+      let o = officeFromKey(pol[id].officekey, null, pol[id].districtkey);
+      if (office_names.indexOf(o.name) === -1) {
+        offices.push(o);
+        office_names.push(o.name);
+      }
+    });
+
+    switch (true) {
+      case /\/county:/.test(d): scope = 'countywide'; break;
+      case /\/place:/.test(d): scope = 'citywide'; break;
+      case /\/sldl:/.test(d): scope = 'stateLower'; break;
+      case /\/sldu:/.test(d): scope = 'stateUpper'; break;
+      case /\/cd:/.test(d): scope = 'congressional'; break;
+      case /\/state:/.test(d): scope = 'statewide'; break;
+      case /ocd-division\/country:us$/.test(d): scope = 'national'; break;
+      default: scope = 'unknown'; break;
+    }
+
+    let division = {
+      name: ocd[d],
+      scope: scope,
+      offices: offices,
+    };
+
+    let file = d.replace(/:/g, '/')+'/division.json';
+    fs.writeFileSync(file, JSON.stringify(division));
+  });
 
   // write to officials.json
   Object.keys(div).forEach(d => {
     let pols = [];
-    div[d].forEach(id => pols.push(pol[id]));
+    div[d].forEach(id => {
+      pol[id].office = officeFromKey(pol[id].officekey, null, pol[id].districtkey);
+      // delete custom keys here
+      delete pol[id].officekey;
+      delete pol[id].districtkey;
+      pols.push(pol[id])
+    });
     let file = d.replace(/:/g, '/')+'/officials.json';
     fs.writeFileSync(file, JSON.stringify(pols));
   });
 
   process.exit(0);
+}
+
+async function processOCDID() {
+  try {
+    // if we already have this locally, no need to fetch
+    ocd = JSON.parse(fs.readFileSync('./ocd-country-us.json'));
+    return ocd;
+  } catch(e) {}
+
+  const response = await fetch(
+    "https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/country-us.csv",
+    {compress: true}
+  );
+  const csv = await response.text();
+  const json = csvjson.toObject(csv, {});
+
+  json.forEach(j => ocd[j.id] = j.name);
+  fs.writeFileSync('./ocd-country-us.json', JSON.stringify(ocd));
 }
 
 async function processUSLC() {
@@ -119,6 +180,9 @@ async function processUSLC() {
         polProp(id, 'urls', term.url);
         // no social media either
         polSource(id, 'theunitedstates.io');
+        polProp(id, 'officekey', 'us'+term.type);
+        if (term.district)
+          polProp(id, 'districtkey', term.state+'-'+term.district);
 
         if (offices[obj.id.bioguide])
           offices[obj.id.bioguide].forEach(o => polAddress(id, o));
@@ -151,6 +215,9 @@ function polGen(id, did) {
    "photoUrl": "",
    "channels": [],
    "sources": [],
+   // below here is custom to us
+   "officekey": "",
+   "districtkey": "",
   };
 }
 
@@ -184,5 +251,26 @@ function polAddress(id, input) {
     longitude: input.longitude,
     latitude: input.latitude,
   });
+}
+
+function officeFromKey(key, state, dist) {
+  // TODO: "name" can sometimes be based on what state this is
+  switch (key) {
+    case 'ussen':
+      return {
+        name: "United States Senate",
+        level: "federal",
+      };
+    case 'usrep':
+      return {
+        name: "United States House of Representatives"+(dist?" "+dist:""),
+        level: "federal",
+      };
+    case 'gov':
+      return {
+        name: "Governor",
+        level: "state",
+      };
+  }
 }
 
