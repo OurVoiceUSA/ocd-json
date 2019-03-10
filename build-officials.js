@@ -14,6 +14,7 @@ async function processAll() {
 
   await processOCDID();
   await processUSLC();
+  await processCSUSA();
 
   // TODO: use other sources
 
@@ -183,6 +184,41 @@ async function processUSLC() {
     if (offices[obj.id.bioguide])
       offices[obj.id.bioguide].forEach(o => polAddress(id, o));
   });
+}
+
+async function processCSUSA() {
+  let response, json;
+
+  response = await fetch(
+    "https://raw.githubusercontent.com/CivilServiceUSA/us-governors/master/us-governors/data/us-governors.json",
+    {compress: true}
+  );
+  json = await response.json();
+
+  json.forEach(obj => {
+    let div = 'ocd-division/country:us/state:'+obj.state_code.toLowerCase();
+
+    if (!ocd[div]) throw "Invlid div "+div;
+
+    let id = sha1(div+":"+obj.last_name.toLowerCase().trim()+":"+obj.first_name.toLowerCase().trim());
+
+    polGen(id, div);
+    polProp(id, 'name', obj.name);
+    polProp(id, 'party', ucfirst(obj.party));
+    polProp(id, 'phones', obj.phone);
+    // this data set doesn't contain email address
+    polProp(id, 'urls', obj.website);
+    if (obj.facebook_url) polProp(id, 'channels', {type: "Facebook", id: obj.facebook_url.split('/')[3]});
+    if (obj.twitter_handle) polProp(id, 'channels', {type: "Twitter", id: obj.twitter_handle});
+    polSource(id, 'civil.services');
+    polProp(id, 'officekey', 'gov');
+    // TODO: the address data here is a mess, need to figure it out
+    // polAddress(id, {});
+  });
+}
+
+function ucfirst(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
 function polGen(id, did) {
