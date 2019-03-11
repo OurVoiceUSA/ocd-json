@@ -1,1 +1,67 @@
-[{"name":"Tom O’Halleran","address":[{"line1":"211 N. Florence St.","line2":"Suite 1","city":"Casa Grande","state":"AZ","zip":"85122","phone":"520-316-0839","longitude":-111.7541607,"latitude":32.8770219},{"line1":"405 N. Beaver St.","line2":"Suite 6","city":"Flagstaff","state":"AZ","zip":"86001","phone":"928-286-5338","longitude":-111.6486132,"latitude":35.2019797},{"line1":"3037 W. Ina Rd","line2":"Suite 101","city":"Tucson","state":"AZ","zip":"85741","phone":"928-304-0131","longitude":-111.0318291,"latitude":32.3363922}],"party":"Democratic","phones":["202-225-3361"],"emails":[],"urls":["https://ohalleran.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/O000171.jpg","channels":[{"type":"Twitter","id":"repohalleran"},{"type":"Facebook","id":"repohalleran"},{"type":"Instagram","id":"repohalleran"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives AZ-1","level":"federal"}}]
+[
+  {
+    "name": "Tom O’Halleran",
+    "address": [
+      {
+        "line1": "211 N. Florence St.",
+        "line2": "Suite 1",
+        "city": "Casa Grande",
+        "state": "AZ",
+        "zip": "85122",
+        "phone": "520-316-0839",
+        "longitude": -111.7541607,
+        "latitude": 32.8770219
+      },
+      {
+        "line1": "405 N. Beaver St.",
+        "line2": "Suite 6",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "zip": "86001",
+        "phone": "928-286-5338",
+        "longitude": -111.6486132,
+        "latitude": 35.2019797
+      },
+      {
+        "line1": "3037 W. Ina Rd",
+        "line2": "Suite 101",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85741",
+        "phone": "928-304-0131",
+        "longitude": -111.0318291,
+        "latitude": 32.3363922
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3361"
+    ],
+    "emails": [],
+    "urls": [
+      "https://ohalleran.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/O000171.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "repohalleran"
+      },
+      {
+        "type": "Facebook",
+        "id": "repohalleran"
+      },
+      {
+        "type": "Instagram",
+        "id": "repohalleran"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives AZ-1",
+      "level": "federal"
+    }
+  }
+]

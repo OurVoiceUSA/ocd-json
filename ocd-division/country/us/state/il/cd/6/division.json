@@ -1,1 +1,10 @@
-{"name":"Illinois's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IL-6","level":"federal"}]}
+{
+  "name": "Illinois's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IL-6",
+      "level": "federal"
+    }
+  ]
+}

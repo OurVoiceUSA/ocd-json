@@ -1,1 +1,10 @@
-{"name":"Tennessee's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TN-5","level":"federal"}]}
+{
+  "name": "Tennessee's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TN-5",
+      "level": "federal"
+    }
+  ]
+}

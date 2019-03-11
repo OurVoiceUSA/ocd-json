@@ -1,1 +1,10 @@
-{"name":"Idaho's 1st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives ID-1","level":"federal"}]}
+{
+  "name": "Idaho's 1st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives ID-1",
+      "level": "federal"
+    }
+  ]
+}

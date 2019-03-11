@@ -1,1 +1,10 @@
-{"name":"California's 27th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CA-27","level":"federal"}]}
+{
+  "name": "California's 27th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CA-27",
+      "level": "federal"
+    }
+  ]
+}

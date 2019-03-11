@@ -1,1 +1,10 @@
-{"name":"Rhode Island's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives RI-2","level":"federal"}]}
+{
+  "name": "Rhode Island's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives RI-2",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,28 @@
-[{"name":"Andy Kim","address":[],"party":"Democratic","phones":["202-225-4765"],"emails":[],"urls":["https://kim.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000394.jpg","channels":[{"type":"Twitter","id":"RepAndyKimNJ"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NJ-3","level":"federal"}}]
+[
+  {
+    "name": "Andy Kim",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4765"
+    ],
+    "emails": [],
+    "urls": [
+      "https://kim.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000394.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAndyKimNJ"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NJ-3",
+      "level": "federal"
+    }
+  }
+]

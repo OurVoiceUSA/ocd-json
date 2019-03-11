@@ -1,1 +1,51 @@
-[{"name":"Thomas R. Suozzi","address":[{"line1":"478A Park Avenue","city":"Huntington","state":"NY","zip":"11743","phone":"631-923-4100","longitude":-73.41131899999999,"latitude":40.873976},{"line1":"250-02 Northern Boulevard","city":"Little Neck","state":"NY","zip":"11362","phone":"718-631-0400","longitude":-73.7394598,"latitude":40.7683191}],"party":"Democratic","phones":["202-225-3335"],"emails":[],"urls":["https://suozzi.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001201.jpg","channels":[{"type":"Twitter","id":"RepTomSuozzi"},{"type":"Facebook","id":"RepTomSuozzi"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-3","level":"federal"}}]
+[
+  {
+    "name": "Thomas R. Suozzi",
+    "address": [
+      {
+        "line1": "478A Park Avenue",
+        "city": "Huntington",
+        "state": "NY",
+        "zip": "11743",
+        "phone": "631-923-4100",
+        "longitude": -73.41131899999999,
+        "latitude": 40.873976
+      },
+      {
+        "line1": "250-02 Northern Boulevard",
+        "city": "Little Neck",
+        "state": "NY",
+        "zip": "11362",
+        "phone": "718-631-0400",
+        "longitude": -73.7394598,
+        "latitude": 40.7683191
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3335"
+    ],
+    "emails": [],
+    "urls": [
+      "https://suozzi.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001201.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepTomSuozzi"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepTomSuozzi"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-3",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,51 @@
-[{"name":"Michael C. Burgess","address":[{"line1":"2000 S. Stemmons Fwy.","line2":"Suite 200","city":"Lake Dallas","state":"TX","zip":"75065","phone":"940-497-5031","longitude":-97.0327015,"latitude":33.1213325}],"party":"Republican","phones":["202-225-7772"],"emails":[],"urls":["https://burgess.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001248.jpg","channels":[{"type":"Twitter","id":"MichaelCBurgess"},{"type":"Facebook","id":"michaelcburgess"},{"type":"YouTube","id":"michaelcburgessmd"},{"type":"Instagram","id":"repmichaelburgess"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-26","level":"federal"}}]
+[
+  {
+    "name": "Michael C. Burgess",
+    "address": [
+      {
+        "line1": "2000 S. Stemmons Fwy.",
+        "line2": "Suite 200",
+        "city": "Lake Dallas",
+        "state": "TX",
+        "zip": "75065",
+        "phone": "940-497-5031",
+        "longitude": -97.0327015,
+        "latitude": 33.1213325
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-7772"
+    ],
+    "emails": [],
+    "urls": [
+      "https://burgess.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001248.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "MichaelCBurgess"
+      },
+      {
+        "type": "Facebook",
+        "id": "michaelcburgess"
+      },
+      {
+        "type": "YouTube",
+        "id": "michaelcburgessmd"
+      },
+      {
+        "type": "Instagram",
+        "id": "repmichaelburgess"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-26",
+      "level": "federal"
+    }
+  }
+]

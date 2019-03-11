@@ -1,1 +1,68 @@
-[{"name":"John P. Sarbanes","address":[{"line1":"44 Calvert St.","line2":"Suite 349","line3":"Arundel Center","city":"Annapolis","state":"MD","zip":"21401","phone":"410-295-1679","longitude":-76.4949839,"latitude":38.9793786},{"line1":"14906 Old Columbia Pike","line3":"Marilyn J. Praisner Community Recreation Center","city":"Burtonsville","state":"MD","zip":"20866","phone":"301-421-4078","longitude":-76.941686,"latitude":39.102063},{"line1":"600 Baltimore Ave.","line2":"Suite 303","city":"Towson","state":"MD","zip":"21204","phone":"410-832-8890","longitude":-76.6073615,"latitude":39.4023248}],"party":"Democratic","phones":["202-225-4016"],"emails":[],"urls":["https://sarbanes.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001168.jpg","channels":[{"type":"Twitter","id":"RepSarbanes"},{"type":"Facebook","id":"RepSarbanes"},{"type":"YouTube","id":"RepJohnSarbanes"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MD-3","level":"federal"}}]
+[
+  {
+    "name": "John P. Sarbanes",
+    "address": [
+      {
+        "line1": "44 Calvert St.",
+        "line2": "Suite 349",
+        "line3": "Arundel Center",
+        "city": "Annapolis",
+        "state": "MD",
+        "zip": "21401",
+        "phone": "410-295-1679",
+        "longitude": -76.4949839,
+        "latitude": 38.9793786
+      },
+      {
+        "line1": "14906 Old Columbia Pike",
+        "line3": "Marilyn J. Praisner Community Recreation Center",
+        "city": "Burtonsville",
+        "state": "MD",
+        "zip": "20866",
+        "phone": "301-421-4078",
+        "longitude": -76.941686,
+        "latitude": 39.102063
+      },
+      {
+        "line1": "600 Baltimore Ave.",
+        "line2": "Suite 303",
+        "city": "Towson",
+        "state": "MD",
+        "zip": "21204",
+        "phone": "410-832-8890",
+        "longitude": -76.6073615,
+        "latitude": 39.4023248
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4016"
+    ],
+    "emails": [],
+    "urls": [
+      "https://sarbanes.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001168.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepSarbanes"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepSarbanes"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepJohnSarbanes"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MD-3",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,66 @@
-[{"name":"Charles J. \"Chuck\" Fleischmann","address":[{"line1":"6 E. Madison Ave.","city":"Athens","state":"TN","zip":"37303","phone":"423-745-4671","longitude":-84.594681,"latitude":35.441192},{"line1":"900 Georgia Ave.","line2":"Suite 126","city":"Chattanooga","state":"TN","zip":"37402","phone":"423-756-2342","longitude":-85.3082146,"latitude":35.0450875},{"line1":"200 Administration Rd.","line2":"Suite 100","city":"Oak Ridge","state":"TN","zip":"37830","phone":"865-576-1976","longitude":-84.23490799999999,"latitude":36.02409}],"party":"Republican","phones":["202-225-3271"],"emails":[],"urls":["https://fleischmann.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/F000459.jpg","channels":[{"type":"Twitter","id":"RepChuck"},{"type":"Facebook","id":"repchuck"},{"type":"YouTube","id":"repchuck"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TN-3","level":"federal"}}]
+[
+  {
+    "name": "Charles J. \"Chuck\" Fleischmann",
+    "address": [
+      {
+        "line1": "6 E. Madison Ave.",
+        "city": "Athens",
+        "state": "TN",
+        "zip": "37303",
+        "phone": "423-745-4671",
+        "longitude": -84.594681,
+        "latitude": 35.441192
+      },
+      {
+        "line1": "900 Georgia Ave.",
+        "line2": "Suite 126",
+        "city": "Chattanooga",
+        "state": "TN",
+        "zip": "37402",
+        "phone": "423-756-2342",
+        "longitude": -85.3082146,
+        "latitude": 35.0450875
+      },
+      {
+        "line1": "200 Administration Rd.",
+        "line2": "Suite 100",
+        "city": "Oak Ridge",
+        "state": "TN",
+        "zip": "37830",
+        "phone": "865-576-1976",
+        "longitude": -84.23490799999999,
+        "latitude": 36.02409
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3271"
+    ],
+    "emails": [],
+    "urls": [
+      "https://fleischmann.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/F000459.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepChuck"
+      },
+      {
+        "type": "Facebook",
+        "id": "repchuck"
+      },
+      {
+        "type": "YouTube",
+        "id": "repchuck"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TN-3",
+      "level": "federal"
+    }
+  }
+]

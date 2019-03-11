@@ -1,1 +1,14 @@
-{"name":"Alabama","scope":"statewide","offices":[{"name":"United States Senate","level":"federal"},{"name":"Governor","level":"state"}]}
+{
+  "name": "Alabama",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States Senate",
+      "level": "federal"
+    },
+    {
+      "name": "Governor",
+      "level": "state"
+    }
+  ]
+}

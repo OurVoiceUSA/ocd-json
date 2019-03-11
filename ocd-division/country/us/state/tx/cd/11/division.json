@@ -1,1 +1,10 @@
-{"name":"Texas's 11th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-11","level":"federal"}]}
+{
+  "name": "Texas's 11th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-11",
+      "level": "federal"
+    }
+  ]
+}

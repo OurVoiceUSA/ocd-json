@@ -1,1 +1,87 @@
-[{"name":"Darren Soto","address":[{"line1":"804 Bryan St.","city":"Kissimmee","state":"FL","zip":"34741","phone":"407-452-1171","longitude":-81.4123113,"latitude":28.2906297},{"line1":"620 E Main St.","city":"Haines City","state":"FL","zip":"33844","phone":"202-615-1308","longitude":-81.628392,"latitude":28.1083914},{"line1":"6900 Lake Nona Blvd","line2":"Suites 101A & 101B","city":"Orlando","state":"FL","zip":"32827","phone":"407-266-7161","longitude":-81.2825497,"latitude":28.368175},{"line1":"201 W Central Avenue","city":"Lake Wales","state":"FL","zip":"33853","phone":"202-600-0843","longitude":-81.596459,"latitude":27.8999663},{"line1":"451 3rd Street NW","city":"Winter Haven","state":"FL","zip":"33881","phone":"202-600-0843","longitude":-81.732919,"latitude":28.0263894}],"party":"Democratic","phones":["202-225-9889"],"emails":[],"urls":["https://soto.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001200.jpg","channels":[{"type":"Twitter","id":"RepDarrenSoto"},{"type":"Facebook","id":"CongressmanDarrenSoto"},{"type":"YouTube","id":"repdarrensoto"},{"type":"Instagram","id":"RepDarrenSoto"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-9","level":"federal"}}]
+[
+  {
+    "name": "Darren Soto",
+    "address": [
+      {
+        "line1": "804 Bryan St.",
+        "city": "Kissimmee",
+        "state": "FL",
+        "zip": "34741",
+        "phone": "407-452-1171",
+        "longitude": -81.4123113,
+        "latitude": 28.2906297
+      },
+      {
+        "line1": "620 E Main St.",
+        "city": "Haines City",
+        "state": "FL",
+        "zip": "33844",
+        "phone": "202-615-1308",
+        "longitude": -81.628392,
+        "latitude": 28.1083914
+      },
+      {
+        "line1": "6900 Lake Nona Blvd",
+        "line2": "Suites 101A & 101B",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32827",
+        "phone": "407-266-7161",
+        "longitude": -81.2825497,
+        "latitude": 28.368175
+      },
+      {
+        "line1": "201 W Central Avenue",
+        "city": "Lake Wales",
+        "state": "FL",
+        "zip": "33853",
+        "phone": "202-600-0843",
+        "longitude": -81.596459,
+        "latitude": 27.8999663
+      },
+      {
+        "line1": "451 3rd Street NW",
+        "city": "Winter Haven",
+        "state": "FL",
+        "zip": "33881",
+        "phone": "202-600-0843",
+        "longitude": -81.732919,
+        "latitude": 28.0263894
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-9889"
+    ],
+    "emails": [],
+    "urls": [
+      "https://soto.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001200.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepDarrenSoto"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanDarrenSoto"
+      },
+      {
+        "type": "YouTube",
+        "id": "repdarrensoto"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepDarrenSoto"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-9",
+      "level": "federal"
+    }
+  }
+]

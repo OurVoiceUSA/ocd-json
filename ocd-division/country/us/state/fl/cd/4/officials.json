@@ -1,1 +1,43 @@
-[{"name":"John H. Rutherford","address":[{"line1":"4130 Salisbury Rd.","line3":"Suite 2500","city":"Jacksonville","state":"FL","zip":"32216","phone":"904-831-5205","longitude":-81.5959646,"latitude":30.2539737}],"party":"Republican","phones":["202-225-2501"],"emails":[],"urls":["https://rutherford.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000609.jpg","channels":[{"type":"Twitter","id":"RepRutherfordFL"},{"type":"Facebook","id":"RepRutherfordFL"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-4","level":"federal"}}]
+[
+  {
+    "name": "John H. Rutherford",
+    "address": [
+      {
+        "line1": "4130 Salisbury Rd.",
+        "line3": "Suite 2500",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32216",
+        "phone": "904-831-5205",
+        "longitude": -81.5959646,
+        "latitude": 30.2539737
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2501"
+    ],
+    "emails": [],
+    "urls": [
+      "https://rutherford.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000609.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRutherfordFL"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepRutherfordFL"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-4",
+      "level": "federal"
+    }
+  }
+]

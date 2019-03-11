@@ -1,1 +1,28 @@
-[{"name":"Rashida Tlaib","address":[],"party":"Democratic","phones":["202-225-5126"],"emails":[],"urls":["https://tlaib.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000481.jpg","channels":[{"type":"Twitter","id":"RepRashida"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MI-13","level":"federal"}}]
+[
+  {
+    "name": "Rashida Tlaib",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5126"
+    ],
+    "emails": [],
+    "urls": [
+      "https://tlaib.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000481.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRashida"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MI-13",
+      "level": "federal"
+    }
+  }
+]

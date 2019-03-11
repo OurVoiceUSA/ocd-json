@@ -1,1 +1,10 @@
-{"name":"Michigan's 10th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MI-10","level":"federal"}]}
+{
+  "name": "Michigan's 10th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MI-10",
+      "level": "federal"
+    }
+  ]
+}

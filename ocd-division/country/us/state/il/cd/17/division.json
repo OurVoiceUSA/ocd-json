@@ -1,1 +1,10 @@
-{"name":"Illinois's 17th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IL-17","level":"federal"}]}
+{
+  "name": "Illinois's 17th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IL-17",
+      "level": "federal"
+    }
+  ]
+}

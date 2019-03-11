@@ -1,1 +1,10 @@
-{"name":"New Jersey's 12th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NJ-12","level":"federal"}]}
+{
+  "name": "New Jersey's 12th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NJ-12",
+      "level": "federal"
+    }
+  ]
+}

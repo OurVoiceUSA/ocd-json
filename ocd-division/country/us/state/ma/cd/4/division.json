@@ -1,1 +1,10 @@
-{"name":"Massachusetts's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MA-4","level":"federal"}]}
+{
+  "name": "Massachusetts's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MA-4",
+      "level": "federal"
+    }
+  ]
+}

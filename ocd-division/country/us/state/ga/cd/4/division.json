@@ -1,1 +1,10 @@
-{"name":"Georgia's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-4","level":"federal"}]}
+{
+  "name": "Georgia's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-4",
+      "level": "federal"
+    }
+  ]
+}

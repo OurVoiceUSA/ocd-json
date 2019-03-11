@@ -1,1 +1,14 @@
-{"name":"Florida","scope":"statewide","offices":[{"name":"United States Senate","level":"federal"},{"name":"Governor","level":"state"}]}
+{
+  "name": "Florida",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States Senate",
+      "level": "federal"
+    },
+    {
+      "name": "Governor",
+      "level": "state"
+    }
+  ]
+}

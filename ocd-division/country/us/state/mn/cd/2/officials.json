@@ -1,1 +1,28 @@
-[{"name":"Angie Craig","address":[],"party":"Democratic","phones":["202-225-2271"],"emails":[],"urls":["https://craig.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001119.jpg","channels":[{"type":"Twitter","id":"RepAngieCraig"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MN-2","level":"federal"}}]
+[
+  {
+    "name": "Angie Craig",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2271"
+    ],
+    "emails": [],
+    "urls": [
+      "https://craig.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001119.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAngieCraig"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MN-2",
+      "level": "federal"
+    }
+  }
+]

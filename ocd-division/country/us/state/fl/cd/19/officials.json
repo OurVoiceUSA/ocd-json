@@ -1,1 +1,57 @@
-[{"name":"Francis Rooney","address":[{"line1":"1039 SE 9th Ave.","line2":"Suite 308","city":"Cape Coral","state":"FL","zip":"33990","phone":"239-599-6033","longitude":-81.9561391,"latitude":26.6320987},{"line1":"3299 Tamiami Trail East","line2":"Suite 105","city":"Naples","state":"FL","zip":"34112","phone":"239-252-6225","longitude":-81.7664209,"latitude":26.1270603}],"party":"Republican","phones":["202-225-2536"],"emails":[],"urls":["https://francisrooney.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000607.jpg","channels":[{"type":"Twitter","id":"RepRooney"},{"type":"Facebook","id":"RepRooney"},{"type":"Instagram","id":"RepFrancisRooney"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-19","level":"federal"}}]
+[
+  {
+    "name": "Francis Rooney",
+    "address": [
+      {
+        "line1": "1039 SE 9th Ave.",
+        "line2": "Suite 308",
+        "city": "Cape Coral",
+        "state": "FL",
+        "zip": "33990",
+        "phone": "239-599-6033",
+        "longitude": -81.9561391,
+        "latitude": 26.6320987
+      },
+      {
+        "line1": "3299 Tamiami Trail East",
+        "line2": "Suite 105",
+        "city": "Naples",
+        "state": "FL",
+        "zip": "34112",
+        "phone": "239-252-6225",
+        "longitude": -81.7664209,
+        "latitude": 26.1270603
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2536"
+    ],
+    "emails": [],
+    "urls": [
+      "https://francisrooney.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000607.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRooney"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepRooney"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepFrancisRooney"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-19",
+      "level": "federal"
+    }
+  }
+]

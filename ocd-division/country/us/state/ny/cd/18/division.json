@@ -1,1 +1,10 @@
-{"name":"New York's 18th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NY-18","level":"federal"}]}
+{
+  "name": "New York's 18th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NY-18",
+      "level": "federal"
+    }
+  ]
+}

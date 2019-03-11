@@ -1,1 +1,10 @@
-{"name":"New York's 21st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NY-21","level":"federal"}]}
+{
+  "name": "New York's 21st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NY-21",
+      "level": "federal"
+    }
+  ]
+}

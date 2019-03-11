@@ -1,1 +1,28 @@
-[{"name":"John W. Rose","address":[],"party":"Republican","phones":["202-225-4231"],"emails":[],"urls":["https://johnrose.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000612.jpg","channels":[{"type":"Twitter","id":"RepJohnRose"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TN-6","level":"federal"}}]
+[
+  {
+    "name": "John W. Rose",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-4231"
+    ],
+    "emails": [],
+    "urls": [
+      "https://johnrose.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000612.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJohnRose"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TN-6",
+      "level": "federal"
+    }
+  }
+]

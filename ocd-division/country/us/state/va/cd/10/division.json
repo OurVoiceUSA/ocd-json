@@ -1,1 +1,10 @@
-{"name":"Virginia's 10th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives VA-10","level":"federal"}]}
+{
+  "name": "Virginia's 10th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives VA-10",
+      "level": "federal"
+    }
+  ]
+}

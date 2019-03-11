@@ -1,1 +1,10 @@
-{"name":"Pennsylvania's 16th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives PA-16","level":"federal"}]}
+{
+  "name": "Pennsylvania's 16th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives PA-16",
+      "level": "federal"
+    }
+  ]
+}

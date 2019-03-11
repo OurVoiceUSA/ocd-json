@@ -1,1 +1,28 @@
-[{"name":"Sharice Davids","address":[],"party":"Democratic","phones":["202-225-2865"],"emails":[],"urls":["https://davids.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000629.jpg","channels":[{"type":"Twitter","id":"RepDavids"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives KS-3","level":"federal"}}]
+[
+  {
+    "name": "Sharice Davids",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2865"
+    ],
+    "emails": [],
+    "urls": [
+      "https://davids.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000629.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepDavids"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives KS-3",
+      "level": "federal"
+    }
+  }
+]

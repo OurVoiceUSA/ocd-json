@@ -1,1 +1,57 @@
-[{"name":"Jodey C. Arrington","address":[{"line1":"500 Chestnut St.","line2":"Suite 819","city":"Abilene","state":"TX","zip":"79602","phone":"325-675-9779","longitude":-99.73461449999999,"latitude":32.4443053},{"line1":"1312 Texas Ave.","line2":"Suite 219","city":"Lubbock","state":"TX","zip":"79401","phone":"806-763-1611","longitude":-101.8456125,"latitude":33.5830588}],"party":"Republican","phones":["202-225-4005"],"emails":[],"urls":["https://arrington.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/A000375.jpg","channels":[{"type":"Twitter","id":"RepArrington"},{"type":"Facebook","id":"JodeyArrington"},{"type":"Instagram","id":"repjodeyarrington"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-19","level":"federal"}}]
+[
+  {
+    "name": "Jodey C. Arrington",
+    "address": [
+      {
+        "line1": "500 Chestnut St.",
+        "line2": "Suite 819",
+        "city": "Abilene",
+        "state": "TX",
+        "zip": "79602",
+        "phone": "325-675-9779",
+        "longitude": -99.73461449999999,
+        "latitude": 32.4443053
+      },
+      {
+        "line1": "1312 Texas Ave.",
+        "line2": "Suite 219",
+        "city": "Lubbock",
+        "state": "TX",
+        "zip": "79401",
+        "phone": "806-763-1611",
+        "longitude": -101.8456125,
+        "latitude": 33.5830588
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4005"
+    ],
+    "emails": [],
+    "urls": [
+      "https://arrington.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/A000375.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepArrington"
+      },
+      {
+        "type": "Facebook",
+        "id": "JodeyArrington"
+      },
+      {
+        "type": "Instagram",
+        "id": "repjodeyarrington"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-19",
+      "level": "federal"
+    }
+  }
+]

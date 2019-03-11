@@ -1,1 +1,61 @@
-[{"name":"Nita M. Lowey","address":[{"line1":"67 N. Main St.","line2":"#101","city":"New City","state":"NY","zip":"10956","phone":"845-639-3485","longitude":-73.98993,"latitude":41.1497079},{"line1":"222 Mamaroneck Ave.","line2":"#312","city":"White Plains","state":"NY","zip":"10605","phone":"914-428-1707","longitude":-73.76478879999999,"latitude":41.0270474}],"party":"Democratic","phones":["202-225-6506"],"emails":[],"urls":["https://lowey.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000480.jpg","channels":[{"type":"Twitter","id":"NitaLowey"},{"type":"Facebook","id":"RepLowey"},{"type":"YouTube","id":"nitalowey"},{"type":"Instagram","id":"nitalowey"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-17","level":"federal"}}]
+[
+  {
+    "name": "Nita M. Lowey",
+    "address": [
+      {
+        "line1": "67 N. Main St.",
+        "line2": "#101",
+        "city": "New City",
+        "state": "NY",
+        "zip": "10956",
+        "phone": "845-639-3485",
+        "longitude": -73.98993,
+        "latitude": 41.1497079
+      },
+      {
+        "line1": "222 Mamaroneck Ave.",
+        "line2": "#312",
+        "city": "White Plains",
+        "state": "NY",
+        "zip": "10605",
+        "phone": "914-428-1707",
+        "longitude": -73.76478879999999,
+        "latitude": 41.0270474
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-6506"
+    ],
+    "emails": [],
+    "urls": [
+      "https://lowey.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000480.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "NitaLowey"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepLowey"
+      },
+      {
+        "type": "YouTube",
+        "id": "nitalowey"
+      },
+      {
+        "type": "Instagram",
+        "id": "nitalowey"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-17",
+      "level": "federal"
+    }
+  }
+]

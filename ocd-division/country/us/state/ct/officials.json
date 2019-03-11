@@ -1,1 +1,132 @@
-[{"name":"Richard Blumenthal","address":[{"line1":"915 Lafayette Blvd.","line2":"Suite 304","city":"Bridgeport","state":"CT","zip":"06604","phone":"203-330-0598","longitude":-73.1931954,"latitude":41.1749972},{"line1":"90 State House Sq.","line2":"10th Floor","city":"Hartford","state":"CT","zip":"06103","phone":"860-258-6940","longitude":-72.6719747,"latitude":41.7665316}],"party":"Democratic","phones":["202-224-2823"],"emails":[],"urls":["https://www.blumenthal.senate.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001277.jpg","channels":[{"type":"Twitter","id":"SenBlumenthal"},{"type":"Facebook","id":"SenBlumenthal"},{"type":"YouTube","id":"SenatorBlumenthal"}],"sources":["theunitedstates.io"],"office":{"name":"United States Senate","level":"federal"}},{"name":"Christopher Murphy","address":[{"line1":"120 Huyshope Ave.","line2":"Suite 401","city":"Hartford","state":"CT","zip":"06106","phone":"860-549-8463","longitude":-72.6646397,"latitude":41.7559191}],"party":"Democratic","phones":["202-224-4041"],"emails":[],"urls":["https://www.murphy.senate.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001169.jpg","channels":[{"type":"Twitter","id":"senmurphyoffice"},{"type":"Facebook","id":"chrismurphyct"},{"type":"YouTube","id":"senchrismurphy"}],"sources":["theunitedstates.io"],"office":{"name":"United States Senate","level":"federal"}},{"name":"Edward Lamont","address":[],"party":"Democratic","phones":["800-406-1527"],"emails":[],"urls":["https://portal.ct.gov/Office-of-the-Governor"],"photoUrl":"https://cdn.civil.services/us-governors/headshots/512x512/edward-lamont.jpg","channels":[{"type":"Facebook","id":"NedLamontCT"},{"type":"Twitter","id":"GovNedLamont"}],"sources":["civil.services"],"office":{"name":"Governor","level":"state"}}]
+[
+  {
+    "name": "Richard Blumenthal",
+    "address": [
+      {
+        "line1": "915 Lafayette Blvd.",
+        "line2": "Suite 304",
+        "city": "Bridgeport",
+        "state": "CT",
+        "zip": "06604",
+        "phone": "203-330-0598",
+        "longitude": -73.1931954,
+        "latitude": 41.1749972
+      },
+      {
+        "line1": "90 State House Sq.",
+        "line2": "10th Floor",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06103",
+        "phone": "860-258-6940",
+        "longitude": -72.6719747,
+        "latitude": 41.7665316
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-224-2823"
+    ],
+    "emails": [],
+    "urls": [
+      "https://www.blumenthal.senate.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001277.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "SenBlumenthal"
+      },
+      {
+        "type": "Facebook",
+        "id": "SenBlumenthal"
+      },
+      {
+        "type": "YouTube",
+        "id": "SenatorBlumenthal"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States Senate",
+      "level": "federal"
+    }
+  },
+  {
+    "name": "Christopher Murphy",
+    "address": [
+      {
+        "line1": "120 Huyshope Ave.",
+        "line2": "Suite 401",
+        "city": "Hartford",
+        "state": "CT",
+        "zip": "06106",
+        "phone": "860-549-8463",
+        "longitude": -72.6646397,
+        "latitude": 41.7559191
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-224-4041"
+    ],
+    "emails": [],
+    "urls": [
+      "https://www.murphy.senate.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001169.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "senmurphyoffice"
+      },
+      {
+        "type": "Facebook",
+        "id": "chrismurphyct"
+      },
+      {
+        "type": "YouTube",
+        "id": "senchrismurphy"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States Senate",
+      "level": "federal"
+    }
+  },
+  {
+    "name": "Edward Lamont",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "800-406-1527"
+    ],
+    "emails": [],
+    "urls": [
+      "https://portal.ct.gov/Office-of-the-Governor"
+    ],
+    "photoUrl": "https://cdn.civil.services/us-governors/headshots/512x512/edward-lamont.jpg",
+    "channels": [
+      {
+        "type": "Facebook",
+        "id": "NedLamontCT"
+      },
+      {
+        "type": "Twitter",
+        "id": "GovNedLamont"
+      }
+    ],
+    "sources": [
+      "civil.services"
+    ],
+    "office": {
+      "name": "Governor",
+      "level": "state"
+    }
+  }
+]

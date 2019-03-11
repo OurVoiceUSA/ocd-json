@@ -1,1 +1,10 @@
-{"name":"South Carolina's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives SC-4","level":"federal"}]}
+{
+  "name": "South Carolina's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives SC-4",
+      "level": "federal"
+    }
+  ]
+}

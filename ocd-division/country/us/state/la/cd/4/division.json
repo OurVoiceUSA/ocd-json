@@ -1,1 +1,10 @@
-{"name":"Louisiana's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives LA-4","level":"federal"}]}
+{
+  "name": "Louisiana's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives LA-4",
+      "level": "federal"
+    }
+  ]
+}

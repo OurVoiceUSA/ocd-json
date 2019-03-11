@@ -1,1 +1,10 @@
-{"name":"Indiana's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IN-2","level":"federal"}]}
+{
+  "name": "Indiana's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IN-2",
+      "level": "federal"
+    }
+  ]
+}

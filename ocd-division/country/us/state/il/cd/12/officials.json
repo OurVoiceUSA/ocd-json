@@ -1,1 +1,82 @@
-[{"name":"Mike Bost","address":[{"line1":"101 E. Third St.","city":"Alton","state":"IL","zip":"62002","phone":"618-622-0766","longitude":-90.18395149999999,"latitude":38.8906416},{"line1":"300 E. Main St.","line2":"Suite 4","line3":"Hunter Building","city":"Carbondale","state":"IL","zip":"62901","phone":"618-457-5787","longitude":-89.2134992,"latitude":37.7277729},{"line1":"2000 Edison Ave.","line3":"City Hall","city":"Granite City","state":"IL","zip":"62040","phone":"618-622-0766","longitude":-90.14887449999999,"latitude":38.7015611},{"line1":"1100 Main St.","line3":"Mt. Vernon City Hall","city":"Mt. Vernon","state":"IL","zip":"62864","phone":"618-513-5294","longitude":-88.9049835,"latitude":38.317936},{"line1":"302 West State St.","city":"O'Fallon","state":"IL","zip":"62269","phone":"618-622-0766","longitude":-89.9141608,"latitude":38.5925108}],"party":"Republican","phones":["202-225-5661"],"emails":[],"urls":["https://bost.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001295.jpg","channels":[{"type":"Twitter","id":"RepBost"},{"type":"Facebook","id":"RepBost"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives IL-12","level":"federal"}}]
+[
+  {
+    "name": "Mike Bost",
+    "address": [
+      {
+        "line1": "101 E. Third St.",
+        "city": "Alton",
+        "state": "IL",
+        "zip": "62002",
+        "phone": "618-622-0766",
+        "longitude": -90.18395149999999,
+        "latitude": 38.8906416
+      },
+      {
+        "line1": "300 E. Main St.",
+        "line2": "Suite 4",
+        "line3": "Hunter Building",
+        "city": "Carbondale",
+        "state": "IL",
+        "zip": "62901",
+        "phone": "618-457-5787",
+        "longitude": -89.2134992,
+        "latitude": 37.7277729
+      },
+      {
+        "line1": "2000 Edison Ave.",
+        "line3": "City Hall",
+        "city": "Granite City",
+        "state": "IL",
+        "zip": "62040",
+        "phone": "618-622-0766",
+        "longitude": -90.14887449999999,
+        "latitude": 38.7015611
+      },
+      {
+        "line1": "1100 Main St.",
+        "line3": "Mt. Vernon City Hall",
+        "city": "Mt. Vernon",
+        "state": "IL",
+        "zip": "62864",
+        "phone": "618-513-5294",
+        "longitude": -88.9049835,
+        "latitude": 38.317936
+      },
+      {
+        "line1": "302 West State St.",
+        "city": "O'Fallon",
+        "state": "IL",
+        "zip": "62269",
+        "phone": "618-622-0766",
+        "longitude": -89.9141608,
+        "latitude": 38.5925108
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-5661"
+    ],
+    "emails": [],
+    "urls": [
+      "https://bost.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001295.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepBost"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepBost"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives IL-12",
+      "level": "federal"
+    }
+  }
+]

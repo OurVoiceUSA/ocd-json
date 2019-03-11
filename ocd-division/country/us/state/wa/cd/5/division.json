@@ -1,1 +1,10 @@
-{"name":"Washington's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives WA-5","level":"federal"}]}
+{
+  "name": "Washington's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives WA-5",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-[{"name":"Pete Aguilar","address":[{"line1":"685 E. Carnegie Dr.","line2":"Suite 100","city":"San Bernardino","state":"CA","zip":"92408","phone":"909-890-4445","longitude":-117.270925,"latitude":34.068627}],"party":"Democratic","phones":["202-225-3201"],"emails":[],"urls":["https://aguilar.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/A000371.jpg","channels":[{"type":"Twitter","id":"reppeteaguilar"},{"type":"Facebook","id":"reppeteaguilar"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-31","level":"federal"}}]
+[
+  {
+    "name": "Pete Aguilar",
+    "address": [
+      {
+        "line1": "685 E. Carnegie Dr.",
+        "line2": "Suite 100",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "phone": "909-890-4445",
+        "longitude": -117.270925,
+        "latitude": 34.068627
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3201"
+    ],
+    "emails": [],
+    "urls": [
+      "https://aguilar.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/A000371.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "reppeteaguilar"
+      },
+      {
+        "type": "Facebook",
+        "id": "reppeteaguilar"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-31",
+      "level": "federal"
+    }
+  }
+]

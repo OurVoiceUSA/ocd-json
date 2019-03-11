@@ -1,1 +1,10 @@
-{"name":"Nebraska's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NE-3","level":"federal"}]}
+{
+  "name": "Nebraska's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NE-3",
+      "level": "federal"
+    }
+  ]
+}

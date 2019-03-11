@@ -1,1 +1,28 @@
-[{"name":"Lori Trahan","address":[],"party":"Democratic","phones":["202-225-3411"],"emails":[],"urls":["https://trahan.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000482.jpg","channels":[{"type":"Twitter","id":"RepLoriTrahan"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MA-3","level":"federal"}}]
+[
+  {
+    "name": "Lori Trahan",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3411"
+    ],
+    "emails": [],
+    "urls": [
+      "https://trahan.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000482.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLoriTrahan"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MA-3",
+      "level": "federal"
+    }
+  }
+]

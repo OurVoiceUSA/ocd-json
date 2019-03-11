@@ -1,1 +1,47 @@
-[{"name":"Alma S. Adams","address":[{"line1":"801 E. Morehead St.","line2":"Suite 150","city":"Charlotte","state":"NC","zip":"28202","phone":"704-344-9950","longitude":-80.8452162,"latitude":35.215055}],"party":"Democratic","phones":["202-225-1510"],"emails":[],"urls":["https://adams.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/A000370.jpg","channels":[{"type":"Twitter","id":"RepAdams"},{"type":"Facebook","id":"CongresswomanAdams"},{"type":"Instagram","id":"repadams"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NC-12","level":"federal"}}]
+[
+  {
+    "name": "Alma S. Adams",
+    "address": [
+      {
+        "line1": "801 E. Morehead St.",
+        "line2": "Suite 150",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "phone": "704-344-9950",
+        "longitude": -80.8452162,
+        "latitude": 35.215055
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-1510"
+    ],
+    "emails": [],
+    "urls": [
+      "https://adams.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/A000370.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAdams"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongresswomanAdams"
+      },
+      {
+        "type": "Instagram",
+        "id": "repadams"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NC-12",
+      "level": "federal"
+    }
+  }
+]

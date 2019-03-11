@@ -1,1 +1,28 @@
-[{"name":"Debra A. Haaland","address":[],"party":"Democratic","phones":["202-225-6316"],"emails":[],"urls":["https://haaland.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/H001080.jpg","channels":[{"type":"Twitter","id":"RepDebHaaland"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NM-1","level":"federal"}}]
+[
+  {
+    "name": "Debra A. Haaland",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-6316"
+    ],
+    "emails": [],
+    "urls": [
+      "https://haaland.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/H001080.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepDebHaaland"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NM-1",
+      "level": "federal"
+    }
+  }
+]

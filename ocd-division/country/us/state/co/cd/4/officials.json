@@ -1,1 +1,57 @@
-[{"name":"Ken Buck","address":[{"line1":"900 Castleton Rd.","line2":"Suite 112","city":"Castle Rock","state":"CO","zip":"80109","phone":"720-639-9165","longitude":-104.8684125,"latitude":39.4092665},{"line1":"1023 39th Ave.","line2":"Unit B","city":"Greeley","state":"CO","zip":"80634","phone":"970-702-2136","longitude":-104.7446355,"latitude":40.4205693}],"party":"Republican","phones":["202-225-4676"],"emails":[],"urls":["https://buck.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001297.jpg","channels":[{"type":"Twitter","id":"RepKenBuck"},{"type":"Facebook","id":"repkenbuck"},{"type":"Instagram","id":"repkenbuck"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CO-4","level":"federal"}}]
+[
+  {
+    "name": "Ken Buck",
+    "address": [
+      {
+        "line1": "900 Castleton Rd.",
+        "line2": "Suite 112",
+        "city": "Castle Rock",
+        "state": "CO",
+        "zip": "80109",
+        "phone": "720-639-9165",
+        "longitude": -104.8684125,
+        "latitude": 39.4092665
+      },
+      {
+        "line1": "1023 39th Ave.",
+        "line2": "Unit B",
+        "city": "Greeley",
+        "state": "CO",
+        "zip": "80634",
+        "phone": "970-702-2136",
+        "longitude": -104.7446355,
+        "latitude": 40.4205693
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4676"
+    ],
+    "emails": [],
+    "urls": [
+      "https://buck.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001297.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepKenBuck"
+      },
+      {
+        "type": "Facebook",
+        "id": "repkenbuck"
+      },
+      {
+        "type": "Instagram",
+        "id": "repkenbuck"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CO-4",
+      "level": "federal"
+    }
+  }
+]

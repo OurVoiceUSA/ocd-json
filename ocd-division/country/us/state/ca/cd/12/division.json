@@ -1,1 +1,10 @@
-{"name":"California's 12th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CA-12","level":"federal"}]}
+{
+  "name": "California's 12th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CA-12",
+      "level": "federal"
+    }
+  ]
+}

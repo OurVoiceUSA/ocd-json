@@ -1,1 +1,28 @@
-[{"name":"Gil Cisneros","address":[],"party":"Democratic","phones":["202-225-4111"],"emails":[],"urls":["https://cisneros.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001123.jpg","channels":[{"type":"Twitter","id":"RepGilCisneros"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-39","level":"federal"}}]
+[
+  {
+    "name": "Gil Cisneros",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4111"
+    ],
+    "emails": [],
+    "urls": [
+      "https://cisneros.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001123.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepGilCisneros"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-39",
+      "level": "federal"
+    }
+  }
+]

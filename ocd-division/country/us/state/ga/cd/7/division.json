@@ -1,1 +1,10 @@
-{"name":"Georgia's 7th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-7","level":"federal"}]}
+{
+  "name": "Georgia's 7th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-7",
+      "level": "federal"
+    }
+  ]
+}

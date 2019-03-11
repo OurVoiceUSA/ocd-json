@@ -1,1 +1,71 @@
-[{"name":"Paul Tonko","address":[{"line1":"19 Dove St.","line2":"Suite 302","city":"Albany","state":"NY","zip":"12210","phone":"518-465-0700","longitude":-73.7616111,"latitude":42.6553697},{"line1":"61 Church St.","line2":"Room 309","city":"Amsterdam","state":"NY","zip":"12010","phone":"518-843-3400","longitude":-74.1884752,"latitude":42.9387067},{"line1":"105 Jay St.","line2":"Room 15","city":"Schenectady","state":"NY","zip":"12305","phone":"518-374-4547","longitude":-73.9398087,"latitude":42.8143015}],"party":"Democratic","phones":["202-225-5076"],"emails":[],"urls":["https://tonko.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000469.jpg","channels":[{"type":"Twitter","id":"RepPaulTonko"},{"type":"Facebook","id":"reppaultonko"},{"type":"YouTube","id":"reppaultonko"},{"type":"Instagram","id":"reppaultonko"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-20","level":"federal"}}]
+[
+  {
+    "name": "Paul Tonko",
+    "address": [
+      {
+        "line1": "19 Dove St.",
+        "line2": "Suite 302",
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12210",
+        "phone": "518-465-0700",
+        "longitude": -73.7616111,
+        "latitude": 42.6553697
+      },
+      {
+        "line1": "61 Church St.",
+        "line2": "Room 309",
+        "city": "Amsterdam",
+        "state": "NY",
+        "zip": "12010",
+        "phone": "518-843-3400",
+        "longitude": -74.1884752,
+        "latitude": 42.9387067
+      },
+      {
+        "line1": "105 Jay St.",
+        "line2": "Room 15",
+        "city": "Schenectady",
+        "state": "NY",
+        "zip": "12305",
+        "phone": "518-374-4547",
+        "longitude": -73.9398087,
+        "latitude": 42.8143015
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5076"
+    ],
+    "emails": [],
+    "urls": [
+      "https://tonko.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000469.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepPaulTonko"
+      },
+      {
+        "type": "Facebook",
+        "id": "reppaultonko"
+      },
+      {
+        "type": "YouTube",
+        "id": "reppaultonko"
+      },
+      {
+        "type": "Instagram",
+        "id": "reppaultonko"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-20",
+      "level": "federal"
+    }
+  }
+]

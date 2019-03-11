@@ -1,1 +1,10 @@
-{"name":"Florida's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives FL-3","level":"federal"}]}
+{
+  "name": "Florida's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives FL-3",
+      "level": "federal"
+    }
+  ]
+}

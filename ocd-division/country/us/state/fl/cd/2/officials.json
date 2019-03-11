@@ -1,1 +1,52 @@
-[{"name":"Neal P. Dunn","address":[{"line1":"840 W. 11th St.","line2":"Suite 2250","city":"Panama City","state":"FL","zip":"32401","phone":"850-785-0812","longitude":-85.67189499999999,"latitude":30.167961},{"line1":"300 S. Adams St.","city":"Tallahassee","state":"FL","zip":"32301","phone":"850-891-8610","longitude":-84.2826688,"latitude":30.4395286}],"party":"Republican","phones":["202-225-5235"],"emails":[],"urls":["https://dunn.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000628.jpg","channels":[{"type":"Twitter","id":"drnealdunnfl2"},{"type":"Facebook","id":"drnealdunnfl2"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-2","level":"federal"}}]
+[
+  {
+    "name": "Neal P. Dunn",
+    "address": [
+      {
+        "line1": "840 W. 11th St.",
+        "line2": "Suite 2250",
+        "city": "Panama City",
+        "state": "FL",
+        "zip": "32401",
+        "phone": "850-785-0812",
+        "longitude": -85.67189499999999,
+        "latitude": 30.167961
+      },
+      {
+        "line1": "300 S. Adams St.",
+        "city": "Tallahassee",
+        "state": "FL",
+        "zip": "32301",
+        "phone": "850-891-8610",
+        "longitude": -84.2826688,
+        "latitude": 30.4395286
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-5235"
+    ],
+    "emails": [],
+    "urls": [
+      "https://dunn.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000628.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "drnealdunnfl2"
+      },
+      {
+        "type": "Facebook",
+        "id": "drnealdunnfl2"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-2",
+      "level": "federal"
+    }
+  }
+]

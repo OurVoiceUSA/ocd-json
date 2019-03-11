@@ -1,1 +1,10 @@
-{"name":"Iowa's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IA-3","level":"federal"}]}
+{
+  "name": "Iowa's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IA-3",
+      "level": "federal"
+    }
+  ]
+}

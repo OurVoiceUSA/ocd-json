@@ -1,1 +1,70 @@
-[{"name":"Robert J. Wittman","address":[{"line1":"6501 Mechanicsville Tpke","line2":"Suite 102","city":"Mechanicsville","state":"VA","zip":"23111","phone":"804-730-6595","longitude":-77.3335134,"latitude":37.6130093},{"line1":"95 Dunn Dr.","line2":"Suite 201","city":"Stafford","state":"VA","zip":"22556","phone":"540-659-2734","longitude":-77.4211435,"latitude":38.4781455},{"line1":"508 Church Lane","city":"Tappahannock","state":"VA","zip":"22560","phone":"804-443-0668","longitude":-76.8625874,"latitude":37.9307412}],"party":"Republican","phones":["202-225-4261"],"emails":[],"urls":["https://wittman.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000804.jpg","channels":[{"type":"Twitter","id":"RobWittman"},{"type":"Facebook","id":"RepRobWittman"},{"type":"YouTube","id":"RobWittman"},{"type":"Instagram","id":"reprobwittman"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives VA-1","level":"federal"}}]
+[
+  {
+    "name": "Robert J. Wittman",
+    "address": [
+      {
+        "line1": "6501 Mechanicsville Tpke",
+        "line2": "Suite 102",
+        "city": "Mechanicsville",
+        "state": "VA",
+        "zip": "23111",
+        "phone": "804-730-6595",
+        "longitude": -77.3335134,
+        "latitude": 37.6130093
+      },
+      {
+        "line1": "95 Dunn Dr.",
+        "line2": "Suite 201",
+        "city": "Stafford",
+        "state": "VA",
+        "zip": "22556",
+        "phone": "540-659-2734",
+        "longitude": -77.4211435,
+        "latitude": 38.4781455
+      },
+      {
+        "line1": "508 Church Lane",
+        "city": "Tappahannock",
+        "state": "VA",
+        "zip": "22560",
+        "phone": "804-443-0668",
+        "longitude": -76.8625874,
+        "latitude": 37.9307412
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4261"
+    ],
+    "emails": [],
+    "urls": [
+      "https://wittman.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000804.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RobWittman"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepRobWittman"
+      },
+      {
+        "type": "YouTube",
+        "id": "RobWittman"
+      },
+      {
+        "type": "Instagram",
+        "id": "reprobwittman"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives VA-1",
+      "level": "federal"
+    }
+  }
+]

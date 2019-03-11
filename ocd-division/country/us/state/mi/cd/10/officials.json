@@ -1,1 +1,46 @@
-[{"name":"Paul Mitchell","address":[{"line1":"48701 Van Dyke Avenue","city":"Shelby Township","state":"MI","zip":"48317","phone":"586-997-5010","longitude":-83.033869,"latitude":42.653045}],"party":"Republican","phones":["202-225-2106"],"emails":[],"urls":["https://mitchell.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001201.jpg","channels":[{"type":"Twitter","id":"RepPaulMitchell"},{"type":"Facebook","id":"reppaulmitchell"},{"type":"Instagram","id":"reppaulmitchell"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MI-10","level":"federal"}}]
+[
+  {
+    "name": "Paul Mitchell",
+    "address": [
+      {
+        "line1": "48701 Van Dyke Avenue",
+        "city": "Shelby Township",
+        "state": "MI",
+        "zip": "48317",
+        "phone": "586-997-5010",
+        "longitude": -83.033869,
+        "latitude": 42.653045
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2106"
+    ],
+    "emails": [],
+    "urls": [
+      "https://mitchell.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001201.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepPaulMitchell"
+      },
+      {
+        "type": "Facebook",
+        "id": "reppaulmitchell"
+      },
+      {
+        "type": "Instagram",
+        "id": "reppaulmitchell"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MI-10",
+      "level": "federal"
+    }
+  }
+]

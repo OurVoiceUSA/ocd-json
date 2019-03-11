@@ -1,1 +1,10 @@
-{"name":"Georgia's 13th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-13","level":"federal"}]}
+{
+  "name": "Georgia's 13th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-13",
+      "level": "federal"
+    }
+  ]
+}

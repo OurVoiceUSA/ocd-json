@@ -1,1 +1,10 @@
-{"name":"New Mexico's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NM-3","level":"federal"}]}
+{
+  "name": "New Mexico's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NM-3",
+      "level": "federal"
+    }
+  ]
+}

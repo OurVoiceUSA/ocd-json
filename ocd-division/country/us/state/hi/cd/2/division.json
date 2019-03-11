@@ -1,1 +1,10 @@
-{"name":"Hawaii's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives HI-2","level":"federal"}]}
+{
+  "name": "Hawaii's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives HI-2",
+      "level": "federal"
+    }
+  ]
+}

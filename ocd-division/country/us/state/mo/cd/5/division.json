@@ -1,1 +1,10 @@
-{"name":"Missouri's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MO-5","level":"federal"}]}
+{
+  "name": "Missouri's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MO-5",
+      "level": "federal"
+    }
+  ]
+}

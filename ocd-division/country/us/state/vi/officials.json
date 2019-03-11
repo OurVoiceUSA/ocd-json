@@ -1,1 +1,56 @@
-[{"name":"Stacey E. Plaskett","address":[{"line1":"60 King St.","city":"Frederiksted","state":"VI","zip":"00840","phone":"340-778-5900","longitude":-64.882701,"latitude":17.712475},{"line1":"9100 Port Of Sale Mall","line2":"Suite 22","city":"St. Thomas","state":"VI","zip":"00802","phone":"340-774-4408","longitude":-64.919169,"latitude":18.334264}],"party":"Democratic","phones":["202-225-1790"],"emails":[],"urls":["https://plaskett.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/P000610.jpg","channels":[{"type":"Twitter","id":"staceyplaskett"},{"type":"Facebook","id":"repstaceyplaskett"},{"type":"Instagram","id":"stacey_plaskett"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives","level":"federal"}}]
+[
+  {
+    "name": "Stacey E. Plaskett",
+    "address": [
+      {
+        "line1": "60 King St.",
+        "city": "Frederiksted",
+        "state": "VI",
+        "zip": "00840",
+        "phone": "340-778-5900",
+        "longitude": -64.882701,
+        "latitude": 17.712475
+      },
+      {
+        "line1": "9100 Port Of Sale Mall",
+        "line2": "Suite 22",
+        "city": "St. Thomas",
+        "state": "VI",
+        "zip": "00802",
+        "phone": "340-774-4408",
+        "longitude": -64.919169,
+        "latitude": 18.334264
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-1790"
+    ],
+    "emails": [],
+    "urls": [
+      "https://plaskett.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/P000610.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "staceyplaskett"
+      },
+      {
+        "type": "Facebook",
+        "id": "repstaceyplaskett"
+      },
+      {
+        "type": "Instagram",
+        "id": "stacey_plaskett"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives",
+      "level": "federal"
+    }
+  }
+]

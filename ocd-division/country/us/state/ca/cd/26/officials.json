@@ -1,1 +1,57 @@
-[{"name":"Julia Brownley","address":[{"line1":"201 East Fourth St.","line2":"Suite 209B","city":"Oxnard","state":"CA","zip":"93030","phone":"805-379-1779","longitude":-119.1783991,"latitude":34.1993342},{"line1":"223 E. Thousand Oaks Blvd.","line2":"Suite 220","city":"Thousand Oaks","state":"CA","zip":"91360","phone":"805-379-1779","longitude":-118.8726791,"latitude":34.1794905}],"party":"Democratic","phones":["202-225-5811"],"emails":[],"urls":["https://juliabrownley.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001285.jpg","channels":[{"type":"Twitter","id":"JuliaBrownley26"},{"type":"Facebook","id":"RepJuliaBrownley"},{"type":"YouTube","id":"RepJuliaBrownley"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-26","level":"federal"}}]
+[
+  {
+    "name": "Julia Brownley",
+    "address": [
+      {
+        "line1": "201 East Fourth St.",
+        "line2": "Suite 209B",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93030",
+        "phone": "805-379-1779",
+        "longitude": -119.1783991,
+        "latitude": 34.1993342
+      },
+      {
+        "line1": "223 E. Thousand Oaks Blvd.",
+        "line2": "Suite 220",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zip": "91360",
+        "phone": "805-379-1779",
+        "longitude": -118.8726791,
+        "latitude": 34.1794905
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5811"
+    ],
+    "emails": [],
+    "urls": [
+      "https://juliabrownley.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001285.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "JuliaBrownley26"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepJuliaBrownley"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepJuliaBrownley"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-26",
+      "level": "federal"
+    }
+  }
+]

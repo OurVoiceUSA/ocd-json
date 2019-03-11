@@ -1,1 +1,28 @@
-[{"name":"Chrissy Houlahan","address":[],"party":"Democratic","phones":["202-225-4315"],"emails":[],"urls":["https://houlahan.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/H001085.jpg","channels":[{"type":"Twitter","id":"RepHoulahan"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives PA-6","level":"federal"}}]
+[
+  {
+    "name": "Chrissy Houlahan",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4315"
+    ],
+    "emails": [],
+    "urls": [
+      "https://houlahan.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/H001085.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepHoulahan"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives PA-6",
+      "level": "federal"
+    }
+  }
+]

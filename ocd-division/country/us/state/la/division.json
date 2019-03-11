@@ -1,1 +1,14 @@
-{"name":"Louisiana","scope":"statewide","offices":[{"name":"United States Senate","level":"federal"},{"name":"Governor","level":"state"}]}
+{
+  "name": "Louisiana",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States Senate",
+      "level": "federal"
+    },
+    {
+      "name": "Governor",
+      "level": "state"
+    }
+  ]
+}

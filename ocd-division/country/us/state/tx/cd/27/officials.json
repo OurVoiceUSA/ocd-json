@@ -1,1 +1,49 @@
-[{"name":"Michael Cloud","address":[{"line1":"101 N. Shoreline Blvd.","line2":"Suite 300","city":"Corpus Christi","state":"TX","zip":"78401","phone":"361-884-2222","longitude":-97.3931982,"latitude":27.7917948},{"line1":"5606 N. Navarro St.","line2":"Suite 203","city":"Victoria","state":"TX","zip":"77904","phone":"361-894-6446","longitude":-96.9978986,"latitude":28.8476874}],"party":"Republican","phones":["202-225-7742"],"emails":[],"urls":["https://cloud.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001115.jpg","channels":[{"type":"Twitter","id":"RepCloudTX"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-27","level":"federal"}}]
+[
+  {
+    "name": "Michael Cloud",
+    "address": [
+      {
+        "line1": "101 N. Shoreline Blvd.",
+        "line2": "Suite 300",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "zip": "78401",
+        "phone": "361-884-2222",
+        "longitude": -97.3931982,
+        "latitude": 27.7917948
+      },
+      {
+        "line1": "5606 N. Navarro St.",
+        "line2": "Suite 203",
+        "city": "Victoria",
+        "state": "TX",
+        "zip": "77904",
+        "phone": "361-894-6446",
+        "longitude": -96.9978986,
+        "latitude": 28.8476874
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-7742"
+    ],
+    "emails": [],
+    "urls": [
+      "https://cloud.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001115.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepCloudTX"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-27",
+      "level": "federal"
+    }
+  }
+]

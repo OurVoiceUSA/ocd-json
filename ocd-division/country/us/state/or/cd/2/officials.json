@@ -1,1 +1,70 @@
-[{"name":"Greg Walden","address":[{"line1":"1051 NW. Bond St.","line2":"Suite 400","city":"Bend","state":"OR","zip":"97701","phone":"541-389-4408","longitude":-121.3117677,"latitude":44.0598422},{"line1":"1211 Washington Ave.","city":"La Grande","state":"OR","zip":"97850","phone":"541-624-2400","longitude":-118.0948731,"latitude":45.3276926},{"line1":"14 N. Central Ave.","line2":"Suite 112","city":"Medford","state":"OR","zip":"97501","phone":"541-776-4646","longitude":-122.8722747,"latitude":42.3270103}],"party":"Republican","phones":["202-225-6730"],"emails":[],"urls":["https://walden.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000791.jpg","channels":[{"type":"Twitter","id":"RepGregWalden"},{"type":"Facebook","id":"repgregwalden"},{"type":"YouTube","id":"RepGregWalden"},{"type":"Instagram","id":"repgregwalden"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives OR-2","level":"federal"}}]
+[
+  {
+    "name": "Greg Walden",
+    "address": [
+      {
+        "line1": "1051 NW. Bond St.",
+        "line2": "Suite 400",
+        "city": "Bend",
+        "state": "OR",
+        "zip": "97701",
+        "phone": "541-389-4408",
+        "longitude": -121.3117677,
+        "latitude": 44.0598422
+      },
+      {
+        "line1": "1211 Washington Ave.",
+        "city": "La Grande",
+        "state": "OR",
+        "zip": "97850",
+        "phone": "541-624-2400",
+        "longitude": -118.0948731,
+        "latitude": 45.3276926
+      },
+      {
+        "line1": "14 N. Central Ave.",
+        "line2": "Suite 112",
+        "city": "Medford",
+        "state": "OR",
+        "zip": "97501",
+        "phone": "541-776-4646",
+        "longitude": -122.8722747,
+        "latitude": 42.3270103
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-6730"
+    ],
+    "emails": [],
+    "urls": [
+      "https://walden.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000791.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepGregWalden"
+      },
+      {
+        "type": "Facebook",
+        "id": "repgregwalden"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepGregWalden"
+      },
+      {
+        "type": "Instagram",
+        "id": "repgregwalden"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives OR-2",
+      "level": "federal"
+    }
+  }
+]

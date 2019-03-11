@@ -1,1 +1,66 @@
-[{"name":"Warren Davidson","address":[{"line1":"76 E. High St.","line2":"3rd Floor","city":"Springfield","state":"OH","zip":"45502","phone":"937-322-1120","longitude":-83.80971939999999,"latitude":39.9237363},{"line1":"20 Dotcom Drive","city":"Troy","state":"OH","zip":"45373","phone":"937-339-1524","longitude":-84.2463325,"latitude":40.0578289},{"line1":"8857 Cincinnati-Dayton Rd.","line2":"Suite #102","city":"West Chester","state":"OH","zip":"45069","phone":"513-779-5400","longitude":-84.4066223,"latitude":39.33175850000001}],"party":"Republican","phones":["202-225-6205"],"emails":[],"urls":["https://davidson.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000626.jpg","channels":[{"type":"Twitter","id":"WarrenDavidson"},{"type":"Facebook","id":"CongressmanWarrenDavidson"},{"type":"Instagram","id":"instawarrendavidson"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives OH-8","level":"federal"}}]
+[
+  {
+    "name": "Warren Davidson",
+    "address": [
+      {
+        "line1": "76 E. High St.",
+        "line2": "3rd Floor",
+        "city": "Springfield",
+        "state": "OH",
+        "zip": "45502",
+        "phone": "937-322-1120",
+        "longitude": -83.80971939999999,
+        "latitude": 39.9237363
+      },
+      {
+        "line1": "20 Dotcom Drive",
+        "city": "Troy",
+        "state": "OH",
+        "zip": "45373",
+        "phone": "937-339-1524",
+        "longitude": -84.2463325,
+        "latitude": 40.0578289
+      },
+      {
+        "line1": "8857 Cincinnati-Dayton Rd.",
+        "line2": "Suite #102",
+        "city": "West Chester",
+        "state": "OH",
+        "zip": "45069",
+        "phone": "513-779-5400",
+        "longitude": -84.4066223,
+        "latitude": 39.33175850000001
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-6205"
+    ],
+    "emails": [],
+    "urls": [
+      "https://davidson.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000626.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "WarrenDavidson"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanWarrenDavidson"
+      },
+      {
+        "type": "Instagram",
+        "id": "instawarrendavidson"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives OH-8",
+      "level": "federal"
+    }
+  }
+]

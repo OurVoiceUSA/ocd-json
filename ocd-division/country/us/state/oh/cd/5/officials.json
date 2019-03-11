@@ -1,1 +1,71 @@
-[{"name":"Robert E. Latta","address":[{"line1":"1045 N. Main St.","line2":"Suite 6","city":"Bowling Green","state":"OH","zip":"43402","phone":"419-354-8700","longitude":-83.65120619999999,"latitude":41.3891803},{"line1":"101 Clinton St.","line2":"Suite 1200","city":"Defiance","state":"OH","zip":"43512","phone":"419-782-1996","longitude":-84.36089869999999,"latitude":41.2881704},{"line1":"318 Dorney Plz.","line2":"Room 302","city":"Findlay","state":"OH","zip":"45840","phone":"419-422-7791","longitude":-83.6516735,"latitude":41.038435}],"party":"Republican","phones":["202-225-6405"],"emails":[],"urls":["https://latta.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000566.jpg","channels":[{"type":"Twitter","id":"BobLatta"},{"type":"Facebook","id":"boblatta"},{"type":"YouTube","id":"CongressmanBobLatta"},{"type":"Instagram","id":"boblatta"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives OH-5","level":"federal"}}]
+[
+  {
+    "name": "Robert E. Latta",
+    "address": [
+      {
+        "line1": "1045 N. Main St.",
+        "line2": "Suite 6",
+        "city": "Bowling Green",
+        "state": "OH",
+        "zip": "43402",
+        "phone": "419-354-8700",
+        "longitude": -83.65120619999999,
+        "latitude": 41.3891803
+      },
+      {
+        "line1": "101 Clinton St.",
+        "line2": "Suite 1200",
+        "city": "Defiance",
+        "state": "OH",
+        "zip": "43512",
+        "phone": "419-782-1996",
+        "longitude": -84.36089869999999,
+        "latitude": 41.2881704
+      },
+      {
+        "line1": "318 Dorney Plz.",
+        "line2": "Room 302",
+        "city": "Findlay",
+        "state": "OH",
+        "zip": "45840",
+        "phone": "419-422-7791",
+        "longitude": -83.6516735,
+        "latitude": 41.038435
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-6405"
+    ],
+    "emails": [],
+    "urls": [
+      "https://latta.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000566.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "BobLatta"
+      },
+      {
+        "type": "Facebook",
+        "id": "boblatta"
+      },
+      {
+        "type": "YouTube",
+        "id": "CongressmanBobLatta"
+      },
+      {
+        "type": "Instagram",
+        "id": "boblatta"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives OH-5",
+      "level": "federal"
+    }
+  }
+]

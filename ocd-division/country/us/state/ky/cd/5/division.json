@@ -1,1 +1,10 @@
-{"name":"Kentucky's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives KY-5","level":"federal"}]}
+{
+  "name": "Kentucky's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives KY-5",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,10 @@
-{"name":"District of Columbia","scope":"statewide","offices":[{"name":"United States House of Representatives","level":"federal"}]}
+{
+  "name": "District of Columbia",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States House of Representatives",
+      "level": "federal"
+    }
+  ]
+}

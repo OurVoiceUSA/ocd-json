@@ -1,1 +1,10 @@
-{"name":"Pennsylvania's 18th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives PA-18","level":"federal"}]}
+{
+  "name": "Pennsylvania's 18th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives PA-18",
+      "level": "federal"
+    }
+  ]
+}

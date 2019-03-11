@@ -1,1 +1,10 @@
-{"name":"Virginia's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives VA-2","level":"federal"}]}
+{
+  "name": "Virginia's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives VA-2",
+      "level": "federal"
+    }
+  ]
+}

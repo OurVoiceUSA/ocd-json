@@ -1,1 +1,10 @@
-{"name":"Texas's 21st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-21","level":"federal"}]}
+{
+  "name": "Texas's 21st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-21",
+      "level": "federal"
+    }
+  ]
+}

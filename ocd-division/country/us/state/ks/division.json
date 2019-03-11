@@ -1,1 +1,14 @@
-{"name":"Kansas","scope":"statewide","offices":[{"name":"United States Senate","level":"federal"},{"name":"Governor","level":"state"}]}
+{
+  "name": "Kansas",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States Senate",
+      "level": "federal"
+    },
+    {
+      "name": "Governor",
+      "level": "state"
+    }
+  ]
+}

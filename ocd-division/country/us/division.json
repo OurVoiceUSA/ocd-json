@@ -1,1 +1,14 @@
-{"name":"United States","scope":"national","offices":[{"name":"President","level":"federal"},{"name":"Vice President","level":"federal"}]}
+{
+  "name": "United States",
+  "scope": "national",
+  "offices": [
+    {
+      "name": "President",
+      "level": "federal"
+    },
+    {
+      "name": "Vice President",
+      "level": "federal"
+    }
+  ]
+}

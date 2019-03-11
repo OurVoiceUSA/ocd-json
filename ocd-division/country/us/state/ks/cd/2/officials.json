@@ -1,1 +1,28 @@
-[{"name":"Steven C. Watkins, Jr.","address":[],"party":"Republican","phones":["202-225-6601"],"emails":[],"urls":["https://watkins.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000824.jpg","channels":[{"type":"Twitter","id":"Rep_Watkins"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives KS-2","level":"federal"}}]
+[
+  {
+    "name": "Steven C. Watkins, Jr.",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-6601"
+    ],
+    "emails": [],
+    "urls": [
+      "https://watkins.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000824.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "Rep_Watkins"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives KS-2",
+      "level": "federal"
+    }
+  }
+]

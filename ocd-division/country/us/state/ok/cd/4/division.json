@@ -1,1 +1,10 @@
-{"name":"Oklahoma's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives OK-4","level":"federal"}]}
+{
+  "name": "Oklahoma's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives OK-4",
+      "level": "federal"
+    }
+  ]
+}

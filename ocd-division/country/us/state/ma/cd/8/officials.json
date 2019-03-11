@@ -1,1 +1,71 @@
-[{"name":"Stephen F. Lynch","address":[{"line1":"One Harbor Street","line2":"Suite 304","city":"Boston","state":"MA","zip":"02210","phone":"617-428-2000","longitude":-71.035511,"latitude":42.3455095},{"line1":"37 Belmont Street","line2":"2nd Floor, Suite 3","city":"Brockton","state":"MA","zip":"02301","phone":"508-586-5555","longitude":-71.023661,"latitude":42.080643},{"line1":"1245 Hancock St.","line2":"Suite 41","city":"Quincy","state":"MA","zip":"02169","phone":"617-657-6305","longitude":-71.0049509,"latitude":42.2526962}],"party":"Democratic","phones":["202-225-8273"],"emails":[],"urls":["https://lynch.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000562.jpg","channels":[{"type":"Twitter","id":"RepStephenLynch"},{"type":"Facebook","id":"repstephenlynch"},{"type":"YouTube","id":"RepLynch"},{"type":"Instagram","id":"repstephenlynch"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MA-8","level":"federal"}}]
+[
+  {
+    "name": "Stephen F. Lynch",
+    "address": [
+      {
+        "line1": "One Harbor Street",
+        "line2": "Suite 304",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02210",
+        "phone": "617-428-2000",
+        "longitude": -71.035511,
+        "latitude": 42.3455095
+      },
+      {
+        "line1": "37 Belmont Street",
+        "line2": "2nd Floor, Suite 3",
+        "city": "Brockton",
+        "state": "MA",
+        "zip": "02301",
+        "phone": "508-586-5555",
+        "longitude": -71.023661,
+        "latitude": 42.080643
+      },
+      {
+        "line1": "1245 Hancock St.",
+        "line2": "Suite 41",
+        "city": "Quincy",
+        "state": "MA",
+        "zip": "02169",
+        "phone": "617-657-6305",
+        "longitude": -71.0049509,
+        "latitude": 42.2526962
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-8273"
+    ],
+    "emails": [],
+    "urls": [
+      "https://lynch.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000562.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepStephenLynch"
+      },
+      {
+        "type": "Facebook",
+        "id": "repstephenlynch"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepLynch"
+      },
+      {
+        "type": "Instagram",
+        "id": "repstephenlynch"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MA-8",
+      "level": "federal"
+    }
+  }
+]

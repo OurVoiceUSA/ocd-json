@@ -1,1 +1,59 @@
-[{"name":"Mike Quigley","address":[{"line1":"4345 N. Milwaukee Ave.","city":"Chicago","state":"IL","zip":"60641","phone":"773-267-5926","longitude":-87.7536327,"latitude":41.9600352},{"line1":"3223 N. Sheffield Ave.","city":"Chicago","state":"IL","zip":"60657","phone":"773-267-5926","longitude":-87.6538984,"latitude":41.94076279999999}],"party":"Democratic","phones":["202-225-4061"],"emails":[],"urls":["https://quigley.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/Q000023.jpg","channels":[{"type":"Twitter","id":"RepMikeQuigley"},{"type":"Facebook","id":"repmikequigley"},{"type":"YouTube","id":"RepMikeQuigley"},{"type":"Instagram","id":"repmikequigley"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives IL-5","level":"federal"}}]
+[
+  {
+    "name": "Mike Quigley",
+    "address": [
+      {
+        "line1": "4345 N. Milwaukee Ave.",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60641",
+        "phone": "773-267-5926",
+        "longitude": -87.7536327,
+        "latitude": 41.9600352
+      },
+      {
+        "line1": "3223 N. Sheffield Ave.",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60657",
+        "phone": "773-267-5926",
+        "longitude": -87.6538984,
+        "latitude": 41.94076279999999
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4061"
+    ],
+    "emails": [],
+    "urls": [
+      "https://quigley.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/Q000023.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMikeQuigley"
+      },
+      {
+        "type": "Facebook",
+        "id": "repmikequigley"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepMikeQuigley"
+      },
+      {
+        "type": "Instagram",
+        "id": "repmikequigley"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives IL-5",
+      "level": "federal"
+    }
+  }
+]

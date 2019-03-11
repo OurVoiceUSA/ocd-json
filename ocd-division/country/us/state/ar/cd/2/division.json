@@ -1,1 +1,10 @@
-{"name":"Arkansas's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives AR-2","level":"federal"}]}
+{
+  "name": "Arkansas's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives AR-2",
+      "level": "federal"
+    }
+  ]
+}

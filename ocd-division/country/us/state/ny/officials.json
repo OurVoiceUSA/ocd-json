@@ -1,1 +1,261 @@
-[{"name":"Kirsten E. Gillibrand","address":[{"line1":"11A Clinton Avenue","line2":"Room 821","line3":"Leo W. O’Brien Federal Office Building","city":"Albany","state":"NY","zip":"12207","phone":"518-431-0120","longitude":-73.7492819,"latitude":42.655222},{"line1":"726 Exchange St.","line2":"Suite 511","line3":"Larkin At Exchange","city":"Buffalo","state":"NY","zip":"14210","phone":"716-854-9725","longitude":-78.851165,"latitude":42.8747911},{"line1":"PO Box 273","city":"Lowville","state":"NY","zip":"13367","phone":"315-376-6118"},{"line1":"PO Box 893","city":"Mahopac","state":"NY","zip":"10541","phone":"845-875-4585"},{"line1":"780 Third Ave.","line2":"Suite 2601","city":"New York","state":"NY","zip":"10017","phone":"212-688-6262","longitude":-73.97185879999999,"latitude":40.7550353},{"line1":"155 Pinelawn Rd.","line2":"Suite 250 North","city":"Melville","state":"NY","zip":"11747","phone":"631-249-2825","longitude":-73.41024759999999,"latitude":40.7707877},{"line1":"100 State St.","line2":"Room 4195","line3":"Kenneth B. Keating Federal Office Building","city":"Rochester","state":"NY","zip":"14614","phone":"585-263-6250","longitude":-77.613515,"latitude":43.1576631},{"line1":"100 S. Clinton St.","line2":"Room 1470","line3":"James M. Hanley Federal Building","city":"Syracuse","state":"NY","zip":"13261","phone":"315-448-0470","longitude":-76.1543204,"latitude":43.0501042}],"party":"Democratic","phones":["202-224-4451"],"emails":[],"urls":["https://www.gillibrand.senate.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/G000555.jpg","channels":[{"type":"Twitter","id":"GillibrandNY"},{"type":"Facebook","id":"SenKirstenGillibrand"},{"type":"YouTube","id":"KirstenEGillibrand"}],"sources":["theunitedstates.io"],"office":{"name":"United States Senate","level":"federal"}},{"name":"Charles E. Schumer","address":[{"line1":"100 State St.","line2":"Room 3040","city":"Rochester","state":"NY","zip":"14614","phone":"585-263-5866","longitude":-77.613515,"latitude":43.1576631},{"line1":"1 Clinton Ave.","line2":"Room 420","line3":"Leo O'Brien Building","city":"Albany","state":"NY","zip":"12207","phone":"518-431-4070","longitude":-73.749201,"latitude":42.65513869999999},{"line1":"15 Henry St.","line3":"Room. 100 A-F","city":"Binghamton","state":"NY","zip":"13901","phone":"607-772-6792","longitude":-75.9123579,"latitude":42.1008749},{"line1":"130 S. Elmwood Ave.","line2":"#660","city":"Buffalo","state":"NY","zip":"14202","phone":"716-846-4111","longitude":-78.87954189999999,"latitude":42.88902849999999},{"line1":"145 Pine Lawn Rd.","line2":"Suite 300","city":"Melville","state":"NY","zip":"11747","phone":"631-753-0978","longitude":-73.40787569999999,"latitude":40.7708436},{"line1":"780 Third Ave.","line2":"Suite 2301","city":"New York","state":"NY","zip":"10017","phone":"212-486-4430","longitude":-73.97185879999999,"latitude":40.7550353},{"line1":"One Park Place","line2":"Suite 100","city":"Peekskill","state":"NY","zip":"10566","phone":"914-734-1532","longitude":-73.91672969999999,"latitude":41.29051020000001},{"line1":"100 S. Clinton St.","line2":"Room 841","city":"Syracuse","state":"NY","zip":"13261","phone":"315-423-5471","longitude":-76.1543204,"latitude":43.0501042}],"party":"Democratic","phones":["202-224-6542"],"emails":[],"urls":["https://www.schumer.senate.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S000148.jpg","channels":[{"type":"Twitter","id":"SenSchumer"},{"type":"Facebook","id":"senschumer"},{"type":"YouTube","id":"SenatorSchumer"}],"sources":["theunitedstates.io"],"office":{"name":"United States Senate","level":"federal"}},{"name":"Andrew Cuomo","address":[],"party":"Democratic","phones":["518-474-8390"],"emails":[],"urls":["http://www.governor.ny.gov/"],"photoUrl":"https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg","channels":[{"type":"Facebook","id":"GovernorAndrewCuomo"},{"type":"Twitter","id":"nygovcuomo"}],"sources":["civil.services"],"office":{"name":"Governor","level":"state"}}]
+[
+  {
+    "name": "Kirsten E. Gillibrand",
+    "address": [
+      {
+        "line1": "11A Clinton Avenue",
+        "line2": "Room 821",
+        "line3": "Leo W. O’Brien Federal Office Building",
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12207",
+        "phone": "518-431-0120",
+        "longitude": -73.7492819,
+        "latitude": 42.655222
+      },
+      {
+        "line1": "726 Exchange St.",
+        "line2": "Suite 511",
+        "line3": "Larkin At Exchange",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14210",
+        "phone": "716-854-9725",
+        "longitude": -78.851165,
+        "latitude": 42.8747911
+      },
+      {
+        "line1": "PO Box 273",
+        "city": "Lowville",
+        "state": "NY",
+        "zip": "13367",
+        "phone": "315-376-6118"
+      },
+      {
+        "line1": "PO Box 893",
+        "city": "Mahopac",
+        "state": "NY",
+        "zip": "10541",
+        "phone": "845-875-4585"
+      },
+      {
+        "line1": "780 Third Ave.",
+        "line2": "Suite 2601",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10017",
+        "phone": "212-688-6262",
+        "longitude": -73.97185879999999,
+        "latitude": 40.7550353
+      },
+      {
+        "line1": "155 Pinelawn Rd.",
+        "line2": "Suite 250 North",
+        "city": "Melville",
+        "state": "NY",
+        "zip": "11747",
+        "phone": "631-249-2825",
+        "longitude": -73.41024759999999,
+        "latitude": 40.7707877
+      },
+      {
+        "line1": "100 State St.",
+        "line2": "Room 4195",
+        "line3": "Kenneth B. Keating Federal Office Building",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14614",
+        "phone": "585-263-6250",
+        "longitude": -77.613515,
+        "latitude": 43.1576631
+      },
+      {
+        "line1": "100 S. Clinton St.",
+        "line2": "Room 1470",
+        "line3": "James M. Hanley Federal Building",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13261",
+        "phone": "315-448-0470",
+        "longitude": -76.1543204,
+        "latitude": 43.0501042
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-224-4451"
+    ],
+    "emails": [],
+    "urls": [
+      "https://www.gillibrand.senate.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/G000555.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "GillibrandNY"
+      },
+      {
+        "type": "Facebook",
+        "id": "SenKirstenGillibrand"
+      },
+      {
+        "type": "YouTube",
+        "id": "KirstenEGillibrand"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States Senate",
+      "level": "federal"
+    }
+  },
+  {
+    "name": "Charles E. Schumer",
+    "address": [
+      {
+        "line1": "100 State St.",
+        "line2": "Room 3040",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14614",
+        "phone": "585-263-5866",
+        "longitude": -77.613515,
+        "latitude": 43.1576631
+      },
+      {
+        "line1": "1 Clinton Ave.",
+        "line2": "Room 420",
+        "line3": "Leo O'Brien Building",
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12207",
+        "phone": "518-431-4070",
+        "longitude": -73.749201,
+        "latitude": 42.65513869999999
+      },
+      {
+        "line1": "15 Henry St.",
+        "line3": "Room. 100 A-F",
+        "city": "Binghamton",
+        "state": "NY",
+        "zip": "13901",
+        "phone": "607-772-6792",
+        "longitude": -75.9123579,
+        "latitude": 42.1008749
+      },
+      {
+        "line1": "130 S. Elmwood Ave.",
+        "line2": "#660",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14202",
+        "phone": "716-846-4111",
+        "longitude": -78.87954189999999,
+        "latitude": 42.88902849999999
+      },
+      {
+        "line1": "145 Pine Lawn Rd.",
+        "line2": "Suite 300",
+        "city": "Melville",
+        "state": "NY",
+        "zip": "11747",
+        "phone": "631-753-0978",
+        "longitude": -73.40787569999999,
+        "latitude": 40.7708436
+      },
+      {
+        "line1": "780 Third Ave.",
+        "line2": "Suite 2301",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10017",
+        "phone": "212-486-4430",
+        "longitude": -73.97185879999999,
+        "latitude": 40.7550353
+      },
+      {
+        "line1": "One Park Place",
+        "line2": "Suite 100",
+        "city": "Peekskill",
+        "state": "NY",
+        "zip": "10566",
+        "phone": "914-734-1532",
+        "longitude": -73.91672969999999,
+        "latitude": 41.29051020000001
+      },
+      {
+        "line1": "100 S. Clinton St.",
+        "line2": "Room 841",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13261",
+        "phone": "315-423-5471",
+        "longitude": -76.1543204,
+        "latitude": 43.0501042
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-224-6542"
+    ],
+    "emails": [],
+    "urls": [
+      "https://www.schumer.senate.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S000148.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "SenSchumer"
+      },
+      {
+        "type": "Facebook",
+        "id": "senschumer"
+      },
+      {
+        "type": "YouTube",
+        "id": "SenatorSchumer"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States Senate",
+      "level": "federal"
+    }
+  },
+  {
+    "name": "Andrew Cuomo",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "518-474-8390"
+    ],
+    "emails": [],
+    "urls": [
+      "http://www.governor.ny.gov/"
+    ],
+    "photoUrl": "https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg",
+    "channels": [
+      {
+        "type": "Facebook",
+        "id": "GovernorAndrewCuomo"
+      },
+      {
+        "type": "Twitter",
+        "id": "nygovcuomo"
+      }
+    ],
+    "sources": [
+      "civil.services"
+    ],
+    "office": {
+      "name": "Governor",
+      "level": "state"
+    }
+  }
+]

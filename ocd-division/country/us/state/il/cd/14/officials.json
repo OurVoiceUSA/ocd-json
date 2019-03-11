@@ -1,1 +1,28 @@
-[{"name":"Lauren Underwood","address":[],"party":"Democratic","phones":["202-225-2976"],"emails":[],"urls":["https://underwood.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/U000040.jpg","channels":[{"type":"Twitter","id":"RepUnderwood"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives IL-14","level":"federal"}}]
+[
+  {
+    "name": "Lauren Underwood",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2976"
+    ],
+    "emails": [],
+    "urls": [
+      "https://underwood.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/U000040.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepUnderwood"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives IL-14",
+      "level": "federal"
+    }
+  }
+]

@@ -51,7 +51,7 @@ async function processAll() {
     };
 
     let file = d.replace(/:/g, '/')+'/division.json';
-    fs.writeFileSync(file, JSON.stringify(division));
+    fs.writeFileSync(file, JSON.stringify(division, null, 2));
   });
 
   // write to officials.json
@@ -65,7 +65,7 @@ async function processAll() {
       pols.push(pol[id])
     });
     let file = d.replace(/:/g, '/')+'/officials.json';
-    fs.writeFileSync(file, JSON.stringify(pols));
+    fs.writeFileSync(file, JSON.stringify(pols, null, 2));
   });
 
   process.exit(0);
@@ -86,7 +86,7 @@ async function processOCDID() {
   const json = csvjson.toObject(csv, {});
 
   json.forEach(j => ocd[j.id] = j.name);
-  fs.writeFileSync('./ocd-country-us.json', JSON.stringify(ocd));
+  fs.writeFileSync('./ocd-country-us.json', JSON.stringify(ocd, null, 2));
 }
 
 async function processUSLC() {

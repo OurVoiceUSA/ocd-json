@@ -1,1 +1,28 @@
-[{"name":"William R. Timmons IV","address":[],"party":"Republican","phones":["202-225-6030"],"emails":[],"urls":["https://timmons.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000480.jpg","channels":[{"type":"Twitter","id":"RepTimmons"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives SC-4","level":"federal"}}]
+[
+  {
+    "name": "William R. Timmons IV",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-6030"
+    ],
+    "emails": [],
+    "urls": [
+      "https://timmons.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000480.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepTimmons"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives SC-4",
+      "level": "federal"
+    }
+  }
+]

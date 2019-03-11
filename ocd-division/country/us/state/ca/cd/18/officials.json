@@ -1,1 +1,50 @@
-[{"name":"Anna G. Eshoo","address":[{"line1":"698 Emerson St.","city":"Palo Alto","state":"CA","zip":"94301","phone":"650-323-2984","longitude":-122.1606451,"latitude":37.4431725}],"party":"Democratic","phones":["202-225-8104"],"emails":[],"urls":["http://eshoo.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/E000215.jpg","channels":[{"type":"Twitter","id":"RepAnnaEshoo"},{"type":"Facebook","id":"RepAnnaEshoo"},{"type":"YouTube","id":"RepAnnaEshoo"},{"type":"Instagram","id":"RepAnnaEshoo"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-18","level":"federal"}}]
+[
+  {
+    "name": "Anna G. Eshoo",
+    "address": [
+      {
+        "line1": "698 Emerson St.",
+        "city": "Palo Alto",
+        "state": "CA",
+        "zip": "94301",
+        "phone": "650-323-2984",
+        "longitude": -122.1606451,
+        "latitude": 37.4431725
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-8104"
+    ],
+    "emails": [],
+    "urls": [
+      "http://eshoo.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/E000215.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAnnaEshoo"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepAnnaEshoo"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepAnnaEshoo"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepAnnaEshoo"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-18",
+      "level": "federal"
+    }
+  }
+]

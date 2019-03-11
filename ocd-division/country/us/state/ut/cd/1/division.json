@@ -1,1 +1,10 @@
-{"name":"Utah's 1st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives UT-1","level":"federal"}]}
+{
+  "name": "Utah's 1st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives UT-1",
+      "level": "federal"
+    }
+  ]
+}

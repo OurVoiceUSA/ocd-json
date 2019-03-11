@@ -1,1 +1,57 @@
-[{"name":"Jim Costa","address":[{"line1":"855 M St.","line2":"Suite 940","city":"Fresno","state":"CA","zip":"93721","phone":"559-495-1620","longitude":-119.7858717,"latitude":36.7345489},{"line1":"2222 M St.","line2":"Suite 305","city":"Merced","state":"CA","zip":"95340","phone":"209-384-1620","longitude":-120.4812216,"latitude":37.3070723}],"party":"Democratic","phones":["202-225-3341"],"emails":[],"urls":["https://costa.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001059.jpg","channels":[{"type":"Twitter","id":"RepJimCosta"},{"type":"Facebook","id":"RepJimCosta"},{"type":"YouTube","id":"RepJimCostaCA20"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-16","level":"federal"}}]
+[
+  {
+    "name": "Jim Costa",
+    "address": [
+      {
+        "line1": "855 M St.",
+        "line2": "Suite 940",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93721",
+        "phone": "559-495-1620",
+        "longitude": -119.7858717,
+        "latitude": 36.7345489
+      },
+      {
+        "line1": "2222 M St.",
+        "line2": "Suite 305",
+        "city": "Merced",
+        "state": "CA",
+        "zip": "95340",
+        "phone": "209-384-1620",
+        "longitude": -120.4812216,
+        "latitude": 37.3070723
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3341"
+    ],
+    "emails": [],
+    "urls": [
+      "https://costa.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001059.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJimCosta"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepJimCosta"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepJimCostaCA20"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-16",
+      "level": "federal"
+    }
+  }
+]

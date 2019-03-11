@@ -1,1 +1,10 @@
-{"name":"Texas's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-2","level":"federal"}]}
+{
+  "name": "Texas's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-2",
+      "level": "federal"
+    }
+  ]
+}

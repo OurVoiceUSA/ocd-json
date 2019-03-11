@@ -1,1 +1,66 @@
-[{"name":"Thomas Massie","address":[{"line1":"1700 Greenup Ave.","line2":"Suite 505","city":"Ashland","state":"KY","zip":"41101","phone":"606-324-9898","longitude":-82.6379039,"latitude":38.4791287},{"line1":"541 Buttermilk Pike","line2":"Suite 208","city":"Crescent Springs","state":"KY","zip":"41017","phone":"859-426-0080","longitude":-84.5777416,"latitude":39.0486598},{"line1":"108 W. Jefferson St.","city":"La Grange","state":"KY","zip":"40031","phone":"502-265-9119","longitude":-85.37938489999999,"latitude":38.4084825}],"party":"Republican","phones":["202-225-3465"],"emails":[],"urls":["https://massie.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001184.jpg","channels":[{"type":"Twitter","id":"RepThomasMassie"},{"type":"Facebook","id":"RepThomasMassie"},{"type":"YouTube","id":"repthomasmassie"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives KY-4","level":"federal"}}]
+[
+  {
+    "name": "Thomas Massie",
+    "address": [
+      {
+        "line1": "1700 Greenup Ave.",
+        "line2": "Suite 505",
+        "city": "Ashland",
+        "state": "KY",
+        "zip": "41101",
+        "phone": "606-324-9898",
+        "longitude": -82.6379039,
+        "latitude": 38.4791287
+      },
+      {
+        "line1": "541 Buttermilk Pike",
+        "line2": "Suite 208",
+        "city": "Crescent Springs",
+        "state": "KY",
+        "zip": "41017",
+        "phone": "859-426-0080",
+        "longitude": -84.5777416,
+        "latitude": 39.0486598
+      },
+      {
+        "line1": "108 W. Jefferson St.",
+        "city": "La Grange",
+        "state": "KY",
+        "zip": "40031",
+        "phone": "502-265-9119",
+        "longitude": -85.37938489999999,
+        "latitude": 38.4084825
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3465"
+    ],
+    "emails": [],
+    "urls": [
+      "https://massie.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001184.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepThomasMassie"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepThomasMassie"
+      },
+      {
+        "type": "YouTube",
+        "id": "repthomasmassie"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives KY-4",
+      "level": "federal"
+    }
+  }
+]

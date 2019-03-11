@@ -1,1 +1,62 @@
-[{"name":"Brian Higgins","address":[{"line1":"726 Exchange St.","line2":"Suite 601","line3":"Larkin at Exchange","city":"Buffalo","state":"NY","zip":"14210","phone":"716-852-3501","longitude":-78.851165,"latitude":42.8747911},{"line1":"800 Main St.","line2":"Suite 3C","city":"Niagara Falls","state":"NY","zip":"14301","phone":"716-282-1274","longitude":-79.0554227,"latitude":43.09677019999999}],"party":"Democratic","phones":["202-225-3306"],"emails":[],"urls":["https://higgins.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/H001038.jpg","channels":[{"type":"Twitter","id":"RepBrianHiggins"},{"type":"Facebook","id":"RepBrianHiggins"},{"type":"YouTube","id":"CongressmanHiggins"},{"type":"Instagram","id":"repbrianhiggins"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-26","level":"federal"}}]
+[
+  {
+    "name": "Brian Higgins",
+    "address": [
+      {
+        "line1": "726 Exchange St.",
+        "line2": "Suite 601",
+        "line3": "Larkin at Exchange",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14210",
+        "phone": "716-852-3501",
+        "longitude": -78.851165,
+        "latitude": 42.8747911
+      },
+      {
+        "line1": "800 Main St.",
+        "line2": "Suite 3C",
+        "city": "Niagara Falls",
+        "state": "NY",
+        "zip": "14301",
+        "phone": "716-282-1274",
+        "longitude": -79.0554227,
+        "latitude": 43.09677019999999
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3306"
+    ],
+    "emails": [],
+    "urls": [
+      "https://higgins.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/H001038.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepBrianHiggins"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepBrianHiggins"
+      },
+      {
+        "type": "YouTube",
+        "id": "CongressmanHiggins"
+      },
+      {
+        "type": "Instagram",
+        "id": "repbrianhiggins"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-26",
+      "level": "federal"
+    }
+  }
+]

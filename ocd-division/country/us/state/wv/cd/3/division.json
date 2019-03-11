@@ -1,1 +1,10 @@
-{"name":"West Virginia's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives WV-3","level":"federal"}]}
+{
+  "name": "West Virginia's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives WV-3",
+      "level": "federal"
+    }
+  ]
+}

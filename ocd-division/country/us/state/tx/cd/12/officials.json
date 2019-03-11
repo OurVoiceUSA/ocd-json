@@ -1,1 +1,51 @@
-[{"name":"Kay Granger","address":[{"line1":"1701 River Run Rd.","line2":"Suite 407","city":"Fort Worth","state":"TX","zip":"76107","phone":"817-338-0909","longitude":-97.3597301,"latitude":32.7270777}],"party":"Republican","phones":["202-225-5071"],"emails":[],"urls":["https://kaygranger.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/G000377.jpg","channels":[{"type":"Twitter","id":"RepKayGranger"},{"type":"Facebook","id":"RepKayGranger"},{"type":"YouTube","id":"RepKayGranger"},{"type":"Instagram","id":"repkaygranger"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-12","level":"federal"}}]
+[
+  {
+    "name": "Kay Granger",
+    "address": [
+      {
+        "line1": "1701 River Run Rd.",
+        "line2": "Suite 407",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76107",
+        "phone": "817-338-0909",
+        "longitude": -97.3597301,
+        "latitude": 32.7270777
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-5071"
+    ],
+    "emails": [],
+    "urls": [
+      "https://kaygranger.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/G000377.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepKayGranger"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepKayGranger"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepKayGranger"
+      },
+      {
+        "type": "Instagram",
+        "id": "repkaygranger"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-12",
+      "level": "federal"
+    }
+  }
+]

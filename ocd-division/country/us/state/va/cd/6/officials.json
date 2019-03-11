@@ -1,1 +1,28 @@
-[{"name":"Ben Cline","address":[],"party":"Republican","phones":["202-225-5431"],"emails":[],"urls":["https://cline.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001118.jpg","channels":[{"type":"Twitter","id":"RepBenCline"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives VA-6","level":"federal"}}]
+[
+  {
+    "name": "Ben Cline",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-5431"
+    ],
+    "emails": [],
+    "urls": [
+      "https://cline.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001118.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepBenCline"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives VA-6",
+      "level": "federal"
+    }
+  }
+]

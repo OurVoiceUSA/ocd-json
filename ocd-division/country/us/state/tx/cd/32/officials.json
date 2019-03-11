@@ -1,1 +1,28 @@
-[{"name":"Colin Z. Allred","address":[],"party":"Democratic","phones":["202-225-2231"],"emails":[],"urls":["https://allred.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/A000376.jpg","channels":[{"type":"Twitter","id":"RepColinAllred"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-32","level":"federal"}}]
+[
+  {
+    "name": "Colin Z. Allred",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2231"
+    ],
+    "emails": [],
+    "urls": [
+      "https://allred.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/A000376.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepColinAllred"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-32",
+      "level": "federal"
+    }
+  }
+]

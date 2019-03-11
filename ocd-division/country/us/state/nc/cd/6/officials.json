@@ -1,1 +1,66 @@
-[{"name":"Mark Walker","address":[{"line1":"222 Sunset Ave.","line2":"Suite 101","city":"Asheboro","state":"NC","zip":"27203","phone":"336-626-3060","longitude":-79.8183839,"latitude":35.7063317},{"line1":"219 B West Elm Street","city":"Graham","state":"NC","zip":"27253","phone":"336-229-0159","longitude":-79.403882,"latitude":36.069812},{"line1":"809 Green Valley Rd.","line2":"Suite 104","city":"Greensboro","state":"NC","zip":"27408","phone":"336-333-5005","longitude":-79.81627999999999,"latitude":36.092294}],"party":"Republican","phones":["202-225-3065"],"emails":[],"urls":["https://walker.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000819.jpg","channels":[{"type":"Twitter","id":"RepMarkWalker"},{"type":"Facebook","id":"RepMarkWalker"},{"type":"Instagram","id":"repmarkwalker"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NC-6","level":"federal"}}]
+[
+  {
+    "name": "Mark Walker",
+    "address": [
+      {
+        "line1": "222 Sunset Ave.",
+        "line2": "Suite 101",
+        "city": "Asheboro",
+        "state": "NC",
+        "zip": "27203",
+        "phone": "336-626-3060",
+        "longitude": -79.8183839,
+        "latitude": 35.7063317
+      },
+      {
+        "line1": "219 B West Elm Street",
+        "city": "Graham",
+        "state": "NC",
+        "zip": "27253",
+        "phone": "336-229-0159",
+        "longitude": -79.403882,
+        "latitude": 36.069812
+      },
+      {
+        "line1": "809 Green Valley Rd.",
+        "line2": "Suite 104",
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27408",
+        "phone": "336-333-5005",
+        "longitude": -79.81627999999999,
+        "latitude": 36.092294
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3065"
+    ],
+    "emails": [],
+    "urls": [
+      "https://walker.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000819.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMarkWalker"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepMarkWalker"
+      },
+      {
+        "type": "Instagram",
+        "id": "repmarkwalker"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NC-6",
+      "level": "federal"
+    }
+  }
+]

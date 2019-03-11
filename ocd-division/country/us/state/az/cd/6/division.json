@@ -1,1 +1,10 @@
-{"name":"Arizona's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives AZ-6","level":"federal"}]}
+{
+  "name": "Arizona's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives AZ-6",
+      "level": "federal"
+    }
+  ]
+}

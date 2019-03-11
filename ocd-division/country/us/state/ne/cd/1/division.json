@@ -1,1 +1,10 @@
-{"name":"Nebraska's 1st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NE-1","level":"federal"}]}
+{
+  "name": "Nebraska's 1st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NE-1",
+      "level": "federal"
+    }
+  ]
+}

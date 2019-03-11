@@ -1,1 +1,47 @@
-[{"name":"Ro Khanna","address":[{"line1":"900 Lafayette St.","line2":"Suite 206","city":"Santa Clara","state":"CA","zip":"95050","phone":"408-436-2720","longitude":-121.9434873,"latitude":37.3494432}],"party":"Democratic","phones":["202-225-2631"],"emails":[],"urls":["https://khanna.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000389.jpg","channels":[{"type":"Twitter","id":"RepRoKhanna"},{"type":"Facebook","id":"RepRoKhanna"},{"type":"Instagram","id":"reprokhanna"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-17","level":"federal"}}]
+[
+  {
+    "name": "Ro Khanna",
+    "address": [
+      {
+        "line1": "900 Lafayette St.",
+        "line2": "Suite 206",
+        "city": "Santa Clara",
+        "state": "CA",
+        "zip": "95050",
+        "phone": "408-436-2720",
+        "longitude": -121.9434873,
+        "latitude": 37.3494432
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2631"
+    ],
+    "emails": [],
+    "urls": [
+      "https://khanna.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000389.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRoKhanna"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepRoKhanna"
+      },
+      {
+        "type": "Instagram",
+        "id": "reprokhanna"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-17",
+      "level": "federal"
+    }
+  }
+]

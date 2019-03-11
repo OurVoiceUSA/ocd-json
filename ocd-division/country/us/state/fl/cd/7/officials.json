@@ -1,1 +1,61 @@
-[{"name":"Stephanie N. Murphy","address":[{"line1":"225 E. Robinson","line2":"Suite 525","city":"Orlando","state":"FL","zip":"32801","phone":"888-205-5421","longitude":-81.3744028,"latitude":28.546165},{"line1":"110 W. First Street","line2":"Suite 210","city":"Sanford","state":"FL","zip":"32771","phone":"888-205-5421","longitude":-81.26861149999999,"latitude":28.8121096}],"party":"Democratic","phones":["202-225-4035"],"emails":[],"urls":["https://stephaniemurphy.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001202.jpg","channels":[{"type":"Twitter","id":"RepStephMurphy"},{"type":"Facebook","id":"RepStephMurphy"},{"type":"YouTube","id":"RepStephMurphy"},{"type":"Instagram","id":"RepStephMurphy"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-7","level":"federal"}}]
+[
+  {
+    "name": "Stephanie N. Murphy",
+    "address": [
+      {
+        "line1": "225 E. Robinson",
+        "line2": "Suite 525",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32801",
+        "phone": "888-205-5421",
+        "longitude": -81.3744028,
+        "latitude": 28.546165
+      },
+      {
+        "line1": "110 W. First Street",
+        "line2": "Suite 210",
+        "city": "Sanford",
+        "state": "FL",
+        "zip": "32771",
+        "phone": "888-205-5421",
+        "longitude": -81.26861149999999,
+        "latitude": 28.8121096
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4035"
+    ],
+    "emails": [],
+    "urls": [
+      "https://stephaniemurphy.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001202.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepStephMurphy"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepStephMurphy"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepStephMurphy"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepStephMurphy"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-7",
+      "level": "federal"
+    }
+  }
+]

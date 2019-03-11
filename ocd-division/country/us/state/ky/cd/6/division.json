@@ -1,1 +1,10 @@
-{"name":"Kentucky's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives KY-6","level":"federal"}]}
+{
+  "name": "Kentucky's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives KY-6",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,28 @@
-[{"name":"Katie Porter","address":[],"party":"Democratic","phones":["202-225-5611"],"emails":[],"urls":["https://porter.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/P000618.jpg","channels":[{"type":"Twitter","id":"RepKatiePorter"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-45","level":"federal"}}]
+[
+  {
+    "name": "Katie Porter",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5611"
+    ],
+    "emails": [],
+    "urls": [
+      "https://porter.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/P000618.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepKatiePorter"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-45",
+      "level": "federal"
+    }
+  }
+]

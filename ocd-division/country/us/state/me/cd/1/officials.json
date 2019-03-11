@@ -1,1 +1,56 @@
-[{"name":"Chellie Pingree","address":[{"line1":"2 Portland Fish Pier","line2":"Suite 304","city":"Portland","state":"ME","zip":"04101","phone":"207-774-5019","longitude":-70.25413499999999,"latitude":43.651525},{"line1":"1 Silver St.","city":"Waterville","state":"ME","zip":"04901","phone":"207-873-5713","longitude":-69.62960439999999,"latitude":44.5488273}],"party":"Democratic","phones":["202-225-6116"],"emails":[],"urls":["https://pingree.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/P000597.jpg","channels":[{"type":"Twitter","id":"ChelliePingree"},{"type":"Facebook","id":"ChelliePingree"},{"type":"YouTube","id":"congresswomanpingree"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives ME-1","level":"federal"}}]
+[
+  {
+    "name": "Chellie Pingree",
+    "address": [
+      {
+        "line1": "2 Portland Fish Pier",
+        "line2": "Suite 304",
+        "city": "Portland",
+        "state": "ME",
+        "zip": "04101",
+        "phone": "207-774-5019",
+        "longitude": -70.25413499999999,
+        "latitude": 43.651525
+      },
+      {
+        "line1": "1 Silver St.",
+        "city": "Waterville",
+        "state": "ME",
+        "zip": "04901",
+        "phone": "207-873-5713",
+        "longitude": -69.62960439999999,
+        "latitude": 44.5488273
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-6116"
+    ],
+    "emails": [],
+    "urls": [
+      "https://pingree.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/P000597.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "ChelliePingree"
+      },
+      {
+        "type": "Facebook",
+        "id": "ChelliePingree"
+      },
+      {
+        "type": "YouTube",
+        "id": "congresswomanpingree"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives ME-1",
+      "level": "federal"
+    }
+  }
+]

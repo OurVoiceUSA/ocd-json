@@ -1,1 +1,10 @@
-{"name":"North Carolina's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NC-6","level":"federal"}]}
+{
+  "name": "North Carolina's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NC-6",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,56 @@
-[{"name":"Roger W. Marshall","address":[{"line1":"200 E. Iron Ave.","city":"Salina","state":"KS","zip":"67401","phone":"785-829-9000","longitude":-97.60774119999999,"latitude":38.8403082},{"line1":"816 Campus Dr.","line2":"Suite 500","city":"Garden City","state":"KS","zip":"67846","phone":"620-765-7800","longitude":-100.8489985,"latitude":37.9722335}],"party":"Republican","phones":["202-225-2715"],"emails":[],"urls":["https://marshall.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001198.jpg","channels":[{"type":"Twitter","id":"RepMarshall"},{"type":"Facebook","id":"rogermarshallmd"},{"type":"Instagram","id":"repmarshall"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives KS-1","level":"federal"}}]
+[
+  {
+    "name": "Roger W. Marshall",
+    "address": [
+      {
+        "line1": "200 E. Iron Ave.",
+        "city": "Salina",
+        "state": "KS",
+        "zip": "67401",
+        "phone": "785-829-9000",
+        "longitude": -97.60774119999999,
+        "latitude": 38.8403082
+      },
+      {
+        "line1": "816 Campus Dr.",
+        "line2": "Suite 500",
+        "city": "Garden City",
+        "state": "KS",
+        "zip": "67846",
+        "phone": "620-765-7800",
+        "longitude": -100.8489985,
+        "latitude": 37.9722335
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2715"
+    ],
+    "emails": [],
+    "urls": [
+      "https://marshall.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001198.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMarshall"
+      },
+      {
+        "type": "Facebook",
+        "id": "rogermarshallmd"
+      },
+      {
+        "type": "Instagram",
+        "id": "repmarshall"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives KS-1",
+      "level": "federal"
+    }
+  }
+]

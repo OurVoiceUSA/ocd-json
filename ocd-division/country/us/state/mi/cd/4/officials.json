@@ -1,1 +1,57 @@
-[{"name":"John R. Moolenaar","address":[{"line1":"201 N. Mitchell St.","line2":"Suite 301","city":"Cadillac","state":"MI","zip":"49601","phone":"231-942-5070","longitude":-85.4006138,"latitude":44.2512349},{"line1":"200 E. Main St.","line2":"Suite 230","city":"Midland","state":"MI","zip":"48640","phone":"989-631-2552","longitude":-84.2447609,"latitude":43.6125894}],"party":"Republican","phones":["202-225-3561"],"emails":[],"urls":["https://moolenaar.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/M001194.jpg","channels":[{"type":"Twitter","id":"RepMoolenaar"},{"type":"Facebook","id":"RepMoolenaar"},{"type":"Instagram","id":"RepMoolenaar"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MI-4","level":"federal"}}]
+[
+  {
+    "name": "John R. Moolenaar",
+    "address": [
+      {
+        "line1": "201 N. Mitchell St.",
+        "line2": "Suite 301",
+        "city": "Cadillac",
+        "state": "MI",
+        "zip": "49601",
+        "phone": "231-942-5070",
+        "longitude": -85.4006138,
+        "latitude": 44.2512349
+      },
+      {
+        "line1": "200 E. Main St.",
+        "line2": "Suite 230",
+        "city": "Midland",
+        "state": "MI",
+        "zip": "48640",
+        "phone": "989-631-2552",
+        "longitude": -84.2447609,
+        "latitude": 43.6125894
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3561"
+    ],
+    "emails": [],
+    "urls": [
+      "https://moolenaar.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/M001194.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMoolenaar"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepMoolenaar"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepMoolenaar"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MI-4",
+      "level": "federal"
+    }
+  }
+]

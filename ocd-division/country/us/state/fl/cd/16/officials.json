@@ -1,1 +1,61 @@
-[{"name":"Vern Buchanan","address":[{"line1":"1051 Manatee Ave West","line2":"Suite 305","city":"Bradenton","state":"FL","zip":"34205","phone":"941-747-9081","longitude":-82.5724073,"latitude":27.4945988},{"line1":"111 S. Orange Ave.","line2":"Floor 2R, Suite 202W","city":"Sarasota","state":"FL","zip":"34236","phone":"941-951-6643","longitude":-82.5382987,"latitude":27.3353999}],"party":"Republican","phones":["202-225-5015"],"emails":[],"urls":["https://buchanan.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001260.jpg","channels":[{"type":"Twitter","id":"VernBuchanan"},{"type":"Facebook","id":"CongressmanBuchanan"},{"type":"YouTube","id":"vernbuchanan"},{"type":"Instagram","id":"repvern"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-16","level":"federal"}}]
+[
+  {
+    "name": "Vern Buchanan",
+    "address": [
+      {
+        "line1": "1051 Manatee Ave West",
+        "line2": "Suite 305",
+        "city": "Bradenton",
+        "state": "FL",
+        "zip": "34205",
+        "phone": "941-747-9081",
+        "longitude": -82.5724073,
+        "latitude": 27.4945988
+      },
+      {
+        "line1": "111 S. Orange Ave.",
+        "line2": "Floor 2R, Suite 202W",
+        "city": "Sarasota",
+        "state": "FL",
+        "zip": "34236",
+        "phone": "941-951-6643",
+        "longitude": -82.5382987,
+        "latitude": 27.3353999
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-5015"
+    ],
+    "emails": [],
+    "urls": [
+      "https://buchanan.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001260.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "VernBuchanan"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanBuchanan"
+      },
+      {
+        "type": "YouTube",
+        "id": "vernbuchanan"
+      },
+      {
+        "type": "Instagram",
+        "id": "repvern"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-16",
+      "level": "federal"
+    }
+  }
+]

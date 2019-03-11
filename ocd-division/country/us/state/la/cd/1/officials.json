@@ -1,1 +1,81 @@
-[{"name":"Steve Scalise","address":[{"line1":"1514 Martens Dr.","line2":"Suite 10","city":"Hammond","state":"LA","zip":"70401","phone":"985-340-2185","longitude":-90.47894529999999,"latitude":30.517849},{"line1":"8026 Main St.","line2":"Suite 700","city":"Houma","state":"LA","zip":"70360","phone":"985-879-2300","longitude":-90.71805719999999,"latitude":29.5979361},{"line1":"21454 Koop Drive","line2":"Suite 2C","city":"Mandeville","state":"LA","zip":"70471","phone":"985-893-9064","longitude":-90.0434162,"latitude":30.4172835},{"line1":"110 Veterans Blvd.","line2":"Suite 500","city":"Metairie","state":"LA","zip":"70005","phone":"504-837-1259","longitude":-90.1242066,"latitude":29.9992548}],"party":"Republican","phones":["202-225-3015"],"emails":[],"urls":["https://scalise.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001176.jpg","channels":[{"type":"Twitter","id":"SteveScalise"},{"type":"Facebook","id":"RepSteveScalise"},{"type":"YouTube","id":"RepSteveScalise"},{"type":"Instagram","id":"stevescalise"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives LA-1","level":"federal"}}]
+[
+  {
+    "name": "Steve Scalise",
+    "address": [
+      {
+        "line1": "1514 Martens Dr.",
+        "line2": "Suite 10",
+        "city": "Hammond",
+        "state": "LA",
+        "zip": "70401",
+        "phone": "985-340-2185",
+        "longitude": -90.47894529999999,
+        "latitude": 30.517849
+      },
+      {
+        "line1": "8026 Main St.",
+        "line2": "Suite 700",
+        "city": "Houma",
+        "state": "LA",
+        "zip": "70360",
+        "phone": "985-879-2300",
+        "longitude": -90.71805719999999,
+        "latitude": 29.5979361
+      },
+      {
+        "line1": "21454 Koop Drive",
+        "line2": "Suite 2C",
+        "city": "Mandeville",
+        "state": "LA",
+        "zip": "70471",
+        "phone": "985-893-9064",
+        "longitude": -90.0434162,
+        "latitude": 30.4172835
+      },
+      {
+        "line1": "110 Veterans Blvd.",
+        "line2": "Suite 500",
+        "city": "Metairie",
+        "state": "LA",
+        "zip": "70005",
+        "phone": "504-837-1259",
+        "longitude": -90.1242066,
+        "latitude": 29.9992548
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3015"
+    ],
+    "emails": [],
+    "urls": [
+      "https://scalise.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001176.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "SteveScalise"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepSteveScalise"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepSteveScalise"
+      },
+      {
+        "type": "Instagram",
+        "id": "stevescalise"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives LA-1",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,10 @@
-{"name":"Connecticut's 1st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CT-1","level":"federal"}]}
+{
+  "name": "Connecticut's 1st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CT-1",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,10 @@
-{"name":"Texas's 18th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-18","level":"federal"}]}
+{
+  "name": "Texas's 18th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-18",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,28 @@
-[{"name":"Pete Stauber","address":[],"party":"Republican","phones":["202-225-6211"],"emails":[],"urls":["https://stauber.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001212.jpg","channels":[{"type":"Twitter","id":"RepPeteStauber"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MN-8","level":"federal"}}]
+[
+  {
+    "name": "Pete Stauber",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-6211"
+    ],
+    "emails": [],
+    "urls": [
+      "https://stauber.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001212.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepPeteStauber"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MN-8",
+      "level": "federal"
+    }
+  }
+]

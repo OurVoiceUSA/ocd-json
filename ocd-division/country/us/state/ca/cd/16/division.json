@@ -1,1 +1,10 @@
-{"name":"California's 16th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CA-16","level":"federal"}]}
+{
+  "name": "California's 16th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CA-16",
+      "level": "federal"
+    }
+  ]
+}

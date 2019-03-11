@@ -1,1 +1,71 @@
-[{"name":"Randy K. Weber, Sr.","address":[{"line1":"505 Orleans St.","line2":"Suite 103","city":"Beaumont","state":"TX","zip":"77701","phone":"409-835-0108","longitude":-94.098555,"latitude":30.0825032},{"line1":"122 West Way","line2":"Suite 301","city":"Lake Jackson","state":"TX","zip":"77566","phone":"979-285-0231","longitude":-95.4537198,"latitude":29.0445713},{"line1":"174 Calder Rd.","line3":"Suite 150","city":"League City","state":"TX","zip":"77573","phone":"281-316-0231","longitude":-95.1045214,"latitude":29.5035441}],"party":"Republican","phones":["202-225-2831"],"emails":[],"urls":["https://weber.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000814.jpg","channels":[{"type":"Twitter","id":"TXRandy14"},{"type":"Facebook","id":"TXRandy14"},{"type":"YouTube","id":"TXRandy14"},{"type":"Instagram","id":"TXRandy14"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-14","level":"federal"}}]
+[
+  {
+    "name": "Randy K. Weber, Sr.",
+    "address": [
+      {
+        "line1": "505 Orleans St.",
+        "line2": "Suite 103",
+        "city": "Beaumont",
+        "state": "TX",
+        "zip": "77701",
+        "phone": "409-835-0108",
+        "longitude": -94.098555,
+        "latitude": 30.0825032
+      },
+      {
+        "line1": "122 West Way",
+        "line2": "Suite 301",
+        "city": "Lake Jackson",
+        "state": "TX",
+        "zip": "77566",
+        "phone": "979-285-0231",
+        "longitude": -95.4537198,
+        "latitude": 29.0445713
+      },
+      {
+        "line1": "174 Calder Rd.",
+        "line3": "Suite 150",
+        "city": "League City",
+        "state": "TX",
+        "zip": "77573",
+        "phone": "281-316-0231",
+        "longitude": -95.1045214,
+        "latitude": 29.5035441
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2831"
+    ],
+    "emails": [],
+    "urls": [
+      "https://weber.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000814.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "TXRandy14"
+      },
+      {
+        "type": "Facebook",
+        "id": "TXRandy14"
+      },
+      {
+        "type": "YouTube",
+        "id": "TXRandy14"
+      },
+      {
+        "type": "Instagram",
+        "id": "TXRandy14"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-14",
+      "level": "federal"
+    }
+  }
+]

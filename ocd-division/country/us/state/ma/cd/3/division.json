@@ -1,1 +1,10 @@
-{"name":"Massachusetts's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MA-3","level":"federal"}]}
+{
+  "name": "Massachusetts's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MA-3",
+      "level": "federal"
+    }
+  ]
+}

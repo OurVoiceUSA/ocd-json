@@ -1,1 +1,10 @@
-{"name":"Texas's 25th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-25","level":"federal"}]}
+{
+  "name": "Texas's 25th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-25",
+      "level": "federal"
+    }
+  ]
+}

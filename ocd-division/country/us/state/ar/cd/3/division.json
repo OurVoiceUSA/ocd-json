@@ -1,1 +1,10 @@
-{"name":"Arkansas's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives AR-3","level":"federal"}]}
+{
+  "name": "Arkansas's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives AR-3",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,28 @@
-[{"name":"Ross Spano","address":[],"party":"Republican","phones":["202-225-1252"],"emails":[],"urls":["https://spano.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001210.jpg","channels":[{"type":"Twitter","id":"RepRossSpano"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-15","level":"federal"}}]
+[
+  {
+    "name": "Ross Spano",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-1252"
+    ],
+    "emails": [],
+    "urls": [
+      "https://spano.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001210.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRossSpano"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-15",
+      "level": "federal"
+    }
+  }
+]

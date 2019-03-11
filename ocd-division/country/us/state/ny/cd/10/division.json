@@ -1,1 +1,10 @@
-{"name":"New York's 10th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NY-10","level":"federal"}]}
+{
+  "name": "New York's 10th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NY-10",
+      "level": "federal"
+    }
+  ]
+}

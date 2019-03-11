@@ -1,1 +1,10 @@
-{"name":"Georgia's 10th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-10","level":"federal"}]}
+{
+  "name": "Georgia's 10th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-10",
+      "level": "federal"
+    }
+  ]
+}

@@ -1,1 +1,72 @@
-[{"name":"Martha Roby","address":[{"line1":"505 E. Three Notch St.","line2":"Suite 322","line3":"City Hall","city":"Andalusia","state":"AL","zip":"36420","phone":"334-428-1129","longitude":-86.4756474,"latitude":31.3084109},{"line1":"217 Graceland Dr.","line2":"Suite 5","city":"Dothan","state":"AL","zip":"36305","phone":"334-794-9680","longitude":-85.452038,"latitude":31.232517},{"line1":"401 Adams Ave.","line2":"Suite 160","city":"Montgomery","state":"AL","zip":"36104","phone":"334-262-7718","longitude":-86.3029162,"latitude":32.3749292}],"party":"Republican","phones":["202-225-2901"],"emails":[],"urls":["https://roby.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000591.jpg","channels":[{"type":"Twitter","id":"RepMarthaRoby"},{"type":"Facebook","id":"Representative.Martha.Roby"},{"type":"YouTube","id":"reproby"},{"type":"Instagram","id":"martharoby"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives AL-2","level":"federal"}}]
+[
+  {
+    "name": "Martha Roby",
+    "address": [
+      {
+        "line1": "505 E. Three Notch St.",
+        "line2": "Suite 322",
+        "line3": "City Hall",
+        "city": "Andalusia",
+        "state": "AL",
+        "zip": "36420",
+        "phone": "334-428-1129",
+        "longitude": -86.4756474,
+        "latitude": 31.3084109
+      },
+      {
+        "line1": "217 Graceland Dr.",
+        "line2": "Suite 5",
+        "city": "Dothan",
+        "state": "AL",
+        "zip": "36305",
+        "phone": "334-794-9680",
+        "longitude": -85.452038,
+        "latitude": 31.232517
+      },
+      {
+        "line1": "401 Adams Ave.",
+        "line2": "Suite 160",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36104",
+        "phone": "334-262-7718",
+        "longitude": -86.3029162,
+        "latitude": 32.3749292
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2901"
+    ],
+    "emails": [],
+    "urls": [
+      "https://roby.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000591.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMarthaRoby"
+      },
+      {
+        "type": "Facebook",
+        "id": "Representative.Martha.Roby"
+      },
+      {
+        "type": "YouTube",
+        "id": "reproby"
+      },
+      {
+        "type": "Instagram",
+        "id": "martharoby"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives AL-2",
+      "level": "federal"
+    }
+  }
+]

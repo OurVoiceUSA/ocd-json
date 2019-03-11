@@ -1,1 +1,10 @@
-{"name":"New Jersey's 9th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NJ-9","level":"federal"}]}
+{
+  "name": "New Jersey's 9th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NJ-9",
+      "level": "federal"
+    }
+  ]
+}

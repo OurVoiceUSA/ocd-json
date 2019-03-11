@@ -1,1 +1,47 @@
-[{"name":"Diana DeGette","address":[{"line1":"600 Grant St.","line2":"Suite 202","city":"Denver","state":"CO","zip":"80203","phone":"303-844-4988","longitude":-104.9832743,"latitude":39.7260392}],"party":"Democratic","phones":["202-225-4431"],"emails":[],"urls":["https://degette.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000197.jpg","channels":[{"type":"Twitter","id":"RepDianaDeGette"},{"type":"Facebook","id":"DianaDeGette"},{"type":"YouTube","id":"RepDianaDeGette"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CO-1","level":"federal"}}]
+[
+  {
+    "name": "Diana DeGette",
+    "address": [
+      {
+        "line1": "600 Grant St.",
+        "line2": "Suite 202",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80203",
+        "phone": "303-844-4988",
+        "longitude": -104.9832743,
+        "latitude": 39.7260392
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4431"
+    ],
+    "emails": [],
+    "urls": [
+      "https://degette.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000197.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepDianaDeGette"
+      },
+      {
+        "type": "Facebook",
+        "id": "DianaDeGette"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepDianaDeGette"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CO-1",
+      "level": "federal"
+    }
+  }
+]

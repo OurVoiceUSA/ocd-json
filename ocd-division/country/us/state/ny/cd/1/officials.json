@@ -1,1 +1,53 @@
-[{"name":"Lee M. Zeldin","address":[{"line1":"30 W. Main St.","line2":"Suite 201","city":"Riverhead","state":"NY","zip":"11901","phone":"631-209-4235","longitude":-72.6627645,"latitude":40.9172285},{"line1":"31 Oak St.","line2":"Suite 20","city":"Patchogue","state":"NY","zip":"11772","phone":"631-289-1097","longitude":-73.0138358,"latitude":40.7671697}],"party":"Republican","phones":["202-225-3826"],"emails":[],"urls":["https://zeldin.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/Z000017.jpg","channels":[{"type":"Twitter","id":"RepLeeZeldin"},{"type":"Facebook","id":"RepLeeZeldin"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-1","level":"federal"}}]
+[
+  {
+    "name": "Lee M. Zeldin",
+    "address": [
+      {
+        "line1": "30 W. Main St.",
+        "line2": "Suite 201",
+        "city": "Riverhead",
+        "state": "NY",
+        "zip": "11901",
+        "phone": "631-209-4235",
+        "longitude": -72.6627645,
+        "latitude": 40.9172285
+      },
+      {
+        "line1": "31 Oak St.",
+        "line2": "Suite 20",
+        "city": "Patchogue",
+        "state": "NY",
+        "zip": "11772",
+        "phone": "631-289-1097",
+        "longitude": -73.0138358,
+        "latitude": 40.7671697
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3826"
+    ],
+    "emails": [],
+    "urls": [
+      "https://zeldin.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/Z000017.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLeeZeldin"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepLeeZeldin"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-1",
+      "level": "federal"
+    }
+  }
+]

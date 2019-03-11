@@ -1,1 +1,57 @@
-[{"name":"Ted Lieu","address":[{"line1":"5055 Wilshire Blvd.","line2":"Suite 310","city":"Los Angeles","state":"CA","zip":"90036","phone":"323-651-1040","longitude":-118.3402319,"latitude":34.062551},{"line1":"1600 Rosecrans Ave.","line2":"4th Floor","city":"Manhattan Beach","state":"CA","zip":"90266","phone":"310-321-7664","longitude":-118.383875,"latitude":33.9015419}],"party":"Democratic","phones":["202-225-3976"],"emails":[],"urls":["https://lieu.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000582.jpg","channels":[{"type":"Twitter","id":"RepTedLieu"},{"type":"Facebook","id":"RepTedLieu"},{"type":"Instagram","id":"RepTedLieu"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-33","level":"federal"}}]
+[
+  {
+    "name": "Ted Lieu",
+    "address": [
+      {
+        "line1": "5055 Wilshire Blvd.",
+        "line2": "Suite 310",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90036",
+        "phone": "323-651-1040",
+        "longitude": -118.3402319,
+        "latitude": 34.062551
+      },
+      {
+        "line1": "1600 Rosecrans Ave.",
+        "line2": "4th Floor",
+        "city": "Manhattan Beach",
+        "state": "CA",
+        "zip": "90266",
+        "phone": "310-321-7664",
+        "longitude": -118.383875,
+        "latitude": 33.9015419
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3976"
+    ],
+    "emails": [],
+    "urls": [
+      "https://lieu.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000582.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepTedLieu"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepTedLieu"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepTedLieu"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-33",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,10 @@
-{"name":"Florida's 18th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives FL-18","level":"federal"}]}
+{
+  "name": "Florida's 18th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives FL-18",
+      "level": "federal"
+    }
+  ]
+}

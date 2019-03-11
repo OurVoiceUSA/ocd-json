@@ -1,1 +1,28 @@
-[{"name":"John Joyce","address":[],"party":"Republican","phones":["202-225-2431"],"emails":[],"urls":["https://johnjoyce.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/J000302.jpg","channels":[{"type":"Twitter","id":"RepJohnJoyce"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives PA-13","level":"federal"}}]
+[
+  {
+    "name": "John Joyce",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-2431"
+    ],
+    "emails": [],
+    "urls": [
+      "https://johnjoyce.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/J000302.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJohnJoyce"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives PA-13",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,28 @@
-[{"name":"Michael Waltz","address":[],"party":"Republican","phones":["202-225-2706"],"emails":[],"urls":["https://waltz.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000823.jpg","channels":[{"type":"Twitter","id":"RepMichaelWaltz"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives FL-6","level":"federal"}}]
+[
+  {
+    "name": "Michael Waltz",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-2706"
+    ],
+    "emails": [],
+    "urls": [
+      "https://waltz.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000823.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMichaelWaltz"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives FL-6",
+      "level": "federal"
+    }
+  }
+]

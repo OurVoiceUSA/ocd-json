@@ -1,1 +1,81 @@
-[{"name":"Scott R. Tipton","address":[{"line1":"609 Main St.","line2":"#105","city":"Alamosa","state":"CO","zip":"81101","phone":"719-587-5105","longitude":-105.8659434,"latitude":37.4685012},{"line1":"835 E. Second Ave.","line2":"Suite 230","city":"Durango","state":"CO","zip":"81301","phone":"970-259-1490","longitude":-107.8799634,"latitude":37.2725939},{"line1":"225 N. 5th St.","line2":"Suite 702","city":"Grand Junction","state":"CO","zip":"81501","phone":"970-241-2499","longitude":-108.5648398,"latitude":39.0688046},{"line1":"503 N. Main St.","line2":"Suite 658","city":"Pueblo","state":"CO","zip":"81003","phone":"719-542-1073","longitude":-104.60937,"latitude":38.27203069999999}],"party":"Republican","phones":["202-225-4761"],"emails":[],"urls":["https://tipton.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000470.jpg","channels":[{"type":"Twitter","id":"RepTipton"},{"type":"Facebook","id":"CongressmanScottTipton"},{"type":"YouTube","id":"RepScottTipton"},{"type":"Instagram","id":"repscotttipton"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CO-3","level":"federal"}}]
+[
+  {
+    "name": "Scott R. Tipton",
+    "address": [
+      {
+        "line1": "609 Main St.",
+        "line2": "#105",
+        "city": "Alamosa",
+        "state": "CO",
+        "zip": "81101",
+        "phone": "719-587-5105",
+        "longitude": -105.8659434,
+        "latitude": 37.4685012
+      },
+      {
+        "line1": "835 E. Second Ave.",
+        "line2": "Suite 230",
+        "city": "Durango",
+        "state": "CO",
+        "zip": "81301",
+        "phone": "970-259-1490",
+        "longitude": -107.8799634,
+        "latitude": 37.2725939
+      },
+      {
+        "line1": "225 N. 5th St.",
+        "line2": "Suite 702",
+        "city": "Grand Junction",
+        "state": "CO",
+        "zip": "81501",
+        "phone": "970-241-2499",
+        "longitude": -108.5648398,
+        "latitude": 39.0688046
+      },
+      {
+        "line1": "503 N. Main St.",
+        "line2": "Suite 658",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "81003",
+        "phone": "719-542-1073",
+        "longitude": -104.60937,
+        "latitude": 38.27203069999999
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4761"
+    ],
+    "emails": [],
+    "urls": [
+      "https://tipton.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000470.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepTipton"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanScottTipton"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepScottTipton"
+      },
+      {
+        "type": "Instagram",
+        "id": "repscotttipton"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CO-3",
+      "level": "federal"
+    }
+  }
+]

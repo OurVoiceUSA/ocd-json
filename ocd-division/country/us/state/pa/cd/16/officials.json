@@ -1,1 +1,75 @@
-[{"name":"Mike Kelly","address":[{"line1":"101 E. Diamond St.","line2":"Suite 218","city":"Butler","state":"PA","zip":"16001","phone":"724-282-2557","longitude":-79.8948869,"latitude":40.8580044},{"line1":"208 E. Bayfront Pkwy.","line2":"Suite 102","city":"Erie","state":"PA","zip":"16507","phone":"814-454-8190","longitude":-80.0848493,"latitude":42.1373875},{"line1":"430 Court St.","line3":"Lawrence County Courthouse","city":"New Castle","state":"PA","zip":"16101","longitude":-80.3392636,"latitude":40.9991502},{"line1":"33 Chestnut Ave.","city":"Sharon","state":"PA","zip":"16146","phone":"724-342-7170","longitude":-80.5079773,"latitude":41.2315486}],"party":"Republican","phones":["202-225-5406"],"emails":[],"urls":["https://kelly.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000376.jpg","channels":[{"type":"Twitter","id":"MikeKellyPA"},{"type":"Facebook","id":"191056827594903"},{"type":"YouTube","id":"repmikekelly"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives PA-16","level":"federal"}}]
+[
+  {
+    "name": "Mike Kelly",
+    "address": [
+      {
+        "line1": "101 E. Diamond St.",
+        "line2": "Suite 218",
+        "city": "Butler",
+        "state": "PA",
+        "zip": "16001",
+        "phone": "724-282-2557",
+        "longitude": -79.8948869,
+        "latitude": 40.8580044
+      },
+      {
+        "line1": "208 E. Bayfront Pkwy.",
+        "line2": "Suite 102",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16507",
+        "phone": "814-454-8190",
+        "longitude": -80.0848493,
+        "latitude": 42.1373875
+      },
+      {
+        "line1": "430 Court St.",
+        "line3": "Lawrence County Courthouse",
+        "city": "New Castle",
+        "state": "PA",
+        "zip": "16101",
+        "longitude": -80.3392636,
+        "latitude": 40.9991502
+      },
+      {
+        "line1": "33 Chestnut Ave.",
+        "city": "Sharon",
+        "state": "PA",
+        "zip": "16146",
+        "phone": "724-342-7170",
+        "longitude": -80.5079773,
+        "latitude": 41.2315486
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-5406"
+    ],
+    "emails": [],
+    "urls": [
+      "https://kelly.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000376.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "MikeKellyPA"
+      },
+      {
+        "type": "Facebook",
+        "id": "191056827594903"
+      },
+      {
+        "type": "YouTube",
+        "id": "repmikekelly"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives PA-16",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,10 @@
-{"name":"New York's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NY-6","level":"federal"}]}
+{
+  "name": "New York's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NY-6",
+      "level": "federal"
+    }
+  ]
+}

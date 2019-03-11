@@ -1,1 +1,10 @@
-{"name":"Louisiana's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives LA-2","level":"federal"}]}
+{
+  "name": "Louisiana's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives LA-2",
+      "level": "federal"
+    }
+  ]
+}

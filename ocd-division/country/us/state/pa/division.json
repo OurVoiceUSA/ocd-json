@@ -1,1 +1,14 @@
-{"name":"Pennsylvania","scope":"statewide","offices":[{"name":"United States Senate","level":"federal"},{"name":"Governor","level":"state"}]}
+{
+  "name": "Pennsylvania",
+  "scope": "statewide",
+  "offices": [
+    {
+      "name": "United States Senate",
+      "level": "federal"
+    },
+    {
+      "name": "Governor",
+      "level": "state"
+    }
+  ]
+}

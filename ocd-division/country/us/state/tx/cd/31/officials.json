@@ -1,1 +1,60 @@
-[{"name":"John R. Carter","address":[{"line1":"1717 North IH 35","line2":"Suite 303","city":"Round Rock","state":"TX","zip":"78664","phone":"512-246-1600","longitude":-97.688835,"latitude":30.5234565},{"line1":"6544B S. General Bruce Drive","city":"Temple","state":"TX","zip":"76502","phone":"254-933-1392","longitude":-97.4233588,"latitude":31.0718016}],"party":"Republican","phones":["202-225-3864"],"emails":[],"urls":["https://carter.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001051.jpg","channels":[{"type":"Twitter","id":"JudgeCarter"},{"type":"Facebook","id":"judgecarter"},{"type":"YouTube","id":"repjohncarter"},{"type":"Instagram","id":"judgecarter"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-31","level":"federal"}}]
+[
+  {
+    "name": "John R. Carter",
+    "address": [
+      {
+        "line1": "1717 North IH 35",
+        "line2": "Suite 303",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "78664",
+        "phone": "512-246-1600",
+        "longitude": -97.688835,
+        "latitude": 30.5234565
+      },
+      {
+        "line1": "6544B S. General Bruce Drive",
+        "city": "Temple",
+        "state": "TX",
+        "zip": "76502",
+        "phone": "254-933-1392",
+        "longitude": -97.4233588,
+        "latitude": 31.0718016
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3864"
+    ],
+    "emails": [],
+    "urls": [
+      "https://carter.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001051.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "JudgeCarter"
+      },
+      {
+        "type": "Facebook",
+        "id": "judgecarter"
+      },
+      {
+        "type": "YouTube",
+        "id": "repjohncarter"
+      },
+      {
+        "type": "Instagram",
+        "id": "judgecarter"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-31",
+      "level": "federal"
+    }
+  }
+]

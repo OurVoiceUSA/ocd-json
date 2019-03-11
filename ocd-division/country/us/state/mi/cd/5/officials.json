@@ -1,1 +1,51 @@
-[{"name":"Daniel T. Kildee","address":[{"line1":"111 E. Court St.","line2":"#3B","city":"Flint","state":"MI","zip":"48502","phone":"810-238-8627","longitude":-83.6871014,"latitude":43.0133524}],"party":"Democratic","phones":["202-225-3611"],"emails":[],"urls":["https://dankildee.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000380.jpg","channels":[{"type":"Twitter","id":"RepDanKildee"},{"type":"Facebook","id":"RepDanKildee"},{"type":"YouTube","id":"RepDanKildee"},{"type":"Instagram","id":"repdankildee"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MI-5","level":"federal"}}]
+[
+  {
+    "name": "Daniel T. Kildee",
+    "address": [
+      {
+        "line1": "111 E. Court St.",
+        "line2": "#3B",
+        "city": "Flint",
+        "state": "MI",
+        "zip": "48502",
+        "phone": "810-238-8627",
+        "longitude": -83.6871014,
+        "latitude": 43.0133524
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-3611"
+    ],
+    "emails": [],
+    "urls": [
+      "https://dankildee.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000380.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepDanKildee"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepDanKildee"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepDanKildee"
+      },
+      {
+        "type": "Instagram",
+        "id": "repdankildee"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MI-5",
+      "level": "federal"
+    }
+  }
+]

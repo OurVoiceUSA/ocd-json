@@ -1,1 +1,46 @@
-[{"name":"Andy Barr","address":[{"line1":"2709 Old Rosebud Rd.","city":"Lexington","state":"KY","zip":"40509","phone":"859-219-1366","longitude":-84.4193762,"latitude":38.0283634}],"party":"Republican","phones":["202-225-4706"],"emails":[],"urls":["https://barr.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001282.jpg","channels":[{"type":"Twitter","id":"RepAndyBarr"},{"type":"Facebook","id":"RepAndyBarr"},{"type":"YouTube","id":"RepAndyBarr"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives KY-6","level":"federal"}}]
+[
+  {
+    "name": "Andy Barr",
+    "address": [
+      {
+        "line1": "2709 Old Rosebud Rd.",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40509",
+        "phone": "859-219-1366",
+        "longitude": -84.4193762,
+        "latitude": 38.0283634
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4706"
+    ],
+    "emails": [],
+    "urls": [
+      "https://barr.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001282.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAndyBarr"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepAndyBarr"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepAndyBarr"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives KY-6",
+      "level": "federal"
+    }
+  }
+]

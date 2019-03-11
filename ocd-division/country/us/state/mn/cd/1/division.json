@@ -1,1 +1,10 @@
-{"name":"Minnesota's 1st congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MN-1","level":"federal"}]}
+{
+  "name": "Minnesota's 1st congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MN-1",
+      "level": "federal"
+    }
+  ]
+}

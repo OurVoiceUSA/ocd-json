@@ -1,1 +1,97 @@
-[{"name":"Bennie G. Thompson","address":[{"line1":"107 W. Madison St.","city":"Bolton","state":"MS","zip":"39041","phone":"601-866-9003","longitude":-90.459947,"latitude":32.348821},{"line1":"910 Courthouse Ln.","city":"Greenville","state":"MS","zip":"38701","phone":"662-335-9003","longitude":-91.051782,"latitude":33.4079337},{"line1":"728 Main Street","line2":"Suite A","city":"Greenwood","state":"MS","zip":"38930","phone":"662-455-9003","longitude":-90.1821178,"latitude":33.5146884},{"line1":"3607 Medgar Evers Blvd.","city":"Jackson","state":"MS","zip":"39213","phone":"601-946-9003","longitude":-90.214478,"latitude":32.339995},{"line1":"263 E. Main St.","city":"Marks","state":"MS","zip":"38646","phone":"662-326-9003","longitude":-90.2711465,"latitude":34.2568675},{"line1":"106 Green Avenue","line2":"Suite 106","city":"Mound Bayou","state":"MS","zip":"38762","phone":"662-741-9003","longitude":-90.7298777,"latitude":33.8783982}],"party":"Democratic","phones":["202-225-5876"],"emails":[],"urls":["https://benniethompson.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000193.jpg","channels":[{"type":"Twitter","id":"BennieGThompson"},{"type":"Facebook","id":"CongressmanBennieGThompson"},{"type":"YouTube","id":"RepBennieThompson"},{"type":"Instagram","id":"benniegthompson"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MS-2","level":"federal"}}]
+[
+  {
+    "name": "Bennie G. Thompson",
+    "address": [
+      {
+        "line1": "107 W. Madison St.",
+        "city": "Bolton",
+        "state": "MS",
+        "zip": "39041",
+        "phone": "601-866-9003",
+        "longitude": -90.459947,
+        "latitude": 32.348821
+      },
+      {
+        "line1": "910 Courthouse Ln.",
+        "city": "Greenville",
+        "state": "MS",
+        "zip": "38701",
+        "phone": "662-335-9003",
+        "longitude": -91.051782,
+        "latitude": 33.4079337
+      },
+      {
+        "line1": "728 Main Street",
+        "line2": "Suite A",
+        "city": "Greenwood",
+        "state": "MS",
+        "zip": "38930",
+        "phone": "662-455-9003",
+        "longitude": -90.1821178,
+        "latitude": 33.5146884
+      },
+      {
+        "line1": "3607 Medgar Evers Blvd.",
+        "city": "Jackson",
+        "state": "MS",
+        "zip": "39213",
+        "phone": "601-946-9003",
+        "longitude": -90.214478,
+        "latitude": 32.339995
+      },
+      {
+        "line1": "263 E. Main St.",
+        "city": "Marks",
+        "state": "MS",
+        "zip": "38646",
+        "phone": "662-326-9003",
+        "longitude": -90.2711465,
+        "latitude": 34.2568675
+      },
+      {
+        "line1": "106 Green Avenue",
+        "line2": "Suite 106",
+        "city": "Mound Bayou",
+        "state": "MS",
+        "zip": "38762",
+        "phone": "662-741-9003",
+        "longitude": -90.7298777,
+        "latitude": 33.8783982
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5876"
+    ],
+    "emails": [],
+    "urls": [
+      "https://benniethompson.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000193.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "BennieGThompson"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanBennieGThompson"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepBennieThompson"
+      },
+      {
+        "type": "Instagram",
+        "id": "benniegthompson"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MS-2",
+      "level": "federal"
+    }
+  }
+]

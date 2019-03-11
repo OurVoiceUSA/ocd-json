@@ -1,1 +1,10 @@
-{"name":"Oklahoma's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives OK-5","level":"federal"}]}
+{
+  "name": "Oklahoma's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives OK-5",
+      "level": "federal"
+    }
+  ]
+}

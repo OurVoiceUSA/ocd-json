@@ -1,1 +1,57 @@
-[{"name":"Joseph P. Kennedy III","address":[{"line1":"8 N. Main St.","line2":"Suite 200","city":"Attleboro","state":"MA","zip":"02703","phone":"508-431-1110","longitude":-71.2846799,"latitude":41.9449626},{"line1":"29 Crafts St.","line2":"Suite 375","city":"Newton","state":"MA","zip":"02458","phone":"617-332-3333","longitude":-71.1999166,"latitude":42.3548224}],"party":"Democratic","phones":["202-225-5931"],"emails":[],"urls":["https://kennedy.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000379.jpg","channels":[{"type":"Twitter","id":"RepJoeKennedy"},{"type":"Facebook","id":"301936109927957"},{"type":"Instagram","id":"repkennedy"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MA-4","level":"federal"}}]
+[
+  {
+    "name": "Joseph P. Kennedy III",
+    "address": [
+      {
+        "line1": "8 N. Main St.",
+        "line2": "Suite 200",
+        "city": "Attleboro",
+        "state": "MA",
+        "zip": "02703",
+        "phone": "508-431-1110",
+        "longitude": -71.2846799,
+        "latitude": 41.9449626
+      },
+      {
+        "line1": "29 Crafts St.",
+        "line2": "Suite 375",
+        "city": "Newton",
+        "state": "MA",
+        "zip": "02458",
+        "phone": "617-332-3333",
+        "longitude": -71.1999166,
+        "latitude": 42.3548224
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5931"
+    ],
+    "emails": [],
+    "urls": [
+      "https://kennedy.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000379.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJoeKennedy"
+      },
+      {
+        "type": "Facebook",
+        "id": "301936109927957"
+      },
+      {
+        "type": "Instagram",
+        "id": "repkennedy"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MA-4",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,28 @@
-[{"name":"Harley Rouda","address":[],"party":"Democratic","phones":["202-225-2415"],"emails":[],"urls":["https://rouda.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000616.jpg","channels":[{"type":"Twitter","id":"RepHarley"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-48","level":"federal"}}]
+[
+  {
+    "name": "Harley Rouda",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2415"
+    ],
+    "emails": [],
+    "urls": [
+      "https://rouda.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000616.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepHarley"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-48",
+      "level": "federal"
+    }
+  }
+]

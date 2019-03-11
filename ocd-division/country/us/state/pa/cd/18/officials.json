@@ -1,1 +1,73 @@
-[{"name":"Michael F. Doyle","address":[{"line1":"1350 Fifth Ave.","city":"Coraopolis","state":"PA","zip":"15108","phone":"412-264-3460","longitude":-80.157861,"latitude":40.5150506},{"line1":"627 Lysle Blvd.","city":"McKeesport","state":"PA","zip":"15132","phone":"412-664-4049","longitude":-79.858547,"latitude":40.352477},{"line1":"11 Duff Rd.","city":"Penn Hills","state":"PA","zip":"15235","phone":"412-241-6055","longitude":-79.8281138,"latitude":40.4644937},{"line1":"2637 E. Carson St.","city":"Pittsburgh","state":"PA","zip":"15203","phone":"412-390-1499","longitude":-79.9675163,"latitude":40.4273525}],"party":"Democratic","phones":["202-225-2135"],"emails":[],"urls":["https://doyle.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000482.jpg","channels":[{"type":"Twitter","id":"USRepMikeDoyle"},{"type":"Facebook","id":"usrepmikedoyle"},{"type":"YouTube","id":"CongressmanDoyle"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives PA-18","level":"federal"}}]
+[
+  {
+    "name": "Michael F. Doyle",
+    "address": [
+      {
+        "line1": "1350 Fifth Ave.",
+        "city": "Coraopolis",
+        "state": "PA",
+        "zip": "15108",
+        "phone": "412-264-3460",
+        "longitude": -80.157861,
+        "latitude": 40.5150506
+      },
+      {
+        "line1": "627 Lysle Blvd.",
+        "city": "McKeesport",
+        "state": "PA",
+        "zip": "15132",
+        "phone": "412-664-4049",
+        "longitude": -79.858547,
+        "latitude": 40.352477
+      },
+      {
+        "line1": "11 Duff Rd.",
+        "city": "Penn Hills",
+        "state": "PA",
+        "zip": "15235",
+        "phone": "412-241-6055",
+        "longitude": -79.8281138,
+        "latitude": 40.4644937
+      },
+      {
+        "line1": "2637 E. Carson St.",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15203",
+        "phone": "412-390-1499",
+        "longitude": -79.9675163,
+        "latitude": 40.4273525
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2135"
+    ],
+    "emails": [],
+    "urls": [
+      "https://doyle.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000482.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "USRepMikeDoyle"
+      },
+      {
+        "type": "Facebook",
+        "id": "usrepmikedoyle"
+      },
+      {
+        "type": "YouTube",
+        "id": "CongressmanDoyle"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives PA-18",
+      "level": "federal"
+    }
+  }
+]

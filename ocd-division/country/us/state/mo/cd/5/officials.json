@@ -1,1 +1,64 @@
-[{"name":"Emanuel Cleaver","address":[{"line1":"1923 Main St","city":"Higginsville","state":"MO","zip":"64037","phone":"660-584-7373","longitude":-93.7170832,"latitude":39.0754557},{"line1":"211 W. Maple Ave.","city":"Independence","state":"MO","zip":"64050","phone":"816-833-4545","longitude":-94.41765029999999,"latitude":39.0926561},{"line1":"101 W. 31 St.","city":"Kansas City","state":"MO","zip":"64108","phone":"816-842-4545","longitude":-94.587124,"latitude":39.070874}],"party":"Democratic","phones":["202-225-4535"],"emails":[],"urls":["https://cleaver.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001061.jpg","channels":[{"type":"Twitter","id":"RepCleaver"},{"type":"Facebook","id":"emanuelcleaverii"},{"type":"YouTube","id":"repcleaver"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives MO-5","level":"federal"}}]
+[
+  {
+    "name": "Emanuel Cleaver",
+    "address": [
+      {
+        "line1": "1923 Main St",
+        "city": "Higginsville",
+        "state": "MO",
+        "zip": "64037",
+        "phone": "660-584-7373",
+        "longitude": -93.7170832,
+        "latitude": 39.0754557
+      },
+      {
+        "line1": "211 W. Maple Ave.",
+        "city": "Independence",
+        "state": "MO",
+        "zip": "64050",
+        "phone": "816-833-4545",
+        "longitude": -94.41765029999999,
+        "latitude": 39.0926561
+      },
+      {
+        "line1": "101 W. 31 St.",
+        "city": "Kansas City",
+        "state": "MO",
+        "zip": "64108",
+        "phone": "816-842-4545",
+        "longitude": -94.587124,
+        "latitude": 39.070874
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4535"
+    ],
+    "emails": [],
+    "urls": [
+      "https://cleaver.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001061.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepCleaver"
+      },
+      {
+        "type": "Facebook",
+        "id": "emanuelcleaverii"
+      },
+      {
+        "type": "YouTube",
+        "id": "repcleaver"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives MO-5",
+      "level": "federal"
+    }
+  }
+]

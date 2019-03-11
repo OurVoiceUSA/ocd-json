@@ -1,1 +1,28 @@
-[{"name":"Lance Gooden","address":[],"party":"Republican","phones":["202-225-3484"],"emails":[],"urls":["https://gooden.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/G000589.jpg","channels":[{"type":"Twitter","id":"RepLanceGooden"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-5","level":"federal"}}]
+[
+  {
+    "name": "Lance Gooden",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-3484"
+    ],
+    "emails": [],
+    "urls": [
+      "https://gooden.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/G000589.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLanceGooden"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-5",
+      "level": "federal"
+    }
+  }
+]

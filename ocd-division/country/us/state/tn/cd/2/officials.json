@@ -1,1 +1,28 @@
-[{"name":"Tim Burchett","address":[],"party":"Republican","phones":["202-225-5435"],"emails":[],"urls":["https://burchett.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001309.jpg","channels":[{"type":"Twitter","id":"RepTimBurchett"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TN-2","level":"federal"}}]
+[
+  {
+    "name": "Tim Burchett",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-5435"
+    ],
+    "emails": [],
+    "urls": [
+      "https://burchett.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001309.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepTimBurchett"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TN-2",
+      "level": "federal"
+    }
+  }
+]

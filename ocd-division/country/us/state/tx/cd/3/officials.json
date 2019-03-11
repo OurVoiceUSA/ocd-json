@@ -1,1 +1,28 @@
-[{"name":"Van Taylor","address":[],"party":"Republican","phones":["202-225-4201"],"emails":[],"urls":["https://vantaylor.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/T000479.jpg","channels":[{"type":"Twitter","id":"RepVanTaylor"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-3","level":"federal"}}]
+[
+  {
+    "name": "Van Taylor",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-4201"
+    ],
+    "emails": [],
+    "urls": [
+      "https://vantaylor.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/T000479.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepVanTaylor"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-3",
+      "level": "federal"
+    }
+  }
+]

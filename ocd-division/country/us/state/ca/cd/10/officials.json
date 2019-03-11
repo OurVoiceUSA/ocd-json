@@ -1,1 +1,28 @@
-[{"name":"Josh Harder","address":[],"party":"Democratic","phones":["202-225-4540"],"emails":[],"urls":["https://harder.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/H001090.jpg","channels":[{"type":"Twitter","id":"RepJoshHarder"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-10","level":"federal"}}]
+[
+  {
+    "name": "Josh Harder",
+    "address": [],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4540"
+    ],
+    "emails": [],
+    "urls": [
+      "https://harder.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/H001090.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJoshHarder"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-10",
+      "level": "federal"
+    }
+  }
+]

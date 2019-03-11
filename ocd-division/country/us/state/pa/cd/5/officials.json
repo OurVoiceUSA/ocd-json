@@ -1,1 +1,38 @@
-[{"name":"Mary Gay Scanlon","address":[{"line1":"940 W. Sproul Rd.","city":"Springfield","state":"PA","zip":"19064","phone":"610-690-7323","longitude":-75.350534,"latitude":39.9393688}],"party":"Democratic","phones":["202-225-2011"],"emails":[],"urls":["https://scanlon.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001205.jpg","channels":[{"type":"Twitter","id":"RepMGS"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives PA-5","level":"federal"}}]
+[
+  {
+    "name": "Mary Gay Scanlon",
+    "address": [
+      {
+        "line1": "940 W. Sproul Rd.",
+        "city": "Springfield",
+        "state": "PA",
+        "zip": "19064",
+        "phone": "610-690-7323",
+        "longitude": -75.350534,
+        "latitude": 39.9393688
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-2011"
+    ],
+    "emails": [],
+    "urls": [
+      "https://scanlon.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001205.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepMGS"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives PA-5",
+      "level": "federal"
+    }
+  }
+]

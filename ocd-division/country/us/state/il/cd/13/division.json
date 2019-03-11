@@ -1,1 +1,10 @@
-{"name":"Illinois's 13th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IL-13","level":"federal"}]}
+{
+  "name": "Illinois's 13th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IL-13",
+      "level": "federal"
+    }
+  ]
+}

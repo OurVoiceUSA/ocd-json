@@ -1,1 +1,28 @@
-[{"name":"Denver Riggleman","address":[],"party":"Republican","phones":["202-225-4711"],"emails":[],"urls":["https://riggleman.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/R000611.jpg","channels":[{"type":"Twitter","id":"RepRiggleman"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives VA-5","level":"federal"}}]
+[
+  {
+    "name": "Denver Riggleman",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-4711"
+    ],
+    "emails": [],
+    "urls": [
+      "https://riggleman.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/R000611.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRiggleman"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives VA-5",
+      "level": "federal"
+    }
+  }
+]

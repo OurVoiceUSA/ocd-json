@@ -1,1 +1,10 @@
-{"name":"Maryland's 4th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MD-4","level":"federal"}]}
+{
+  "name": "Maryland's 4th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MD-4",
+      "level": "federal"
+    }
+  ]
+}

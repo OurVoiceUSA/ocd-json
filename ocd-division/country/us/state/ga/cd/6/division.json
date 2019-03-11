@@ -1,1 +1,10 @@
-{"name":"Georgia's 6th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-6","level":"federal"}]}
+{
+  "name": "Georgia's 6th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-6",
+      "level": "federal"
+    }
+  ]
+}

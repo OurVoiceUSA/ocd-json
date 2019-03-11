@@ -1,1 +1,77 @@
-[{"name":"Daniel Lipinski","address":[{"line1":"6245 S. Archer Ave.","city":"Chicago","state":"IL","zip":"60638","phone":"773-948-6223","longitude":-87.77626830000001,"latitude":41.7934493},{"line1":"222 E. 9th St.","line2":"#109","line3":"Central Square Building","city":"Lockport","state":"IL","zip":"60441","phone":"815-838-1990","longitude":-88.05500169999999,"latitude":41.5895597},{"line1":"5210 W. 95th St.","line2":"Suite 104","city":"Oak Lawn","state":"IL","zip":"60453","phone":"708-424-0853","longitude":-87.751137,"latitude":41.7201892},{"line1":"14700 S. Ravinia Avenue","line3":"Orland Park Village Hall","city":"Orland Park","state":"IL","zip":"60462","phone":"708-403-4379","longitude":-87.8573538,"latitude":41.6232433}],"party":"Democratic","phones":["202-225-5701"],"emails":[],"urls":["https://lipinski.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000563.jpg","channels":[{"type":"Twitter","id":"RepLipinski"},{"type":"Facebook","id":"repdanlipinski"},{"type":"YouTube","id":"lipinski03"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives IL-3","level":"federal"}}]
+[
+  {
+    "name": "Daniel Lipinski",
+    "address": [
+      {
+        "line1": "6245 S. Archer Ave.",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60638",
+        "phone": "773-948-6223",
+        "longitude": -87.77626830000001,
+        "latitude": 41.7934493
+      },
+      {
+        "line1": "222 E. 9th St.",
+        "line2": "#109",
+        "line3": "Central Square Building",
+        "city": "Lockport",
+        "state": "IL",
+        "zip": "60441",
+        "phone": "815-838-1990",
+        "longitude": -88.05500169999999,
+        "latitude": 41.5895597
+      },
+      {
+        "line1": "5210 W. 95th St.",
+        "line2": "Suite 104",
+        "city": "Oak Lawn",
+        "state": "IL",
+        "zip": "60453",
+        "phone": "708-424-0853",
+        "longitude": -87.751137,
+        "latitude": 41.7201892
+      },
+      {
+        "line1": "14700 S. Ravinia Avenue",
+        "line3": "Orland Park Village Hall",
+        "city": "Orland Park",
+        "state": "IL",
+        "zip": "60462",
+        "phone": "708-403-4379",
+        "longitude": -87.8573538,
+        "latitude": 41.6232433
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5701"
+    ],
+    "emails": [],
+    "urls": [
+      "https://lipinski.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000563.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLipinski"
+      },
+      {
+        "type": "Facebook",
+        "id": "repdanlipinski"
+      },
+      {
+        "type": "YouTube",
+        "id": "lipinski03"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives IL-3",
+      "level": "federal"
+    }
+  }
+]

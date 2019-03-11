@@ -1,1 +1,47 @@
-[{"name":"David N. Cicilline","address":[{"line1":"1070 Main St.","line2":"Suite 300","city":"Pawtucket","state":"RI","zip":"02860","phone":"401-729-5600","longitude":-71.3986461,"latitude":41.8610791}],"party":"Democratic","phones":["202-225-4911"],"emails":[],"urls":["https://cicilline.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001084.jpg","channels":[{"type":"Twitter","id":"RepCicilline"},{"type":"Facebook","id":"CongressmanDavidCicilline"},{"type":"YouTube","id":"RepDavidCicilline"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives RI-1","level":"federal"}}]
+[
+  {
+    "name": "David N. Cicilline",
+    "address": [
+      {
+        "line1": "1070 Main St.",
+        "line2": "Suite 300",
+        "city": "Pawtucket",
+        "state": "RI",
+        "zip": "02860",
+        "phone": "401-729-5600",
+        "longitude": -71.3986461,
+        "latitude": 41.8610791
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4911"
+    ],
+    "emails": [],
+    "urls": [
+      "https://cicilline.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001084.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepCicilline"
+      },
+      {
+        "type": "Facebook",
+        "id": "CongressmanDavidCicilline"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepDavidCicilline"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives RI-1",
+      "level": "federal"
+    }
+  }
+]

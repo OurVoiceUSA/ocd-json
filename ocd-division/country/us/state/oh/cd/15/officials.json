@@ -1,1 +1,68 @@
-[{"name":"Steve Stivers","address":[{"line1":"3790 Municipal Way","city":"Hilliard","state":"OH","zip":"43026","phone":"614-771-4968","longitude":-83.150804,"latitude":40.0297127},{"line1":"104 East Main St.","city":"Lancaster","state":"OH","zip":"43130","phone":"740-654-2654","longitude":-82.6038377,"latitude":39.7133714},{"line1":"69 N. South St.","city":"Wilmington","state":"OH","zip":"45177","phone":"937-283-7049","longitude":-83.8288317,"latitude":39.4462521}],"party":"Republican","phones":["202-225-2015"],"emails":[],"urls":["https://stivers.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001187.jpg","channels":[{"type":"Twitter","id":"RepSteveStivers"},{"type":"Facebook","id":"116058275133542"},{"type":"YouTube","id":"RepSteveStivers"},{"type":"Instagram","id":"RepSteveStivers"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives OH-15","level":"federal"}}]
+[
+  {
+    "name": "Steve Stivers",
+    "address": [
+      {
+        "line1": "3790 Municipal Way",
+        "city": "Hilliard",
+        "state": "OH",
+        "zip": "43026",
+        "phone": "614-771-4968",
+        "longitude": -83.150804,
+        "latitude": 40.0297127
+      },
+      {
+        "line1": "104 East Main St.",
+        "city": "Lancaster",
+        "state": "OH",
+        "zip": "43130",
+        "phone": "740-654-2654",
+        "longitude": -82.6038377,
+        "latitude": 39.7133714
+      },
+      {
+        "line1": "69 N. South St.",
+        "city": "Wilmington",
+        "state": "OH",
+        "zip": "45177",
+        "phone": "937-283-7049",
+        "longitude": -83.8288317,
+        "latitude": 39.4462521
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-2015"
+    ],
+    "emails": [],
+    "urls": [
+      "https://stivers.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001187.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepSteveStivers"
+      },
+      {
+        "type": "Facebook",
+        "id": "116058275133542"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepSteveStivers"
+      },
+      {
+        "type": "Instagram",
+        "id": "RepSteveStivers"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives OH-15",
+      "level": "federal"
+    }
+  }
+]

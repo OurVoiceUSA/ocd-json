@@ -1,1 +1,10 @@
-{"name":"Utah's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives UT-2","level":"federal"}]}
+{
+  "name": "Utah's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives UT-2",
+      "level": "federal"
+    }
+  ]
+}

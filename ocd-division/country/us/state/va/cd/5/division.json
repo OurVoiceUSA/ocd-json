@@ -1,1 +1,10 @@
-{"name":"Virginia's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives VA-5","level":"federal"}]}
+{
+  "name": "Virginia's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives VA-5",
+      "level": "federal"
+    }
+  ]
+}

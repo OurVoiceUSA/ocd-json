@@ -1,1 +1,10 @@
-{"name":"Georgia's 5th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives GA-5","level":"federal"}]}
+{
+  "name": "Georgia's 5th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives GA-5",
+      "level": "federal"
+    }
+  ]
+}

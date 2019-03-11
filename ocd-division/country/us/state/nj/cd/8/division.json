@@ -1,1 +1,10 @@
-{"name":"New Jersey's 8th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives NJ-8","level":"federal"}]}
+{
+  "name": "New Jersey's 8th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives NJ-8",
+      "level": "federal"
+    }
+  ]
+}

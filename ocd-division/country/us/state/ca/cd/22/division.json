@@ -1,1 +1,10 @@
-{"name":"California's 22nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CA-22","level":"federal"}]}
+{
+  "name": "California's 22nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CA-22",
+      "level": "federal"
+    }
+  ]
+}

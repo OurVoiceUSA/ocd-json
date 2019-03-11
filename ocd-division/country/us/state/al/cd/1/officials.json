@@ -1,1 +1,56 @@
-[{"name":"Bradley Byrne","address":[{"line1":"11 N. Water St.","line2":"Suite 15290","city":"Mobile","state":"AL","zip":"36602","phone":"251-690-2811","longitude":-88.039675,"latitude":30.693117},{"line1":"502 W. Lee Ave.","city":"Summerdale","state":"AL","zip":"36580","phone":"251-989-2664","longitude":-87.7041946,"latitude":30.4834677}],"party":"Republican","phones":["202-225-4931"],"emails":[],"urls":["https://byrne.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001289.jpg","channels":[{"type":"Twitter","id":"RepByrne"},{"type":"Facebook","id":"RepByrne"},{"type":"Instagram","id":"repbyrne"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives AL-1","level":"federal"}}]
+[
+  {
+    "name": "Bradley Byrne",
+    "address": [
+      {
+        "line1": "11 N. Water St.",
+        "line2": "Suite 15290",
+        "city": "Mobile",
+        "state": "AL",
+        "zip": "36602",
+        "phone": "251-690-2811",
+        "longitude": -88.039675,
+        "latitude": 30.693117
+      },
+      {
+        "line1": "502 W. Lee Ave.",
+        "city": "Summerdale",
+        "state": "AL",
+        "zip": "36580",
+        "phone": "251-989-2664",
+        "longitude": -87.7041946,
+        "latitude": 30.4834677
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-4931"
+    ],
+    "emails": [],
+    "urls": [
+      "https://byrne.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001289.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepByrne"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepByrne"
+      },
+      {
+        "type": "Instagram",
+        "id": "repbyrne"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives AL-1",
+      "level": "federal"
+    }
+  }
+]

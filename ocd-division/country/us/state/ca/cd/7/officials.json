@@ -1,1 +1,48 @@
-[{"name":"Ami Bera","address":[{"line1":"8950 Cal Center Dr.","line2":"Suite 100","line3":"Building 3","city":"Sacramento","state":"CA","zip":"95826","phone":"916-635-0505","longitude":-121.3738588,"latitude":38.5553768}],"party":"Democratic","phones":["202-225-5716"],"emails":[],"urls":["https://bera.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B001287.jpg","channels":[{"type":"Twitter","id":"RepBera"},{"type":"Facebook","id":"RepAmiBera"},{"type":"YouTube","id":"repamibera"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-7","level":"federal"}}]
+[
+  {
+    "name": "Ami Bera",
+    "address": [
+      {
+        "line1": "8950 Cal Center Dr.",
+        "line2": "Suite 100",
+        "line3": "Building 3",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95826",
+        "phone": "916-635-0505",
+        "longitude": -121.3738588,
+        "latitude": 38.5553768
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-5716"
+    ],
+    "emails": [],
+    "urls": [
+      "https://bera.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B001287.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepBera"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepAmiBera"
+      },
+      {
+        "type": "YouTube",
+        "id": "repamibera"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-7",
+      "level": "federal"
+    }
+  }
+]

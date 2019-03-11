@@ -1,1 +1,66 @@
-[{"name":"Christopher H. Smith","address":[{"line1":"112 Village Center Dr.","line2":"Second Floor","line3":"Raintree Shopping Center","city":"Freehold","state":"NJ","zip":"07728","phone":"732-780-3035","longitude":-74.30812019999999,"latitude":40.2402775},{"line1":"4573 S. Broad St.","city":"Hamilton","state":"NJ","zip":"08620","phone":"609-585-7878","longitude":-74.67184200000001,"latitude":40.178635},{"line1":"405 Route 539 (Pinehurst Rd.)","city":"Plumsted","state":"NJ","zip":"08514","phone":"609-286-2571","longitude":-74.5068462,"latitude":40.1027135}],"party":"Republican","phones":["202-225-3765"],"emails":[],"urls":["https://chrissmith.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S000522.jpg","channels":[{"type":"Twitter","id":"RepChrisSmith"},{"type":"Facebook","id":"RepChrisSmith"},{"type":"YouTube","id":"USRepChrisSmith"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NJ-4","level":"federal"}}]
+[
+  {
+    "name": "Christopher H. Smith",
+    "address": [
+      {
+        "line1": "112 Village Center Dr.",
+        "line2": "Second Floor",
+        "line3": "Raintree Shopping Center",
+        "city": "Freehold",
+        "state": "NJ",
+        "zip": "07728",
+        "phone": "732-780-3035",
+        "longitude": -74.30812019999999,
+        "latitude": 40.2402775
+      },
+      {
+        "line1": "4573 S. Broad St.",
+        "city": "Hamilton",
+        "state": "NJ",
+        "zip": "08620",
+        "phone": "609-585-7878",
+        "longitude": -74.67184200000001,
+        "latitude": 40.178635
+      },
+      {
+        "line1": "405 Route 539 (Pinehurst Rd.)",
+        "city": "Plumsted",
+        "state": "NJ",
+        "zip": "08514",
+        "phone": "609-286-2571",
+        "longitude": -74.5068462,
+        "latitude": 40.1027135
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-3765"
+    ],
+    "emails": [],
+    "urls": [
+      "https://chrissmith.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S000522.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepChrisSmith"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepChrisSmith"
+      },
+      {
+        "type": "YouTube",
+        "id": "USRepChrisSmith"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NJ-4",
+      "level": "federal"
+    }
+  }
+]

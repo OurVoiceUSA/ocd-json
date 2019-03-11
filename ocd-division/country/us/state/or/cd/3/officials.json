@@ -1,1 +1,43 @@
-[{"name":"Earl Blumenauer","address":[{"line1":"911 N.E. 11th Ave.","line2":"Suite 200","city":"Portland","state":"OR","zip":"97232","phone":"503-231-2300","longitude":-122.6555902,"latitude":45.5293348}],"party":"Democratic","phones":["202-225-4811"],"emails":[],"urls":["https://blumenauer.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/B000574.jpg","channels":[{"type":"Twitter","id":"BlumenauerMedia"},{"type":"YouTube","id":"RepBlumenauer"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives OR-3","level":"federal"}}]
+[
+  {
+    "name": "Earl Blumenauer",
+    "address": [
+      {
+        "line1": "911 N.E. 11th Ave.",
+        "line2": "Suite 200",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97232",
+        "phone": "503-231-2300",
+        "longitude": -122.6555902,
+        "latitude": 45.5293348
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4811"
+    ],
+    "emails": [],
+    "urls": [
+      "https://blumenauer.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/B000574.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "BlumenauerMedia"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepBlumenauer"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives OR-3",
+      "level": "federal"
+    }
+  }
+]

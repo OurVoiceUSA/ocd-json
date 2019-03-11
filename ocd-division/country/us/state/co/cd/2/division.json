@@ -1,1 +1,10 @@
-{"name":"Colorado's 2nd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives CO-2","level":"federal"}]}
+{
+  "name": "Colorado's 2nd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives CO-2",
+      "level": "federal"
+    }
+  ]
+}

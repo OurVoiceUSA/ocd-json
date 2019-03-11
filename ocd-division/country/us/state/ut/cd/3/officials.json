@@ -1,1 +1,47 @@
-[{"name":"John R. Curtis","address":[{"line1":"51 South University Avenue","line2":"Suite 318","city":"Provo","state":"UT","zip":"84601","phone":"801-851-2500","longitude":-111.6578512,"latitude":40.232986}],"party":"Republican","phones":["202-225-7751"],"emails":[],"urls":["https://curtis.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C001114.jpg","channels":[{"type":"Twitter","id":"RepJohnCurtis"},{"type":"Facebook","id":"RepJohnCurtis"},{"type":"Instagram","id":"repjohncurtis"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives UT-3","level":"federal"}}]
+[
+  {
+    "name": "John R. Curtis",
+    "address": [
+      {
+        "line1": "51 South University Avenue",
+        "line2": "Suite 318",
+        "city": "Provo",
+        "state": "UT",
+        "zip": "84601",
+        "phone": "801-851-2500",
+        "longitude": -111.6578512,
+        "latitude": 40.232986
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-7751"
+    ],
+    "emails": [],
+    "urls": [
+      "https://curtis.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001114.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepJohnCurtis"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepJohnCurtis"
+      },
+      {
+        "type": "Instagram",
+        "id": "repjohncurtis"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives UT-3",
+      "level": "federal"
+    }
+  }
+]

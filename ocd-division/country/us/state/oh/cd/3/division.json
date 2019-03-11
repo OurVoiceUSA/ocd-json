@@ -1,1 +1,10 @@
-{"name":"Ohio's 3rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives OH-3","level":"federal"}]}
+{
+  "name": "Ohio's 3rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives OH-3",
+      "level": "federal"
+    }
+  ]
+}

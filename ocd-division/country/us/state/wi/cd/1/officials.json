@@ -1,1 +1,28 @@
-[{"name":"Bryan Steil","address":[],"party":"Republican","phones":["202-225-3031"],"emails":[],"urls":["https://steil.house.gov/"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/S001213.jpg","channels":[{"type":"Twitter","id":"RepBryanSteil"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives WI-1","level":"federal"}}]
+[
+  {
+    "name": "Bryan Steil",
+    "address": [],
+    "party": "Republican",
+    "phones": [
+      "202-225-3031"
+    ],
+    "emails": [],
+    "urls": [
+      "https://steil.house.gov/"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001213.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepBryanSteil"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives WI-1",
+      "level": "federal"
+    }
+  }
+]

@@ -1,1 +1,10 @@
-{"name":"Illinois's 15th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives IL-15","level":"federal"}]}
+{
+  "name": "Illinois's 15th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives IL-15",
+      "level": "federal"
+    }
+  ]
+}

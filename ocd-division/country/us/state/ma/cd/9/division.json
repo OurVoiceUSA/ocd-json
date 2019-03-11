@@ -1,1 +1,10 @@
-{"name":"Massachusetts's 9th congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives MA-9","level":"federal"}]}
+{
+  "name": "Massachusetts's 9th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives MA-9",
+      "level": "federal"
+    }
+  ]
+}

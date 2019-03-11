@@ -1,1 +1,71 @@
-[{"name":"Darin LaHood","address":[{"line1":"3004 G.E. Rd.","line2":"Suite 1B","city":"Bloomington","state":"IL","zip":"61704","phone":"309-205-9556","longitude":-88.9230848,"latitude":40.5029607},{"line1":"201 W. Morgan St.","city":"Jacksonville","state":"IL","zip":"62650","phone":"217-245-1431","longitude":-90.22998150000001,"latitude":39.7336397},{"line1":"100 NE Monroe St.","line2":"Room 100","city":"Peoria","state":"IL","zip":"61602","phone":"309-671-7027","longitude":-89.591743,"latitude":40.6949004},{"line1":"235 S. Sixth St.","city":"Springfield","state":"IL","zip":"62701","phone":"217-670-1653","longitude":-89.648127,"latitude":39.79957450000001}],"party":"Republican","phones":["202-225-6201"],"emails":[],"urls":["https://lahood.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/L000585.jpg","channels":[{"type":"Twitter","id":"RepLaHood"},{"type":"Facebook","id":"replahood"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives IL-18","level":"federal"}}]
+[
+  {
+    "name": "Darin LaHood",
+    "address": [
+      {
+        "line1": "3004 G.E. Rd.",
+        "line2": "Suite 1B",
+        "city": "Bloomington",
+        "state": "IL",
+        "zip": "61704",
+        "phone": "309-205-9556",
+        "longitude": -88.9230848,
+        "latitude": 40.5029607
+      },
+      {
+        "line1": "201 W. Morgan St.",
+        "city": "Jacksonville",
+        "state": "IL",
+        "zip": "62650",
+        "phone": "217-245-1431",
+        "longitude": -90.22998150000001,
+        "latitude": 39.7336397
+      },
+      {
+        "line1": "100 NE Monroe St.",
+        "line2": "Room 100",
+        "city": "Peoria",
+        "state": "IL",
+        "zip": "61602",
+        "phone": "309-671-7027",
+        "longitude": -89.591743,
+        "latitude": 40.6949004
+      },
+      {
+        "line1": "235 S. Sixth St.",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701",
+        "phone": "217-670-1653",
+        "longitude": -89.648127,
+        "latitude": 39.79957450000001
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-6201"
+    ],
+    "emails": [],
+    "urls": [
+      "https://lahood.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/L000585.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLaHood"
+      },
+      {
+        "type": "Facebook",
+        "id": "replahood"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives IL-18",
+      "level": "federal"
+    }
+  }
+]

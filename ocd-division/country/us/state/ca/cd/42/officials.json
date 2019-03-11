@@ -1,1 +1,51 @@
-[{"name":"Ken Calvert","address":[{"line1":"400 S. Vicentia Ave.","line2":"Suite 125","city":"Corona","state":"CA","zip":"92882","phone":"951-277-0042","longitude":-117.5759232,"latitude":33.8784386}],"party":"Republican","phones":["202-225-1986"],"emails":[],"urls":["https://calvert.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/C000059.jpg","channels":[{"type":"Twitter","id":"KenCalvert"},{"type":"Facebook","id":"70063393423"},{"type":"YouTube","id":"RepKenCalvert"},{"type":"Instagram","id":"repkencalvert"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives CA-42","level":"federal"}}]
+[
+  {
+    "name": "Ken Calvert",
+    "address": [
+      {
+        "line1": "400 S. Vicentia Ave.",
+        "line2": "Suite 125",
+        "city": "Corona",
+        "state": "CA",
+        "zip": "92882",
+        "phone": "951-277-0042",
+        "longitude": -117.5759232,
+        "latitude": 33.8784386
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-1986"
+    ],
+    "emails": [],
+    "urls": [
+      "https://calvert.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/C000059.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "KenCalvert"
+      },
+      {
+        "type": "Facebook",
+        "id": "70063393423"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepKenCalvert"
+      },
+      {
+        "type": "Instagram",
+        "id": "repkencalvert"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives CA-42",
+      "level": "federal"
+    }
+  }
+]

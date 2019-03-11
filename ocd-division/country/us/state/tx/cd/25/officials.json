@@ -1,1 +1,53 @@
-[{"name":"Roger Williams","address":[{"line1":"1005 Congress Ave.","line2":"Suite 925","city":"Austin","state":"TX","zip":"78701","phone":"512-473-8910","longitude":-97.7409012,"latitude":30.2720399},{"line1":"115 S. Main St.","line2":"Suite 206","city":"Cleburne","state":"TX","zip":"76033","phone":"817-774-2575","longitude":-97.3858312,"latitude":32.3462862}],"party":"Republican","phones":["202-225-9896"],"emails":[],"urls":["https://williams.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/W000816.jpg","channels":[{"type":"Twitter","id":"RepRWilliams"},{"type":"Facebook","id":"RepRogerWilliams"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-25","level":"federal"}}]
+[
+  {
+    "name": "Roger Williams",
+    "address": [
+      {
+        "line1": "1005 Congress Ave.",
+        "line2": "Suite 925",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "phone": "512-473-8910",
+        "longitude": -97.7409012,
+        "latitude": 30.2720399
+      },
+      {
+        "line1": "115 S. Main St.",
+        "line2": "Suite 206",
+        "city": "Cleburne",
+        "state": "TX",
+        "zip": "76033",
+        "phone": "817-774-2575",
+        "longitude": -97.3858312,
+        "latitude": 32.3462862
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-9896"
+    ],
+    "emails": [],
+    "urls": [
+      "https://williams.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/W000816.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepRWilliams"
+      },
+      {
+        "type": "Facebook",
+        "id": "RepRogerWilliams"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-25",
+      "level": "federal"
+    }
+  }
+]

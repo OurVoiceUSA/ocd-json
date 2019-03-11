@@ -1,1 +1,42 @@
-[{"name":"Peter T. King","address":[{"line1":"1003 Park Blvd.","city":"Massapequa Park","state":"NY","zip":"11762","phone":"516-541-4225","longitude":-73.4556272,"latitude":40.6785193}],"party":"Republican","phones":["202-225-7896"],"emails":[],"urls":["https://peteking.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/K000210.jpg","channels":[{"type":"Twitter","id":"RepPeteKing"},{"type":"YouTube","id":"RepPeterKing"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NY-2","level":"federal"}}]
+[
+  {
+    "name": "Peter T. King",
+    "address": [
+      {
+        "line1": "1003 Park Blvd.",
+        "city": "Massapequa Park",
+        "state": "NY",
+        "zip": "11762",
+        "phone": "516-541-4225",
+        "longitude": -73.4556272,
+        "latitude": 40.6785193
+      }
+    ],
+    "party": "Republican",
+    "phones": [
+      "202-225-7896"
+    ],
+    "emails": [],
+    "urls": [
+      "https://peteking.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/K000210.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepPeteKing"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepPeterKing"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NY-2",
+      "level": "federal"
+    }
+  }
+]

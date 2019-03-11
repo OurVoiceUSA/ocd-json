@@ -1,1 +1,10 @@
-{"name":"Texas's 33rd congressional district","scope":"congressional","offices":[{"name":"United States House of Representatives TX-33","level":"federal"}]}
+{
+  "name": "Texas's 33rd congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives TX-33",
+      "level": "federal"
+    }
+  ]
+}

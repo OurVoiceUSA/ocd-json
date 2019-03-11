@@ -1,1 +1,47 @@
-[{"name":"Donald Norcross","address":[{"line1":"10 Melrose Ave.","line2":"Suite 210","city":"Cherry Hill","state":"NJ","zip":"08003","phone":"856-427-7000","longitude":-75.0138274,"latitude":39.8719711}],"party":"Democratic","phones":["202-225-6501"],"emails":[],"urls":["https://norcross.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/N000188.jpg","channels":[{"type":"Twitter","id":"DonaldNorcross"},{"type":"Facebook","id":"DonaldNorcrossNJ"},{"type":"Instagram","id":"donald_norcross"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives NJ-1","level":"federal"}}]
+[
+  {
+    "name": "Donald Norcross",
+    "address": [
+      {
+        "line1": "10 Melrose Ave.",
+        "line2": "Suite 210",
+        "city": "Cherry Hill",
+        "state": "NJ",
+        "zip": "08003",
+        "phone": "856-427-7000",
+        "longitude": -75.0138274,
+        "latitude": 39.8719711
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-6501"
+    ],
+    "emails": [],
+    "urls": [
+      "https://norcross.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/N000188.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "DonaldNorcross"
+      },
+      {
+        "type": "Facebook",
+        "id": "DonaldNorcrossNJ"
+      },
+      {
+        "type": "Instagram",
+        "id": "donald_norcross"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives NJ-1",
+      "level": "federal"
+    }
+  }
+]

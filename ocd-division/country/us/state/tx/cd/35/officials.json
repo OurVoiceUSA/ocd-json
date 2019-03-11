@@ -1,1 +1,60 @@
-[{"name":"Lloyd Doggett","address":[{"line1":"300 E. 8th St.","line2":"Suite 763","city":"Austin","state":"TX","zip":"78701","phone":"512-916-5921","longitude":-97.7390867,"latitude":30.269401},{"line1":"217 W. Travis St.","city":"San Antonio","state":"TX","zip":"78205","phone":"210-704-1080","longitude":-98.4951151,"latitude":29.427604}],"party":"Democratic","phones":["202-225-4865"],"emails":[],"urls":["https://doggett.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/D000399.jpg","channels":[{"type":"Twitter","id":"RepLloydDoggett"},{"type":"Facebook","id":"lloyddoggett"},{"type":"YouTube","id":"doggett"},{"type":"Instagram","id":"replloyddoggett"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-35","level":"federal"}}]
+[
+  {
+    "name": "Lloyd Doggett",
+    "address": [
+      {
+        "line1": "300 E. 8th St.",
+        "line2": "Suite 763",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "phone": "512-916-5921",
+        "longitude": -97.7390867,
+        "latitude": 30.269401
+      },
+      {
+        "line1": "217 W. Travis St.",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78205",
+        "phone": "210-704-1080",
+        "longitude": -98.4951151,
+        "latitude": 29.427604
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-4865"
+    ],
+    "emails": [],
+    "urls": [
+      "https://doggett.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/D000399.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepLloydDoggett"
+      },
+      {
+        "type": "Facebook",
+        "id": "lloyddoggett"
+      },
+      {
+        "type": "YouTube",
+        "id": "doggett"
+      },
+      {
+        "type": "Instagram",
+        "id": "replloyddoggett"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-35",
+      "level": "federal"
+    }
+  }
+]

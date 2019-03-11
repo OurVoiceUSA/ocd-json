@@ -1,1 +1,51 @@
-[{"name":"Al Green","address":[{"line1":"3003 South Loop West","line2":"Suite 460","city":"Houston","state":"TX","zip":"77054","phone":"713-383-9234","longitude":-95.4252617,"latitude":29.6765115}],"party":"Democratic","phones":["202-225-7508"],"emails":[],"urls":["https://algreen.house.gov"],"photoUrl":"https://theunitedstates.io/images/congress/450x550/G000553.jpg","channels":[{"type":"Twitter","id":"RepAlGreen"},{"type":"Facebook","id":"repalgreen"},{"type":"YouTube","id":"RepAlGreen"},{"type":"Instagram","id":"repalgreen"}],"sources":["theunitedstates.io"],"office":{"name":"United States House of Representatives TX-9","level":"federal"}}]
+[
+  {
+    "name": "Al Green",
+    "address": [
+      {
+        "line1": "3003 South Loop West",
+        "line2": "Suite 460",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77054",
+        "phone": "713-383-9234",
+        "longitude": -95.4252617,
+        "latitude": 29.6765115
+      }
+    ],
+    "party": "Democratic",
+    "phones": [
+      "202-225-7508"
+    ],
+    "emails": [],
+    "urls": [
+      "https://algreen.house.gov"
+    ],
+    "photoUrl": "https://theunitedstates.io/images/congress/450x550/G000553.jpg",
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "RepAlGreen"
+      },
+      {
+        "type": "Facebook",
+        "id": "repalgreen"
+      },
+      {
+        "type": "YouTube",
+        "id": "RepAlGreen"
+      },
+      {
+        "type": "Instagram",
+        "id": "repalgreen"
+      }
+    ],
+    "sources": [
+      "theunitedstates.io"
+    ],
+    "office": {
+      "name": "United States House of Representatives TX-9",
+      "level": "federal"
+    }
+  }
+]
