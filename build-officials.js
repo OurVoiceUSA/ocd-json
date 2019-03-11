@@ -105,7 +105,7 @@ async function processUSLC() {
   });
 
   response = await fetch(
-    "https://raw.githubusercontent.com/unitedstates/congress-legislators/gh-pages/legislators-social-media.json",
+    "https://theunitedstates.io/congress-legislators/legislators-social-media.json",
     {compress: true}
   );
   json = await response.json();
@@ -117,10 +117,23 @@ async function processUSLC() {
   });
 
   response = await fetch(
+    "https://theunitedstates.io/congress-legislators/executive.json",
+    {compress: true}
+  );
+  json = await response.json();
+
+  let prez = json.pop();
+  let viceprez = json.pop();
+
+  response = await fetch(
     "https://theunitedstates.io/congress-legislators/legislators-current.json",
     {compress: true}
   );
   json = await response.json();
+
+  // push the executives onto this so they're caught in the loop
+  json.push(prez);
+  json.push(viceprez);
 
 /*
   input format:
@@ -175,11 +188,23 @@ async function processUSLC() {
 
   json.forEach(obj => {
     let term = obj.terms[obj.terms.length-1];
-    let div = 'ocd-division/country:us/state:'+term.state.toLowerCase()+((term.type == 'rep' && term.district)?'/cd:'+term.district:'');
+    let div = 'ocd-division/country:us';
+
+    switch (term.type) {
+      case 'rep':
+        div = div+'/state:'+term.state.toLowerCase()+(term.district?'/cd:'+term.district:'');
+        break;
+      case 'sen':
+        div = div+'/state:'+term.state.toLowerCase();
+        break;
+    }
 
     if (!ocd[div]) throw "Invlid div "+div;
 
     let id = sha1(div+":"+obj.name.last.toLowerCase().trim()+":"+obj.name.first.toLowerCase().trim());
+
+    // execs don't have this prop -- SMH
+    if (!obj.name.official_full) obj.name.official_full = obj.name.first+(obj.name.middle?' '+obj.name.middle:'')+' '+obj.name.last;
 
     polGen(id, div);
     polProp(id, 'name', obj.name.official_full);
@@ -187,7 +212,7 @@ async function processUSLC() {
     polProp(id, 'phones', term.phone);
     // this data set doesn't contain email address
     polProp(id, 'urls', term.url);
-    polProp(id, 'photoUrl', 'https://theunitedstates.io/images/congress/450x550/'+obj.id.bioguide+'.jpg');
+    if (obj.id.bioguide) polProp(id, 'photoUrl', 'https://theunitedstates.io/images/congress/450x550/'+obj.id.bioguide+'.jpg');
     polSource(id, 'theunitedstates.io');
     polProp(id, 'officekey', 'us'+term.type);
     if (term.district)
@@ -268,6 +293,9 @@ function polSource(id, input) {
 }
 
 function polProp(id, key, val) {
+  // don't accept null or undefined values
+  if (val === null || val === undefined) return;
+
   // based on prop key, assort the input
   switch (key) {
     case 'party':
@@ -298,6 +326,16 @@ function polAddress(id, input) {
 function officeFromKey(key, state, dist) {
   // TODO: "name" can sometimes be based on what state this is
   switch (key) {
+    case 'usprez':
+      return {
+        name: "President",
+        level: "federal",
+      };
+    case 'usviceprez':
+      return {
+        name: "Vice President",
+        level: "federal",
+      };
     case 'ussen':
       return {
         name: "United States Senate",
