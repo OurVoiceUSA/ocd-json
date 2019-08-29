@@ -1,3 +1,13 @@
+/*
+to run this script, do this one-time step:
+
+* npm install
+
+then:
+
+* node node_modules/@babel/node/lib/_babel-node build-officials.js 
+
+*/
 
 import fetch from 'node-fetch';
 import csvjson from 'csvjson';
