@@ -1,7 +1,36 @@
 [
   {
     "name": "Carol D. Miller",
-    "address": [],
+    "address": [
+      {
+        "line1": "307 Prince St",
+        "city": "Beckley",
+        "state": "WV",
+        "zip": "25801-4515",
+        "phone": "304-250-6177",
+        "longitude": -81.17965,
+        "latitude": 37.77843
+      },
+      {
+        "line1": "601 Federal St",
+        "line3": "Elizabeth Kee Federal Building",
+        "city": "Bluefield",
+        "state": "WV",
+        "zip": "24701-3066",
+        "longitude": -81.22171,
+        "latitude": 37.26693
+      },
+      {
+        "line1": "845 5th Ave",
+        "line3": "Sidney L. Christie FB",
+        "city": "Huntington",
+        "state": "WV",
+        "zip": "25701-2014",
+        "phone": "304-522-2201",
+        "longitude": -82.44445,
+        "latitude": 38.41913
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-3452"

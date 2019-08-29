@@ -1,7 +1,19 @@
 [
   {
     "name": "Elaine G. Luria",
-    "address": [],
+    "address": [
+      {
+        "line1": "283 Constitution Dr",
+        "line2": "Suite 900",
+        "line3": "One Columbus Center",
+        "city": "Virginia Beach",
+        "state": "VA",
+        "zip": "23462-6722",
+        "phone": "757-364-7650",
+        "longitude": -76.13213,
+        "latitude": 36.84256
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4215"

@@ -1,7 +1,18 @@
 [
   {
     "name": "Chrissy Houlahan",
-    "address": [],
+    "address": [
+      {
+        "line1": "815 Washington St",
+        "line2": "2-48",
+        "city": "Reading",
+        "state": "PA",
+        "zip": "19601-3615",
+        "phone": "610-295-0815",
+        "longitude": -75.92123,
+        "latitude": 40.33695
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4315"

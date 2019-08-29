@@ -1,7 +1,27 @@
 [
   {
     "name": "Denver Riggleman",
-    "address": [],
+    "address": [
+      {
+        "line1": "686 Berkmar Cir",
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22901-1464",
+        "phone": "434-973-9631",
+        "longitude": -78.47903,
+        "latitude": 38.08462
+      },
+      {
+        "line1": "308 Craghead St",
+        "line2": "102-D",
+        "city": "Danville",
+        "state": "VA",
+        "zip": "24541-1470",
+        "phone": "434-791-2596",
+        "longitude": -79.38951,
+        "latitude": 36.58699
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-4711"

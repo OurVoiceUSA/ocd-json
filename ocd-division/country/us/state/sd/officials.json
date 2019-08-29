@@ -135,7 +135,37 @@
   },
   {
     "name": "Dusty Johnson",
-    "address": [],
+    "address": [
+      {
+        "line1": "304 6th Ave SE",
+        "city": "Aberdeen",
+        "state": "SD",
+        "zip": "57401-6102",
+        "phone": "605-622-1060",
+        "longitude": -98.48235,
+        "latitude": 45.45894
+      },
+      {
+        "line1": "2525 W Main St",
+        "line2": "Suite 310",
+        "city": "Rapid City",
+        "state": "SD",
+        "zip": "57702-0901",
+        "phone": "605-646-6454",
+        "longitude": -103.26037,
+        "latitude": 44.08216
+      },
+      {
+        "line1": "300 N Dakota Ave",
+        "line2": "Suite 314",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "zip": "57104-6037",
+        "phone": "605-275-2868",
+        "longitude": -96.72981,
+        "latitude": 43.55057
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2801"

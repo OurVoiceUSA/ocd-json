@@ -1,7 +1,18 @@
 [
   {
     "name": "Jennifer Wexton",
-    "address": [],
+    "address": [
+      {
+        "line1": "21351 Gentry Dr",
+        "line2": "Suite 140",
+        "city": "Sterling",
+        "state": "VA",
+        "zip": "20166-8501",
+        "phone": "703-234-3800",
+        "longitude": -77.40825,
+        "latitude": 39.02961
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5136"

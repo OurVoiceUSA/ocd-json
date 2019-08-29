@@ -12,8 +12,9 @@
         "latitude": 28.261156
       },
       {
-        "line1": "38500 US Highway 19 North",
-        "line2": "Room BB-038",
+        "line1": "38500 U.S. Hwy 19 North",
+        "line2": "BB-038",
+        "line3": "St. Petersburg College",
         "city": "Tarpon Springs",
         "state": "FL",
         "zip": "34689",

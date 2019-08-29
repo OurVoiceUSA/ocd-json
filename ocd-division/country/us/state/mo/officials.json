@@ -13,16 +13,6 @@
         "latitude": 37.3064303
       },
       {
-        "line1": "7700 Bonhomme Ave.",
-        "line2": "Suite 315",
-        "city": "Clayton",
-        "state": "MO",
-        "zip": "63105",
-        "phone": "314-725-4484",
-        "longitude": -90.3351311,
-        "latitude": 38.647051
-      },
-      {
         "line1": "1123 Wilkes Blvd",
         "line2": "Suite 320",
         "city": "Columbia",
@@ -41,6 +31,17 @@
         "phone": "816-471-7141",
         "longitude": -94.5825038,
         "latitude": 39.1021449
+      },
+      {
+        "line1": "111 S 10th St",
+        "line2": "23.305",
+        "line3": "Thomas F. Eagleton U.S. Courthouse",
+        "city": "Saint Louis",
+        "state": "MO",
+        "zip": "63102-1125",
+        "phone": "314-725-4484",
+        "longitude": -90.196,
+        "latitude": 38.62588
       },
       {
         "line1": "2740 B E. Sunshine",
@@ -96,7 +97,7 @@
     ],
     "emails": [],
     "urls": [
-      "https://www.senate.gov/senators/116thCongress/HawleyJosh.htm"
+      "https://www.hawley.senate.gov"
     ],
     "photoUrl": "https://theunitedstates.io/images/congress/450x550/H001089.jpg",
     "channels": [

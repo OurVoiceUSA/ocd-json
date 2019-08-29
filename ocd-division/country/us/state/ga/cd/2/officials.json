@@ -3,15 +3,14 @@
     "name": "Sanford D. Bishop, Jr.",
     "address": [
       {
-        "line1": "235 W. Roosevelt Ave.",
-        "line2": "Suite 114",
-        "line3": "Albany Towers",
+        "line1": "323 Pine Ave",
+        "line2": "400",
         "city": "Albany",
         "state": "GA",
-        "zip": "31701",
+        "zip": "31701-2596",
         "phone": "229-439-8067",
-        "longitude": -84.15300719999999,
-        "latitude": 31.5819859
+        "longitude": -84.1542,
+        "latitude": 31.57858
       },
       {
         "line1": "18 Ninth St.",

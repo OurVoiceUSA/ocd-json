@@ -3,13 +3,14 @@
     "name": "Elise M. Stefanik",
     "address": [
       {
-        "line1": "136 Glen St.",
+        "line1": "5 Warren St",
+        "line2": "Suite 4",
         "city": "Glens Falls",
         "state": "NY",
-        "zip": "12801",
+        "zip": "12801-4565",
         "phone": "518-743-0964",
-        "longitude": -73.6439247,
-        "latitude": 43.3091113
+        "longitude": -73.64131,
+        "latitude": 43.30977
       },
       {
         "line1": "23 Durkee St.",

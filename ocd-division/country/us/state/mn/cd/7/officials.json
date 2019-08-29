@@ -22,15 +22,6 @@
         "latitude": 44.447474
       },
       {
-        "line1": "100 N. First St.",
-        "city": "Montevideo",
-        "state": "MN",
-        "zip": "56265",
-        "phone": "320-235-1061",
-        "longitude": -95.7243254,
-        "latitude": 44.9455663
-      },
-      {
         "line1": "230 E. 3rd St.",
         "city": "Redwood Falls",
         "state": "MN",
@@ -40,14 +31,23 @@
         "latitude": 44.5395952
       },
       {
-        "line1": "324 3rd St. SW",
-        "line2": "Suite 4",
+        "line1": "13892 Airport Dr",
+        "city": "Thief River Falls",
+        "state": "MN",
+        "zip": "56701-8437",
+        "phone": "218-683-5405",
+        "longitude": -96.20309,
+        "latitude": 48.0823
+      },
+      {
+        "line1": "1700 Technology Dr NE",
+        "line2": "Suite 119",
         "city": "Willmar",
         "state": "MN",
-        "zip": "56201",
+        "zip": "56201-2284",
         "phone": "320-235-1061",
-        "longitude": -95.04656659999999,
-        "latitude": 45.1213299
+        "longitude": -95.09127,
+        "latitude": 45.09921
       }
     ],
     "party": "Democratic",

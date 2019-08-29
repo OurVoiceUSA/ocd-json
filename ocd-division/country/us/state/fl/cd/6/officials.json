@@ -1,7 +1,39 @@
 [
   {
     "name": "Michael Waltz",
-    "address": [],
+    "address": [
+      {
+        "line1": "120 S Florida Ave",
+        "line2": "Suite 324",
+        "city": "Deland",
+        "state": "FL",
+        "zip": "32720-5422",
+        "phone": "386-279-0707",
+        "longitude": -81.30621,
+        "latitude": 29.02759
+      },
+      {
+        "line1": "31 Lupi Ct",
+        "line2": "Suite 130",
+        "city": "Palm Coast",
+        "state": "FL",
+        "zip": "32137-4761",
+        "phone": "386-302-0442",
+        "longitude": -81.23422,
+        "latitude": 29.55515
+      },
+      {
+        "line1": "1000 City Center Cir",
+        "line2": "2nd Floor",
+        "line3": "Port Orange City Hall",
+        "city": "Port Orange",
+        "state": "FL",
+        "zip": "32129-4144",
+        "phone": "386-238-9711",
+        "longitude": -81.02174,
+        "latitude": 29.1264
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2706"

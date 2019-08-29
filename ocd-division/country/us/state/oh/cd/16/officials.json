@@ -1,7 +1,28 @@
 [
   {
     "name": "Anthony Gonzalez",
-    "address": [],
+    "address": [
+      {
+        "line1": "4150 Belden Village St NW",
+        "line2": "Suite 607",
+        "city": "Canton",
+        "state": "OH",
+        "zip": "44718-2595",
+        "phone": "330-599-7037",
+        "longitude": -81.42644,
+        "latitude": 40.85516
+      },
+      {
+        "line1": "13477 Prospect Rd",
+        "line2": "Suite 212",
+        "city": "Strongsville",
+        "state": "OH",
+        "zip": "44149-3867",
+        "phone": "440-783-3696",
+        "longitude": -81.85719,
+        "latitude": 41.31615
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-3876"

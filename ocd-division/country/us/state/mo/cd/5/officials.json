@@ -12,13 +12,14 @@
         "latitude": 39.0754557
       },
       {
-        "line1": "211 W. Maple Ave.",
+        "line1": "411 W Maple Ave",
+        "line2": "F",
         "city": "Independence",
         "state": "MO",
-        "zip": "64050",
+        "zip": "64050-2840",
         "phone": "816-833-4545",
-        "longitude": -94.41765029999999,
-        "latitude": 39.0926561
+        "longitude": -94.4201,
+        "latitude": 39.09278
       },
       {
         "line1": "101 W. 31 St.",

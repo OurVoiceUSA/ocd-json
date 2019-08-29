@@ -118,17 +118,37 @@
   },
   {
     "name": "Rick Scott",
-    "address": [],
+    "address": [
+      {
+        "line1": "111 N Adams St",
+        "line2": "208,",
+        "city": "Tallahassee",
+        "state": "FL",
+        "zip": "32301-7736",
+        "phone": "850-942-8415",
+        "longitude": -84.2819,
+        "latitude": 30.44252
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-224-5274"
     ],
     "emails": [],
     "urls": [
-      "https://www.senate.gov/senators/116thCongress/ScottRick.htm"
+      "https://www.rickscott.senate.gov"
     ],
     "photoUrl": "https://theunitedstates.io/images/congress/450x550/S001217.jpg",
-    "channels": [],
+    "channels": [
+      {
+        "type": "Twitter",
+        "id": "SenRickScott"
+      },
+      {
+        "type": "Facebook",
+        "id": "RickScottSenOffice"
+      }
+    ],
     "sources": [
       "theunitedstates.io"
     ],

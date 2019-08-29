@@ -1,7 +1,28 @@
 [
   {
     "name": "Mike Levin",
-    "address": [],
+    "address": [
+      {
+        "line1": "33282 Golden Lantern St",
+        "line2": "Suite 102",
+        "city": "Dana Point",
+        "state": "CA",
+        "zip": "92629-1805",
+        "phone": "949-281-2449",
+        "longitude": -117.69774,
+        "latitude": 33.48052
+      },
+      {
+        "line1": "2204 S El Camino Real",
+        "line2": "Suite 314",
+        "city": "Oceanside",
+        "state": "CA",
+        "zip": "92054-6306",
+        "phone": "760-599-5000",
+        "longitude": -117.32722,
+        "latitude": 33.18403
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3906"

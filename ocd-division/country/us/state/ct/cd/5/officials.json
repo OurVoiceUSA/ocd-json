@@ -1,7 +1,18 @@
 [
   {
     "name": "Jahana Hayes",
-    "address": [],
+    "address": [
+      {
+        "line1": "108 Bank St",
+        "line2": "2nd Floor",
+        "city": "Waterbury",
+        "state": "CT",
+        "zip": "06702-2233",
+        "phone": "860-223-8412",
+        "longitude": -73.04104,
+        "latitude": 41.55442
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4476"

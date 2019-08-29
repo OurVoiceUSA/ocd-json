@@ -1,7 +1,36 @@
 [
   {
     "name": "Debbie Mucarsel-Powell",
-    "address": [],
+    "address": [
+      {
+        "line1": "404 W Palm Dr",
+        "city": "Florida City",
+        "state": "FL",
+        "zip": "33034-3346",
+        "longitude": -80.48265,
+        "latitude": 25.44833
+      },
+      {
+        "line1": "1100 Simonton St",
+        "line2": "1-213",
+        "city": "Key West",
+        "state": "FL",
+        "zip": "33040-3110",
+        "phone": "305-292-4485",
+        "longitude": -81.79733,
+        "latitude": 24.5504
+      },
+      {
+        "line1": "12851 SW 42nd St",
+        "line2": "Suite 131",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33175-3436",
+        "phone": "305-222-0160",
+        "longitude": -80.40262,
+        "latitude": 25.7297
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2778"

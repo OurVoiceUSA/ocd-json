@@ -1,7 +1,18 @@
 [
   {
     "name": "Elissa Slotkin",
-    "address": [],
+    "address": [
+      {
+        "line1": "1100 W Saginaw St",
+        "line2": "3a",
+        "city": "Lansing",
+        "state": "MI",
+        "zip": "48915-2033",
+        "phone": "517-993-0510",
+        "longitude": -84.56793,
+        "latitude": 42.74097
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4872"

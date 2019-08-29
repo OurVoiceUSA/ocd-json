@@ -1,7 +1,19 @@
 [
   {
     "name": "David J. Trone",
-    "address": [],
+    "address": [
+      {
+        "line1": "9801 Washingtonian Blvd",
+        "line2": "Suite 330",
+        "line3": "One Washingtonian Center",
+        "city": "Gaithersburg",
+        "state": "MD",
+        "zip": "20878-5355",
+        "phone": "301-926-0300",
+        "longitude": -77.20114,
+        "latitude": 39.11684
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2721"

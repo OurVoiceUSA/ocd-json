@@ -1,7 +1,18 @@
 [
   {
     "name": "Kendra S. Horn",
-    "address": [],
+    "address": [
+      {
+        "line1": "400 N Walker Ave",
+        "line2": "Suite 210",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "zip": "73102-1886",
+        "phone": "405-602-3074",
+        "longitude": -97.5212,
+        "latitude": 35.47102
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2132"

@@ -1,7 +1,18 @@
 [
   {
     "name": "Max Rose",
-    "address": [],
+    "address": [
+      {
+        "line1": "265 New Dorp Ln",
+        "line2": "Second Floor",
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10306-3056",
+        "phone": "718-667-3313",
+        "longitude": -74.1132,
+        "latitude": 40.57258
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3371"

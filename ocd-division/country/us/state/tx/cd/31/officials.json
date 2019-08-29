@@ -13,7 +13,8 @@
         "latitude": 30.5234565
       },
       {
-        "line1": "6544B S. General Bruce Drive",
+        "line1": "6544 S General Bruce Dr",
+        "line2": "B",
         "city": "Temple",
         "state": "TX",
         "zip": "76502",

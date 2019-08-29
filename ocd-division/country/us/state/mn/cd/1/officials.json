@@ -1,7 +1,28 @@
 [
   {
     "name": "Jim Hagedorn",
-    "address": [],
+    "address": [
+      {
+        "line1": "11 Civic Center Plz",
+        "line2": "Suite 301",
+        "city": "Mankato",
+        "state": "MN",
+        "zip": "56001-7710",
+        "phone": "507-323-6090",
+        "longitude": -93.94899,
+        "latitude": 44.19115
+      },
+      {
+        "line1": "1530 Greenview Dr SW",
+        "line2": "Ste. 207",
+        "city": "Rochester",
+        "state": "MN",
+        "zip": "55902-4286",
+        "phone": "507-323-6090",
+        "longitude": -92.48603,
+        "latitude": 44.00307
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2472"

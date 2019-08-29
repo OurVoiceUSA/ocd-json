@@ -1,7 +1,18 @@
 [
   {
     "name": "Van Taylor",
-    "address": [],
+    "address": [
+      {
+        "line1": "5600 Tennyson Pkwy",
+        "line2": "Suite 275",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "75024-3818",
+        "phone": "972-202-4150",
+        "longitude": -96.81871,
+        "latitude": 33.07129
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-4201"

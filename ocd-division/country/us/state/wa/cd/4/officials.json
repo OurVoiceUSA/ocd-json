@@ -13,8 +13,15 @@
         "latitude": 46.3444932
       },
       {
-        "line1": "402 E. Yakima Ave.",
-        "line2": "Suite #445",
+        "line1": "PO Box 823",
+        "city": "Twisp",
+        "state": "WA",
+        "zip": "98856-0823",
+        "phone": "509-433-7760"
+      },
+      {
+        "line1": "402 E Yakima Ave",
+        "line2": "Suite 1000",
         "city": "Yakima",
         "state": "WA",
         "zip": "98901",

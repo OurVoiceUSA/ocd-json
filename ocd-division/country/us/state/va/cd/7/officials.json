@@ -1,7 +1,28 @@
 [
   {
     "name": "Abigail Davis Spanberger",
-    "address": [],
+    "address": [
+      {
+        "line1": "4201 Dominion Blvd",
+        "line2": "Suite 110",
+        "city": "Glen Allen",
+        "state": "VA",
+        "zip": "23060-6743",
+        "phone": "804-401-4110",
+        "longitude": -77.58431,
+        "latitude": 37.6518
+      },
+      {
+        "line1": "9104 Courthouse Rd",
+        "line2": "Suite 249",
+        "city": "Spotsylvania",
+        "state": "VA",
+        "zip": "22553-1902",
+        "phone": "202-225-2815",
+        "longitude": -77.58501,
+        "latitude": 38.20557
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2815"

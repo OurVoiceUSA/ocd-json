@@ -1,7 +1,18 @@
 [
   {
     "name": "Harley Rouda",
-    "address": [],
+    "address": [
+      {
+        "line1": "4000 Westerly Pl",
+        "line2": "Suite 270",
+        "city": "Newport Beach",
+        "state": "CA",
+        "zip": "92660-2328",
+        "phone": "714-960-6483",
+        "longitude": -117.86753,
+        "latitude": 33.6629
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2415"

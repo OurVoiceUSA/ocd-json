@@ -1,7 +1,28 @@
 [
   {
     "name": "Joe Neguse",
-    "address": [],
+    "address": [
+      {
+        "line1": "2503 Walnut St",
+        "line2": "Suite 300",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80302-5748",
+        "phone": "303-335-1045",
+        "longitude": -105.26139,
+        "latitude": 40.02088
+      },
+      {
+        "line1": "1220 S College Ave",
+        "line2": "Unit 100A",
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80524-3785",
+        "phone": "970-372-3971",
+        "longitude": -105.07662,
+        "latitude": 40.57127
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2161"

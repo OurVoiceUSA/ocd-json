@@ -1,7 +1,27 @@
 [
   {
     "name": "Tim Burchett",
-    "address": [],
+    "address": [
+      {
+        "line1": "800 Market St",
+        "line2": "Suite 110",
+        "city": "Knoxville",
+        "state": "TN",
+        "zip": "37902-2327",
+        "phone": "865-523-3772",
+        "longitude": -83.91771,
+        "latitude": 35.96225
+      },
+      {
+        "line1": "341 Court St",
+        "city": "Maryville",
+        "state": "TN",
+        "zip": "37804-5906",
+        "phone": "865-984-5464",
+        "longitude": -83.96911,
+        "latitude": 35.75488
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-5435"

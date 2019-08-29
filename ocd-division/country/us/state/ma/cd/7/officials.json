@@ -1,7 +1,16 @@
 [
   {
     "name": "Ayanna Pressley",
-    "address": [],
+    "address": [
+      {
+        "line1": "1700 Dorchester Ave",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02122-1373",
+        "longitude": -71.05997,
+        "latitude": 42.2987
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5111"

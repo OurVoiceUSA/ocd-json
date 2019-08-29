@@ -20,6 +20,15 @@
         "phone": "318-322-3500",
         "longitude": -92.1144236,
         "latitude": 32.5036093
+      },
+      {
+        "line1": "5934 Commerce St",
+        "city": "Saint Francisville",
+        "state": "LA",
+        "zip": "70775-4416",
+        "phone": "985-516-5858",
+        "longitude": -91.38074,
+        "latitude": 30.78532
       }
     ],
     "party": "Republican",

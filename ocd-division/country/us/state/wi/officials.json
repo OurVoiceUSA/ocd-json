@@ -3,6 +3,15 @@
     "name": "Tammy Baldwin",
     "address": [
       {
+        "line1": "PO Box 61",
+        "city": "Ashland",
+        "state": "WI",
+        "zip": "54806-0061",
+        "phone": "715-450-3754",
+        "longitude": -90.80933,
+        "latitude": 46.54692
+      },
+      {
         "line1": "500 South Barstow St.",
         "line2": "Suite LL2",
         "city": "Eau Claire",

@@ -78,7 +78,46 @@
   },
   {
     "name": "Mike Braun",
-    "address": [],
+    "address": [
+      {
+        "line1": "203 E Berry St",
+        "line2": "702B",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "zip": "46802-2724",
+        "phone": "260-427-2167",
+        "longitude": -85.13801,
+        "latitude": 41.0796
+      },
+      {
+        "line1": "5400 Federal Plz",
+        "line2": "Suite 3200",
+        "city": "Hammond",
+        "state": "IN",
+        "zip": "46320-1840",
+        "phone": "219-937-9650",
+        "longitude": -87.51962,
+        "latitude": 41.61616
+      },
+      {
+        "line1": "115 N Pennsylvania St",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46204-2410",
+        "phone": "317-822-8240",
+        "longitude": -86.15612,
+        "latitude": 39.76888
+      },
+      {
+        "line1": "205 W Colfax Ave",
+        "city": "South Bend",
+        "state": "IN",
+        "zip": "46601-1606",
+        "phone": "574-288-6302",
+        "longitude": -86.25266,
+        "latitude": 41.67813
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-224-4814"

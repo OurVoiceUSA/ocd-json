@@ -1,7 +1,48 @@
 [
   {
     "name": "Pete Stauber",
-    "address": [],
+    "address": [
+      {
+        "line1": "501 Laurel St",
+        "line3": "Brainerd City Hall",
+        "city": "Brainerd",
+        "state": "MN",
+        "zip": "56401-3595",
+        "phone": "218-355-0862",
+        "longitude": -94.20074,
+        "latitude": 46.35587
+      },
+      {
+        "line1": "300 3rd Ave NE",
+        "line3": "Cambridge City Hall",
+        "city": "Cambridge",
+        "state": "MN",
+        "zip": "55008-1281",
+        "longitude": -93.22133,
+        "latitude": 45.57578
+      },
+      {
+        "line1": "316 W Lake St",
+        "line2": "Suite 7",
+        "line3": "Chisholm City Hall",
+        "city": "Chisholm",
+        "state": "MN",
+        "zip": "55719-3708",
+        "phone": "218-355-0726",
+        "longitude": -92.88417,
+        "latitude": 47.48942
+      },
+      {
+        "line1": "5094 Miller Trunk Hwy",
+        "line2": "Suite 900",
+        "city": "Hermantown",
+        "state": "MN",
+        "zip": "55811-1626",
+        "phone": "218-481-6396",
+        "longitude": -92.21649,
+        "latitude": 46.83671
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6211"

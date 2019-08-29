@@ -21,13 +21,15 @@
         "latitude": 35.5265052
       },
       {
-        "line1": "903 University Ave.",
+        "line1": "1103 National Ave",
+        "line2": "Suite 210",
+        "line3": "NMHU Hewett Hall",
         "city": "Las Vegas",
         "state": "NM",
-        "zip": "87701",
+        "zip": "87701-4024",
         "phone": "505-454-3038",
-        "longitude": -105.2183489,
-        "latitude": 35.594789
+        "longitude": -105.22224,
+        "latitude": 35.59437
       },
       {
         "line1": "3200 Civic Center NE",

@@ -101,11 +101,13 @@
         "latitude": 33.517386
       },
       {
-        "line1": "1 Church Street",
-        "line2": "Suite 500 B",
+        "line1": "1 Church St",
+        "line2": "500-B",
+        "line3": "Federal Courthouse",
         "city": "Montgomery",
         "state": "AL",
         "zip": "36104",
+        "phone": "334-230-0698",
         "longitude": -86.3100212,
         "latitude": 32.3740843
       },
@@ -116,8 +118,28 @@
         "city": "Mobile",
         "state": "AL",
         "zip": "36608",
+        "phone": "251-414-3083",
         "longitude": -88.12678480000001,
         "latitude": 30.6907305
+      },
+      {
+        "line1": "100 W Troy St",
+        "line2": "Suite 302",
+        "city": "Dothan",
+        "state": "AL",
+        "zip": "36303-4574",
+        "phone": "334-792-4924",
+        "longitude": -85.3926,
+        "latitude": 31.22539
+      },
+      {
+        "line1": "200 Clinton Ave W",
+        "city": "Huntsville",
+        "state": "AL",
+        "zip": "35801-4918",
+        "phone": "256-533-0979",
+        "longitude": -86.58764,
+        "latitude": 34.73078
       }
     ],
     "party": "Democratic",

@@ -1,7 +1,18 @@
 [
   {
     "name": "Abby Finkenauer",
-    "address": [],
+    "address": [
+      {
+        "line1": "308 3rd St SE",
+        "line2": "Suite 200",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "zip": "52401-1849",
+        "phone": "319-364-2288",
+        "longitude": -91.66568,
+        "latitude": 41.97765
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2911"

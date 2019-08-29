@@ -3,14 +3,14 @@
     "name": "David Schweikert",
     "address": [
       {
-        "line1": "10603 North Hayden Rd.",
-        "line2": "Suite 108",
+        "line1": "14500 N Northsight Blvd",
+        "line2": "Suite 221",
         "city": "Scottsdale",
         "state": "AZ",
-        "zip": "85260",
+        "zip": "85260-3658",
         "phone": "480-946-2411",
-        "longitude": -111.9081262,
-        "latitude": 33.5830028
+        "longitude": -111.89853,
+        "latitude": 33.61738
       }
     ],
     "party": "Republican",

@@ -1,7 +1,18 @@
 [
   {
     "name": "Greg Stanton",
-    "address": [],
+    "address": [
+      {
+        "line1": "2944 N 44th St",
+        "line2": "Suite 150",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85018-7257",
+        "phone": "602-956-2463",
+        "longitude": -111.98764,
+        "latitude": 33.48161
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-9888"

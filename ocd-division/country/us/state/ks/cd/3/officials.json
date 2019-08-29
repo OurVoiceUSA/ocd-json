@@ -1,7 +1,17 @@
 [
   {
     "name": "Sharice Davids",
-    "address": [],
+    "address": [
+      {
+        "line1": "7325 W 79th St",
+        "city": "Overland Park",
+        "state": "KS",
+        "zip": "66204-2908",
+        "phone": "913-621-0832",
+        "longitude": -94.67027,
+        "latitude": 38.9858
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2865"

@@ -1,7 +1,26 @@
 [
   {
     "name": "Ann Kirkpatrick",
-    "address": [],
+    "address": [
+      {
+        "line1": "77 Calle Portal",
+        "line2": "B160",
+        "city": "Sierra Vista",
+        "state": "AZ",
+        "zip": "85635-2967",
+        "longitude": -110.26691,
+        "latitude": 31.55364
+      },
+      {
+        "line1": "1636 N Swan Rd",
+        "line2": "Suite 200",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85712-4067",
+        "longitude": -110.89202,
+        "latitude": 32.24289
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2542"

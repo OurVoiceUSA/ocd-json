@@ -1,7 +1,37 @@
 [
   {
     "name": "Michael Guest",
-    "address": [],
+    "address": [
+      {
+        "line1": "308B E Government St",
+        "city": "Brandon",
+        "state": "MS",
+        "zip": "39042-3262",
+        "phone": "769-241-6120",
+        "longitude": -89.98226,
+        "latitude": 32.27296
+      },
+      {
+        "line1": "2214 5th St",
+        "line2": "Suite 2170",
+        "city": "Meridian",
+        "state": "MS",
+        "zip": "39301-5809",
+        "phone": "601-693-6681",
+        "longitude": -88.70031,
+        "latitude": 32.36409
+      },
+      {
+        "line1": "600 Russell St",
+        "line2": "Suite 160",
+        "city": "Starkville",
+        "state": "MS",
+        "zip": "39759-8505",
+        "phone": "662-324-0007",
+        "longitude": -88.68608,
+        "latitude": 33.45683
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-5031"

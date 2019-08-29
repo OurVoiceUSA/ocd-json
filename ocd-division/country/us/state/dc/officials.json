@@ -7,10 +7,10 @@
         "line2": "Suite 100",
         "city": "Washington",
         "state": "DC",
-        "zip": "20001",
+        "zip": "20002-4203",
         "phone": "202-408-9041",
-        "longitude": -77.00662319999999,
-        "latitude": 38.9031719
+        "longitude": -77.00623,
+        "latitude": 38.90257
       },
       {
         "line1": "2235 Shannon Place SE",

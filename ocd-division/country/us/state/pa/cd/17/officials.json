@@ -3,13 +3,22 @@
     "name": "Conor Lamb",
     "address": [
       {
-        "line1": "504 Washington Rd",
-        "city": "Mt Lebanon",
+        "line1": "3468 Brodhead Rd",
+        "city": "Monaca",
         "state": "PA",
-        "zip": "15228",
+        "zip": "15061-3149",
+        "phone": "724-206-4860",
+        "longitude": -80.3124,
+        "latitude": 40.65095
+      },
+      {
+        "line1": "504 Washington Rd",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15228-2817",
         "phone": "412-344-5583",
-        "longitude": -80.0440158,
-        "latitude": 40.3841255
+        "longitude": -80.04388,
+        "latitude": 40.38423
       }
     ],
     "party": "Democratic",

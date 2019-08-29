@@ -3,13 +3,14 @@
     "name": "Scott Perry",
     "address": [
       {
-        "line1": "22 Chambersburg St.",
-        "city": "Gettysburg",
+        "line1": "800 Corporate Cir",
+        "line2": "Suite 202",
+        "city": "Harrisburg",
         "state": "PA",
-        "zip": "17325",
-        "phone": "717-338-1919",
-        "longitude": -77.232111,
-        "latitude": 39.830579
+        "zip": "17110-9346",
+        "phone": "717-603-4980",
+        "longitude": -76.84917,
+        "latitude": 40.30758
       },
       {
         "line1": "730 N. Front St.",
@@ -19,15 +20,6 @@
         "phone": "717-635-9504",
         "longitude": -76.909221,
         "latitude": 40.26472500000001
-      },
-      {
-        "line1": "2209 E. Market St.",
-        "city": "York",
-        "state": "PA",
-        "zip": "17402",
-        "phone": "717-600-1919",
-        "longitude": -76.684116,
-        "latitude": 39.9740449
       }
     ],
     "party": "Republican",

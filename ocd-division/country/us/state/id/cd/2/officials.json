@@ -23,24 +23,14 @@
         "latitude": 43.4936265
       },
       {
-        "line1": "275 S. 5th Ave.",
-        "line2": "#275",
-        "city": "Pocatello",
-        "state": "ID",
-        "zip": "83201",
-        "phone": "208-233-2222",
-        "longitude": -112.4428822,
-        "latitude": 42.8649373
-      },
-      {
-        "line1": "1341 Fillmore St.",
-        "line2": "Suite 202",
+        "line1": "650 Addison Ave W",
+        "line2": "Suite 1078",
         "city": "Twin Falls",
         "state": "ID",
-        "zip": "83301",
+        "zip": "83301-5851",
         "phone": "208-734-7219",
-        "longitude": -114.465532,
-        "latitude": 42.585699
+        "longitude": -114.49355,
+        "latitude": 42.56422
       }
     ],
     "party": "Republican",

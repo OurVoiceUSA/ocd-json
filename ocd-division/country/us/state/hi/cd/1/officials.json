@@ -1,7 +1,18 @@
 [
   {
     "name": "Ed Case",
-    "address": [],
+    "address": [
+      {
+        "line1": "1132 Bishop St",
+        "line2": "Suite 1910",
+        "city": "Honolulu",
+        "state": "HI",
+        "zip": "96813-2807",
+        "phone": "808-650-6688",
+        "longitude": -157.86005,
+        "latitude": 21.30973
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2726"

@@ -21,14 +21,15 @@
         "latitude": 28.1083914
       },
       {
-        "line1": "6900 Lake Nona Blvd",
-        "line2": "Suites 101A & 101B",
+        "line1": "13800 Veterans Way",
+        "line2": "s 1F806",
+        "line3": "VA Medical Center",
         "city": "Orlando",
         "state": "FL",
-        "zip": "32827",
-        "phone": "407-266-7161",
-        "longitude": -81.2825497,
-        "latitude": 28.368175
+        "zip": "32827-7401",
+        "phone": "202-322-4476",
+        "longitude": -81.2749461,
+        "latitude": 28.36525
       },
       {
         "line1": "201 W Central Avenue",

@@ -1,7 +1,18 @@
 [
   {
     "name": "Tom Malinowski",
-    "address": [],
+    "address": [
+      {
+        "line1": "58 E Main St",
+        "line2": "1st Floor",
+        "city": "Somerville",
+        "state": "NJ",
+        "zip": "08876-2312",
+        "phone": "908-547-3307",
+        "longitude": -74.61027,
+        "latitude": 40.5674
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5361"

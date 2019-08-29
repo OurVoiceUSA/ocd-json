@@ -1,7 +1,18 @@
 [
   {
     "name": "Chip Roy",
-    "address": [],
+    "address": [
+      {
+        "line1": "1100 NE Loop 410",
+        "line2": "Suite 640",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78209-1537",
+        "phone": "210-821-5024",
+        "longitude": -98.45396,
+        "latitude": 29.51566
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-4236"

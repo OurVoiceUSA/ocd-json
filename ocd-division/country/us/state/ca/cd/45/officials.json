@@ -1,7 +1,18 @@
 [
   {
     "name": "Katie Porter",
-    "address": [],
+    "address": [
+      {
+        "line1": "2151 Michelson Dr",
+        "line2": "Suite 195",
+        "city": "Irvine",
+        "state": "CA",
+        "zip": "92612-1330",
+        "phone": "949-668-6600",
+        "longitude": -117.8568,
+        "latitude": 33.67771
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5611"

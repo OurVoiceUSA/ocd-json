@@ -1,7 +1,27 @@
 [
   {
-    "name": "Steven C. Watkins, Jr.",
-    "address": [],
+    "name": "Steve Watkins",
+    "address": [
+      {
+        "line1": "1001 N Broadway St",
+        "line2": "C",
+        "city": "Pittsburg",
+        "state": "KS",
+        "zip": "66762-3956",
+        "phone": "620-231-5966",
+        "longitude": -94.70482,
+        "latitude": 37.39837
+      },
+      {
+        "line1": "3550 SW 5th St",
+        "city": "Topeka",
+        "state": "KS",
+        "zip": "66606-1910",
+        "phone": "785-234-5966",
+        "longitude": -95.72089,
+        "latitude": 39.0609
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6601"

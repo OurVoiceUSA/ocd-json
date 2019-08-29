@@ -3,23 +3,13 @@
     "name": "David Kustoff",
     "address": [
       {
-        "line1": "100 S. Main St.",
-        "line2": "Suite 1",
+        "line1": "425 W Court St",
         "city": "Dyersburg",
         "state": "TN",
-        "zip": "38024",
+        "zip": "38024-4616",
         "phone": "731-412-1037",
-        "longitude": -89.38456149999999,
-        "latitude": 35.9688328
-      },
-      {
-        "line1": "406 S. Lindell St.",
-        "city": "Martin",
-        "state": "TN",
-        "zip": "38237",
-        "phone": "731-412-1043",
-        "longitude": -88.850229,
-        "latitude": 36.342528
+        "longitude": -89.38925,
+        "latitude": 36.03304
       },
       {
         "line1": "5900 Poplar Ave.",

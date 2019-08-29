@@ -1,7 +1,24 @@
 [
   {
     "name": "Andy Kim",
-    "address": [],
+    "address": [
+      {
+        "line1": "535 E Main St",
+        "city": "Marlton",
+        "state": "NJ",
+        "zip": "08053-2301",
+        "longitude": -74.89656,
+        "latitude": 39.88539
+      },
+      {
+        "line1": "33 Washington St",
+        "city": "Toms River",
+        "state": "NJ",
+        "zip": "08753-7642",
+        "longitude": -74.19681,
+        "latitude": 39.95223
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4765"

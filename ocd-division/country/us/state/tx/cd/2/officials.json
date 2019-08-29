@@ -1,7 +1,18 @@
 [
   {
     "name": "Dan Crenshaw",
-    "address": [],
+    "address": [
+      {
+        "line1": "1801 Kingwood Dr",
+        "line2": "Suite 240",
+        "city": "Kingwood",
+        "state": "TX",
+        "zip": "77339-3060",
+        "phone": "713-860-1330",
+        "longitude": -95.22975,
+        "latitude": 30.05138
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6565"

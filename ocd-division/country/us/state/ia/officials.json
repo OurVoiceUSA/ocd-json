@@ -116,8 +116,9 @@
         "latitude": 41.9731139
       },
       {
-        "line1": "8 S. Sixth St.",
-        "line3": "221 Federal Building",
+        "line1": "8 S 6th St",
+        "line2": "Suite 221",
+        "line3": "Federal Building",
         "city": "Council Bluffs",
         "state": "IA",
         "zip": "51501",

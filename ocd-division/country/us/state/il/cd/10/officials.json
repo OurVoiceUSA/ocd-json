@@ -19,6 +19,14 @@
         "zip": "60073",
         "longitude": -88.0740214,
         "latitude": 42.3565821
+      },
+      {
+        "line1": "100 N Martin Luther King Jr Ave",
+        "city": "Waukegan",
+        "state": "IL",
+        "zip": "60085-4328",
+        "longitude": -87.83472,
+        "latitude": 42.36129
       }
     ],
     "party": "Democratic",

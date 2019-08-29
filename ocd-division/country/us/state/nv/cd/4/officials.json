@@ -1,7 +1,18 @@
 [
   {
     "name": "Steven Horsford",
-    "address": [],
+    "address": [
+      {
+        "line1": "2250 Las Vegas Blvd N",
+        "line2": "Suite 500",
+        "city": "North Las Vegas",
+        "state": "NV",
+        "zip": "89030-5877",
+        "phone": "702-963-9360",
+        "longitude": -115.1215,
+        "latitude": 36.19944
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-9894"

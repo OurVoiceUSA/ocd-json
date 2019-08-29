@@ -1,7 +1,19 @@
 [
   {
     "name": "Veronica Escobar",
-    "address": [],
+    "address": [
+      {
+        "line1": "221 N Kansas St",
+        "line2": "Suite 1500",
+        "line3": "Wells Fargo Plaza",
+        "city": "El Paso",
+        "state": "TX",
+        "zip": "79901-1443",
+        "phone": "915-541-1400",
+        "longitude": -106.48618,
+        "latitude": 31.76012
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4831"

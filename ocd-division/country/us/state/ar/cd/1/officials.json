@@ -12,6 +12,15 @@
         "latitude": 34.9730598
       },
       {
+        "line1": "101 E Waterman St",
+        "city": "Dumas",
+        "state": "AR",
+        "zip": "71639-2226",
+        "phone": "870-377-5571",
+        "longitude": -91.49025,
+        "latitude": 33.88781
+      },
+      {
         "line1": "2400 Highland Dr.",
         "line2": "Suite 300",
         "city": "Jonesboro",

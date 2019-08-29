@@ -3,14 +3,24 @@
     "name": "Susan Wild",
     "address": [
       {
-        "line1": "3900 Hamilton Blvd.",
-        "line2": "Suite 207",
+        "line1": "840 Hamilton St",
+        "line2": "Suite 303",
         "city": "Allentown",
         "state": "PA",
-        "zip": "18103",
-        "phone": "610-770-3490",
-        "longitude": -75.535032,
-        "latitude": 40.5733973
+        "zip": "18101-2455",
+        "phone": "484-781-6000",
+        "longitude": -75.47465,
+        "latitude": 40.60131
+      },
+      {
+        "line1": "400 Northampton St",
+        "line2": "Suite 503",
+        "city": "Easton",
+        "state": "PA",
+        "zip": "18042-3543",
+        "phone": "610-333-1170",
+        "longitude": -75.21124,
+        "latitude": 40.69081
       }
     ],
     "party": "Democratic",

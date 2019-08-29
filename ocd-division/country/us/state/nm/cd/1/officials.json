@@ -1,7 +1,18 @@
 [
   {
     "name": "Debra A. Haaland",
-    "address": [],
+    "address": [
+      {
+        "line1": "400 Gold Ave SW",
+        "line2": "Suite 680",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87102-3283",
+        "phone": "505-346-6781",
+        "longitude": -106.65274,
+        "latitude": 35.08338
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-6316"

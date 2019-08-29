@@ -1,7 +1,18 @@
 [
   {
     "name": "Susie Lee",
-    "address": [],
+    "address": [
+      {
+        "line1": "8872 S Eastern Ave",
+        "line2": "s 210 & 220",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89123-4900",
+        "phone": "702-963-9336",
+        "longitude": -115.11836,
+        "latitude": 36.02796
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3252"

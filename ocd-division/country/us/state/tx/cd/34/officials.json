@@ -12,13 +12,14 @@
         "latitude": 27.7499027
       },
       {
-        "line1": "333 Ebony Ave.",
+        "line1": "800 N Expressway",
+        "line2": "Suite 9",
         "city": "Brownsville",
         "state": "TX",
-        "zip": "78520",
+        "zip": "78521-1482",
         "phone": "956-544-8352",
-        "longitude": -97.4918723,
-        "latitude": 25.9156491
+        "longitude": -97.49335,
+        "latitude": 25.93642
       },
       {
         "line1": "1390 W. Expressway 83",

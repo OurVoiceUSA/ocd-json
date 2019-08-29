@@ -1,7 +1,28 @@
 [
   {
     "name": "William R. Timmons IV",
-    "address": [],
+    "address": [
+      {
+        "line1": "104 S Main St",
+        "line2": "Suite 801",
+        "city": "Greenville",
+        "state": "SC",
+        "zip": "29601-2711",
+        "phone": "864-241-0175",
+        "longitude": -82.39957,
+        "latitude": 34.84962
+      },
+      {
+        "line1": "101 W Saint John St",
+        "line2": "Suite 303",
+        "city": "Spartanburg",
+        "state": "SC",
+        "zip": "29306-5179",
+        "phone": "864-583-3264",
+        "longitude": -81.93319,
+        "latitude": 34.95094
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6030"

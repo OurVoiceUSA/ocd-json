@@ -1,7 +1,18 @@
 [
   {
     "name": "Andy Levin",
-    "address": [],
+    "address": [
+      {
+        "line1": "30500 Van Dyke Ave",
+        "line2": "Suite 306",
+        "city": "Warren",
+        "state": "MI",
+        "zip": "48093-2195",
+        "phone": "586-498-7122",
+        "longitude": -83.0287,
+        "latitude": 42.51766
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4961"

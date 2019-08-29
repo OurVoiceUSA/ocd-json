@@ -1,7 +1,37 @@
 [
   {
     "name": "Jared F. Golden",
-    "address": [],
+    "address": [
+      {
+        "line1": "6 State St",
+        "line2": "Suite 101",
+        "city": "Bangor",
+        "state": "ME",
+        "zip": "04401-5112",
+        "phone": "207-249-7400",
+        "longitude": -68.77015,
+        "latitude": 44.8023
+      },
+      {
+        "line1": "7 Hatch Dr",
+        "line2": "Suite 230",
+        "city": "Caribou",
+        "state": "ME",
+        "zip": "04736-2159",
+        "phone": "207-492-6009",
+        "longitude": -68.01637,
+        "latitude": 46.85918
+      },
+      {
+        "line1": "179 Lisbon St",
+        "city": "Lewiston",
+        "state": "ME",
+        "zip": "04240-7248",
+        "phone": "207-241-6767",
+        "longitude": -70.21691,
+        "latitude": 44.09552
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-6306"

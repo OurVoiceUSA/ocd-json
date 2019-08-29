@@ -29,6 +29,16 @@
         "phone": "772-403-0900",
         "longitude": -80.2582352,
         "latitude": 27.2006096
+      },
+      {
+        "line1": "7305 N Military Trl",
+        "line2": "1A-366",
+        "city": "Riviera Beach",
+        "state": "FL",
+        "zip": "33410-7417",
+        "phone": "561-530-7778",
+        "longitude": -80.10731,
+        "latitude": 26.78415
       }
     ],
     "party": "Republican",

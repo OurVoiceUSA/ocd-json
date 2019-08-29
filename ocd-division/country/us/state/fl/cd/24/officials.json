@@ -3,6 +3,17 @@
     "name": "Frederica S. Wilson",
     "address": [
       {
+        "line1": "2600 Hollywood Blvd",
+        "line2": "1st Floor",
+        "line3": "Old Library",
+        "city": "Hollywood",
+        "state": "FL",
+        "zip": "33020-4807",
+        "phone": "954-921-3682",
+        "longitude": -80.16059,
+        "latitude": 26.01104
+      },
+      {
         "line1": "18425 NW 2nd Avenue",
         "line2": "Suite 355",
         "city": "Miami Gardens",
@@ -11,17 +22,6 @@
         "phone": "305-690-5905",
         "longitude": -80.20465759999999,
         "latitude": 25.9436377
-      },
-      {
-        "line1": "10100 Pines Blvd",
-        "line2": "Third Floor",
-        "line3": "Pembroke Pines City Hall, Building B",
-        "city": "Pembroke Pines",
-        "state": "FL",
-        "zip": "33026",
-        "phone": "954-450-6767",
-        "longitude": -80.2833939,
-        "latitude": 26.0069554
       },
       {
         "line1": "1965 South State Road 7",

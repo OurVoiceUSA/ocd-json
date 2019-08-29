@@ -1,7 +1,18 @@
 [
   {
     "name": "Josh Harder",
-    "address": [],
+    "address": [
+      {
+        "line1": "4701 Sisk Rd",
+        "line2": "Suite 202",
+        "city": "Modesto",
+        "state": "CA",
+        "zip": "95356-9320",
+        "phone": "209-579-5458",
+        "longitude": -121.07707,
+        "latitude": 37.70589
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4540"

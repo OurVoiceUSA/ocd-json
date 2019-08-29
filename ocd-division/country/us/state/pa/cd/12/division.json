@@ -1,0 +1,10 @@
+{
+  "name": "Pennsylvania's 12th congressional district",
+  "scope": "congressional",
+  "offices": [
+    {
+      "name": "United States House of Representatives PA-12",
+      "level": "federal"
+    }
+  ]
+}

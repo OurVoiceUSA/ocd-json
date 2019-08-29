@@ -1,7 +1,18 @@
 [
   {
     "name": "TJ Cox",
-    "address": [],
+    "address": [
+      {
+        "line1": "2700 M St",
+        "line2": "250B",
+        "city": "Bakersfield",
+        "state": "CA",
+        "zip": "93301-2374",
+        "phone": "661-864-7736",
+        "longitude": -119.01425,
+        "latitude": 35.38349
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4695"

@@ -1,7 +1,36 @@
 [
   {
     "name": "John Joyce",
-    "address": [],
+    "address": [
+      {
+        "line1": "5414 6th Ave",
+        "city": "Altoona",
+        "state": "PA",
+        "zip": "16602-1203",
+        "phone": "814-656-6081",
+        "longitude": -78.42257,
+        "latitude": 40.4756
+      },
+      {
+        "line1": "100 Lincoln Way E",
+        "line2": "B",
+        "city": "Chambersburg",
+        "state": "PA",
+        "zip": "17201-2291",
+        "phone": "717-753-6344",
+        "longitude": -77.66387,
+        "latitude": 39.93775
+      },
+      {
+        "line1": "451 Stoystown Rd",
+        "line2": "Suite 102",
+        "city": "Somerset",
+        "state": "PA",
+        "zip": "15501-6927",
+        "longitude": -79.0702,
+        "latitude": 40.01453
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2431"

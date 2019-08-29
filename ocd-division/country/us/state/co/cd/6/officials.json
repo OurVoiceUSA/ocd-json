@@ -1,7 +1,18 @@
 [
   {
     "name": "Jason Crow",
-    "address": [],
+    "address": [
+      {
+        "line1": "3300 S Parker Rd",
+        "line2": "Suite 100",
+        "city": "Aurora",
+        "state": "CO",
+        "zip": "80014-3518",
+        "phone": "720-748-7514",
+        "longitude": -104.83538,
+        "latitude": 39.65758
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-7882"

@@ -1,7 +1,18 @@
 [
   {
     "name": "Donna E. Shalala",
-    "address": [],
+    "address": [
+      {
+        "line1": "4960 SW 72nd Ave",
+        "line2": "Suite 208",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33155-5544",
+        "phone": "305-668-2285",
+        "longitude": -80.31299,
+        "latitude": 25.72398
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3931"

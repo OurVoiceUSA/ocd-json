@@ -3,6 +3,15 @@
     "name": "Lloyd Smucker",
     "address": [
       {
+        "line1": "118 Carlise Street",
+        "city": "Hanover",
+        "state": "PA",
+        "zip": "17331",
+        "phone": "717-969-6132",
+        "longitude": -76.9852327,
+        "latitude": 39.8018282
+      },
+      {
         "line1": "51 S. Duke St.",
         "line2": "Suite 201",
         "city": "Lancaster",
@@ -11,6 +20,15 @@
         "phone": "717-393-0667",
         "longitude": -76.3031804,
         "latitude": 40.03689079999999
+      },
+      {
+        "line1": "100 Redco Ave",
+        "city": "Red Lion",
+        "state": "PA",
+        "zip": "17356-1436",
+        "phone": "717-969-6133",
+        "longitude": -76.59862,
+        "latitude": 39.90324
       }
     ],
     "party": "Republican",

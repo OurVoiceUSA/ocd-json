@@ -1,7 +1,18 @@
 [
   {
     "name": "Lance Gooden",
-    "address": [],
+    "address": [
+      {
+        "line1": "18601 Lyndon B Johnson Fwy",
+        "line2": "Suite 725",
+        "city": "Mesquite",
+        "state": "TX",
+        "zip": "75150-5600",
+        "phone": "214-765-6789",
+        "longitude": -96.62753,
+        "latitude": 32.80522
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-3484"

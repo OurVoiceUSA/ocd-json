@@ -3,13 +3,14 @@
     "name": "Steve Womack",
     "address": [
       {
-        "line1": "423 N. 6th St.",
+        "line1": "6101 Phoenix Ave",
+        "line2": "Suite 4",
         "city": "Fort Smith",
         "state": "AR",
-        "zip": "72902",
+        "zip": "72903-5083",
         "phone": "479-424-1146",
-        "longitude": -94.421624,
-        "latitude": 35.391425
+        "longitude": -94.3664,
+        "latitude": 35.34916
       },
       {
         "line1": "303 N. Main St.",

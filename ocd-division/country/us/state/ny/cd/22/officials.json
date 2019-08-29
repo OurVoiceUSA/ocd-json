@@ -1,7 +1,28 @@
 [
   {
     "name": "Anthony Brindisi",
-    "address": [],
+    "address": [
+      {
+        "line1": "49 Court St",
+        "line2": "Suite 210",
+        "city": "Binghamton",
+        "state": "NY",
+        "zip": "13901-3274",
+        "phone": "607-242-0200",
+        "longitude": -75.91334,
+        "latitude": 42.09879
+      },
+      {
+        "line1": "430 Court St",
+        "line2": "Suite 102",
+        "city": "Utica",
+        "state": "NY",
+        "zip": "13502-4289",
+        "phone": "315-732-0713",
+        "longitude": -75.2386,
+        "latitude": 43.10184
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3665"

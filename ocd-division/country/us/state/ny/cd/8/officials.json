@@ -3,9 +3,8 @@
     "name": "Hakeem S. Jeffries",
     "address": [
       {
-        "line1": "445 Neptune Ave.",
-        "line2": "1st Floor",
-        "line3": "Community Room 2C",
+        "line1": "445 Neptune Ave",
+        "line2": "1st Floor, Community Room 2C",
         "city": "Brooklyn",
         "state": "NY",
         "zip": "11224",

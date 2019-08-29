@@ -1,7 +1,27 @@
 [
   {
     "name": "Katie Hill",
-    "address": [],
+    "address": [
+      {
+        "line1": "1008 W Avenue M14",
+        "line2": "E",
+        "city": "Palmdale",
+        "state": "CA",
+        "zip": "93551-1441",
+        "phone": "661-839-0539",
+        "longitude": -118.14866,
+        "latitude": 34.63294
+      },
+      {
+        "line1": "1445 E Los Angeles Ave",
+        "line2": "Suite 206",
+        "city": "Simi Valley",
+        "state": "CA",
+        "zip": "93065-2817",
+        "longitude": -118.77161,
+        "latitude": 34.27247
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-1956"

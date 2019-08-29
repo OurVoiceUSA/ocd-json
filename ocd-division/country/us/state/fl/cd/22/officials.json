@@ -13,13 +13,15 @@
         "latitude": 26.365483
       },
       {
-        "line1": "1300 Coral Springs Dr.",
+        "line1": "9500 W Sample Rd",
+        "line2": "Suite 201",
+        "line3": "Coral Springs City Hall",
         "city": "Coral Springs",
         "state": "FL",
-        "zip": "33071",
+        "zip": "33065-4104",
         "phone": "954-255-8336",
-        "longitude": -80.2697548,
-        "latitude": 26.2459273
+        "longitude": -80.25343,
+        "latitude": 26.27311
       },
       {
         "line1": "111 East Las Olas Blvd.",

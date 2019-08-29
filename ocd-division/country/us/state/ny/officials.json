@@ -32,13 +32,6 @@
         "phone": "315-376-6118"
       },
       {
-        "line1": "PO Box 893",
-        "city": "Mahopac",
-        "state": "NY",
-        "zip": "10541",
-        "phone": "845-875-4585"
-      },
-      {
         "line1": "780 Third Ave.",
         "line2": "Suite 2601",
         "city": "New York",
@@ -79,6 +72,13 @@
         "phone": "315-448-0470",
         "longitude": -76.1543204,
         "latitude": 43.0501042
+      },
+      {
+        "line1": "PO Box 749",
+        "city": "Yonkers",
+        "state": "NY",
+        "zip": "10710-0749",
+        "phone": "845-875-4585"
       }
     ],
     "party": "Democratic",
@@ -138,7 +138,7 @@
       },
       {
         "line1": "15 Henry St.",
-        "line3": "Room. 100 A-F",
+        "line2": "Room. 100 A-F",
         "city": "Binghamton",
         "state": "NY",
         "zip": "13901",

@@ -1,7 +1,48 @@
 [
   {
     "name": "Ben Cline",
-    "address": [],
+    "address": [
+      {
+        "line1": "70 N Mason St",
+        "line2": "Suite 110",
+        "city": "Harrisonburg",
+        "state": "VA",
+        "zip": "22802-4126",
+        "phone": "540-432-2391",
+        "longitude": -78.86637,
+        "latitude": 38.44978
+      },
+      {
+        "line1": "916 Main St",
+        "line2": "Suite 300",
+        "city": "Lynchburg",
+        "state": "VA",
+        "zip": "24504-1600",
+        "phone": "434-845-8306",
+        "longitude": -79.14153,
+        "latitude": 37.41441
+      },
+      {
+        "line1": "10 Franklin Rd SE",
+        "line2": "Suite 510",
+        "city": "Roanoke",
+        "state": "VA",
+        "zip": "24011-2133",
+        "phone": "540-857-2672",
+        "longitude": -79.94051,
+        "latitude": 37.2694
+      },
+      {
+        "line1": "117 S Lewis St",
+        "line2": "Suite 215",
+        "city": "Staunton",
+        "state": "VA",
+        "zip": "24401-4282",
+        "phone": "540-885-3861",
+        "longitude": -79.07444,
+        "latitude": 38.14838
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-5431"

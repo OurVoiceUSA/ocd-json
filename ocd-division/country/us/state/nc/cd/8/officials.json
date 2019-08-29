@@ -23,8 +23,9 @@
         "latitude": 35.054944
       },
       {
-        "line1": "3395 Airport Road",
-        "line2": "Suite 105",
+        "line1": "3395 Airport Rd",
+        "line2": "Suite 114",
+        "line3": "Sandhills Community College Van Dusen Building",
         "city": "Pinehurst",
         "state": "NC",
         "zip": "28374",

@@ -139,8 +139,19 @@
         "city": "Cambridge",
         "state": "MD",
         "zip": "21613",
+        "phone": "410-221-2074",
         "longitude": -76.0752663,
         "latitude": 38.5650251
+      },
+      {
+        "line1": "1101 Mercantile Ln",
+        "line2": "Suite 210",
+        "city": "Largo",
+        "state": "MD",
+        "zip": "20774-5360",
+        "phone": "301-322-6560",
+        "longitude": -76.83685,
+        "latitude": 38.90526
       }
     ],
     "party": "Democratic",

@@ -3,6 +3,15 @@
     "name": "Markwayne Mullin",
     "address": [
       {
+        "line1": "223 W Patti Page Blvd",
+        "city": "Claremore",
+        "state": "OK",
+        "zip": "74017-8046",
+        "phone": "918-283-6262",
+        "longitude": -95.61233,
+        "latitude": 36.30985
+      },
+      {
         "line1": "1 E. Choctaw",
         "line2": "Suite 175",
         "city": "McAlester",
@@ -13,13 +22,13 @@
         "latitude": 34.9325288
       },
       {
-        "line1": "3109 Azalea Park Dr.",
+        "line1": "811 N York St Ste A",
         "city": "Muskogee",
         "state": "OK",
-        "zip": "74401",
+        "zip": "74403-3860",
         "phone": "918-687-2533",
-        "longitude": -95.40146519999999,
-        "latitude": 35.7676771
+        "longitude": -95.34046,
+        "latitude": 35.75024
       }
     ],
     "party": "Republican",

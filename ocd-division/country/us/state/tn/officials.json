@@ -106,24 +106,64 @@
     "name": "Marsha Blackburn",
     "address": [
       {
-        "line1": "128 N. 2nd St.",
-        "line2": "Suite 104",
-        "city": "Clarksville",
+        "line1": "10 West M. L. King Blvd",
+        "line2": "6th Floor",
+        "city": "Chattanooga",
         "state": "TN",
-        "zip": "37040",
-        "phone": "931-503-0391",
-        "longitude": -87.35942089999999,
-        "latitude": 36.5285913
+        "zip": "37402",
+        "phone": "423-541-2939",
+        "longitude": -85.3100155,
+        "latitude": 35.0455268
       },
       {
-        "line1": "305 Public Sq.",
-        "line2": "Suite 212",
-        "city": "Franklin",
+        "line1": "91 Stonebridge Blvd",
+        "line2": "Suite 103",
+        "city": "Jackson",
         "state": "TN",
-        "zip": "37064",
-        "phone": "615-591-5161",
-        "longitude": -86.86924189999999,
-        "latitude": 35.9250525
+        "zip": "38305-2042",
+        "phone": "731-660-3971",
+        "longitude": -88.85355,
+        "latitude": 35.68031
+      },
+      {
+        "line1": "1105 E Jackson Blvd",
+        "line2": "Suite 4",
+        "city": "Jonesborough",
+        "state": "TN",
+        "zip": "37659-4997",
+        "phone": "423-753-4009",
+        "longitude": -82.51024,
+        "latitude": 36.30306
+      },
+      {
+        "line1": "800 Market St",
+        "line2": "Suite 121",
+        "city": "Knoxville",
+        "state": "TN",
+        "zip": "37902-2327",
+        "phone": "865-540-3781",
+        "longitude": -83.91771,
+        "latitude": 35.96225
+      },
+      {
+        "line1": "100 Peabody Pl",
+        "line2": "Suite 1125",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38103-3654",
+        "phone": "901-527-9199",
+        "longitude": -90.05396,
+        "latitude": 35.14132
+      },
+      {
+        "line1": "150 4th Ave N",
+        "line2": "Ste. G-250",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37219-2415",
+        "phone": "800-657-6910",
+        "longitude": -86.77797,
+        "latitude": 36.16286
       }
     ],
     "party": "Republican",

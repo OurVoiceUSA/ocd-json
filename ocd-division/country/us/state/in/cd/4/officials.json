@@ -1,7 +1,18 @@
 [
   {
     "name": "James R. Baird",
-    "address": [],
+    "address": [
+      {
+        "line1": "355 S Washington St",
+        "line2": "Suite 210",
+        "city": "Danville",
+        "state": "IN",
+        "zip": "46122-1779",
+        "phone": "317-563-5567",
+        "longitude": -86.52325,
+        "latitude": 39.75697
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-5037"

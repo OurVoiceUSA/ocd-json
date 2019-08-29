@@ -1,7 +1,19 @@
 [
   {
     "name": "Dean Phillips",
-    "address": [],
+    "address": [
+      {
+        "line1": "1800 W Old Shakopee Rd",
+        "line2": "Second Floor",
+        "line3": "Bloomington Civic Plaza",
+        "city": "Bloomington",
+        "state": "MN",
+        "zip": "55431-3071",
+        "phone": "952-563-4593",
+        "longitude": -93.30211,
+        "latitude": 44.82514
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2871"

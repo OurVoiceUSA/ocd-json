@@ -1,7 +1,18 @@
 [
   {
     "name": "Jefferson Van Drew",
-    "address": [],
+    "address": [
+      {
+        "line1": "5914 Main St",
+        "line2": "Suite 103",
+        "city": "Mays Landing",
+        "state": "NJ",
+        "zip": "08330-1751",
+        "phone": "609-625-5008",
+        "longitude": -74.7267,
+        "latitude": 39.45148
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-6572"

@@ -1,7 +1,18 @@
 [
   {
     "name": "Angie Craig",
-    "address": [],
+    "address": [
+      {
+        "line1": "12940 Harriet Ave S",
+        "line2": "Suite 238",
+        "city": "Burnsville",
+        "state": "MN",
+        "zip": "55337-2680",
+        "phone": "651-846-2120",
+        "longitude": -93.2863,
+        "latitude": 44.7684
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2271"

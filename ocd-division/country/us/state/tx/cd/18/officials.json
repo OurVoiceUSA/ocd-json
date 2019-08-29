@@ -22,23 +22,23 @@
         "latitude": 29.7519042
       },
       {
-        "line1": "420 W. 19th St.",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "77008",
-        "phone": "713-861-4070",
-        "longitude": -95.4044876,
-        "latitude": 29.8026927
-      },
-      {
-        "line1": "6719 W. Montgomery",
+        "line1": "6719 W Montgomery Rd",
         "line2": "Suite 204",
         "city": "Houston",
         "state": "TX",
-        "zip": "77091",
+        "zip": "77091-3105",
         "phone": "713-691-4882",
-        "longitude": -95.4221659,
-        "latitude": 29.8575093
+        "longitude": -95.42124,
+        "latitude": 29.85686
+      },
+      {
+        "line1": "420 W 19th St",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77008-3914",
+        "phone": "713-861-4070",
+        "longitude": -95.4038,
+        "latitude": 29.8026
       }
     ],
     "party": "Democratic",

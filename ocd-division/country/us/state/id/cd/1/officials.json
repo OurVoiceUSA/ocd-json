@@ -1,7 +1,38 @@
 [
   {
     "name": "Russ Fulcher",
-    "address": [],
+    "address": [
+      {
+        "line1": "1250 W Ironwood Dr",
+        "line2": "Suite 241",
+        "city": "Coeur D Alene",
+        "state": "ID",
+        "zip": "83814-2679",
+        "phone": "208-667-0127",
+        "longitude": -116.80272,
+        "latitude": 47.69725
+      },
+      {
+        "line1": "313 D St",
+        "line2": "Suite 107",
+        "city": "Lewiston",
+        "state": "ID",
+        "zip": "83501-1894",
+        "phone": "208-743-1388",
+        "longitude": -117.02845,
+        "latitude": 46.42199
+      },
+      {
+        "line1": "33 E Broadway Ave",
+        "line2": "Suite 251",
+        "city": "Meridian",
+        "state": "ID",
+        "zip": "83642-2619",
+        "phone": "208-888-3188",
+        "longitude": -116.3929,
+        "latitude": 43.61003
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6611"

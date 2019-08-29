@@ -1,7 +1,28 @@
 [
   {
     "name": "Joe Cunningham",
-    "address": [],
+    "address": [
+      {
+        "line1": "710 Boundary St",
+        "line2": "1D",
+        "city": "Beaufort",
+        "state": "SC",
+        "zip": "29902-4187",
+        "phone": "843-521-2530",
+        "longitude": -80.67047,
+        "latitude": 32.43928
+      },
+      {
+        "line1": "530 Johnnie Dodds Blvd",
+        "line2": "Suite 201",
+        "city": "Mt Pleasant",
+        "state": "SC",
+        "zip": "29464-3083",
+        "phone": "843-352-7572",
+        "longitude": -79.88752,
+        "latitude": 32.80623
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3176"

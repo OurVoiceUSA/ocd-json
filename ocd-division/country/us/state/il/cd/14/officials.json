@@ -1,7 +1,18 @@
 [
   {
     "name": "Lauren Underwood",
-    "address": [],
+    "address": [
+      {
+        "line1": "490 East Roosevelt Road",
+        "line2": "Suite 202",
+        "city": "West Chicago",
+        "state": "IL",
+        "zip": "60185",
+        "phone": "630-549-2190",
+        "longitude": -88.2002888,
+        "latitude": 41.8620585
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2976"

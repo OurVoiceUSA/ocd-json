@@ -3,7 +3,17 @@
     "name": "Charlie Crist",
     "address": [
       {
-        "line1": "696 1st Avenue North",
+        "line1": "9200 113th St",
+        "line2": "Suite 310",
+        "city": "Seminole",
+        "state": "FL",
+        "zip": "33772-2800",
+        "phone": "727-318-6770",
+        "longitude": -82.7954,
+        "latitude": 27.85592
+      },
+      {
+        "line1": "696 1st Ave N",
         "line2": "Suite 203",
         "city": "St. Petersburg",
         "state": "FL",
@@ -11,6 +21,16 @@
         "phone": "727-318-6770",
         "longitude": -82.64355,
         "latitude": 27.772067
+      },
+      {
+        "line1": "1300 22nd St S",
+        "line2": "Suite 316",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "zip": "33712-2744",
+        "phone": "727-318-6770",
+        "longitude": -82.66288,
+        "latitude": 27.7569
       }
     ],
     "party": "Democratic",

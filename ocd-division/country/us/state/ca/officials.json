@@ -98,24 +98,24 @@
         "latitude": 36.7374775
       },
       {
-        "line1": "312 N. Spring St.",
-        "line2": "Suite 1748",
+        "line1": "11845 W Olympic Blvd",
+        "line2": "1250W",
         "city": "Los Angeles",
         "state": "CA",
-        "zip": "90012",
-        "phone": "213-894-5000",
-        "longitude": -118.241422,
-        "latitude": 34.0552049
+        "zip": "90064-1149",
+        "phone": "310-231-4494",
+        "longitude": -118.45041,
+        "latitude": 34.03309
       },
       {
-        "line1": "50 United Nations Plaza",
-        "line2": "Suite 5584",
+        "line1": "333 Bush St",
+        "line2": "Suite 3225",
         "city": "San Francisco",
         "state": "CA",
-        "zip": "94102",
-        "phone": "415-355-9041",
-        "longitude": -122.4144643,
-        "latitude": 37.7804298
+        "zip": "94104-2806",
+        "phone": "415-981-9369",
+        "longitude": -122.40308,
+        "latitude": 37.79078
       },
       {
         "line1": "600 B Street",

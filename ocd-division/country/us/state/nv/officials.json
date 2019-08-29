@@ -55,14 +55,25 @@
     "name": "Jacky Rosen",
     "address": [
       {
-        "line1": "8872 S. Eastern Ave.",
-        "line2": "Suite 220",
+        "line1": "8930 W Sunset Rd",
+        "line2": "Suite 230",
         "city": "Las Vegas",
         "state": "NV",
-        "zip": "89123",
-        "phone": "702-963-9500",
-        "longitude": -115.1159622,
-        "latitude": 36.0278905
+        "zip": "89148-5008",
+        "phone": "702-388-0205",
+        "longitude": -115.28661,
+        "latitude": 36.07191
+      },
+      {
+        "line1": "400 S Virginia St",
+        "line2": "Suite 738",
+        "line3": "Bruce Thompson Federal Building",
+        "city": "Reno",
+        "state": "NV",
+        "zip": "89501-2132",
+        "phone": "775-337-0110",
+        "longitude": -119.81414,
+        "latitude": 39.52994
       }
     ],
     "party": "Democratic",

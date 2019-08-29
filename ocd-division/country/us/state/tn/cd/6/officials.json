@@ -1,7 +1,28 @@
 [
   {
     "name": "John W. Rose",
-    "address": [],
+    "address": [
+      {
+        "line1": "321 E Spring St",
+        "line2": "Suite 301",
+        "city": "Cookeville",
+        "state": "TN",
+        "zip": "38501-4167",
+        "phone": "931-854-9430",
+        "longitude": -85.50005,
+        "latitude": 36.16183
+      },
+      {
+        "line1": "355 N Belvedere Dr",
+        "line2": "Suite 308",
+        "city": "Gallatin",
+        "state": "TN",
+        "zip": "37066-5466",
+        "phone": "615-206-8204",
+        "longitude": -86.48063,
+        "latitude": 36.37974
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-4231"

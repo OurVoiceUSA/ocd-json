@@ -1,7 +1,18 @@
 [
   {
     "name": "W. Gregory Steube",
-    "address": [],
+    "address": [
+      {
+        "line1": "226 Taylor St",
+        "line2": "Suite 230",
+        "city": "Punta Gorda",
+        "state": "FL",
+        "zip": "33950-4457",
+        "phone": "941-575-9101",
+        "longitude": -82.05085,
+        "latitude": 26.93505
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-5792"

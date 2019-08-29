@@ -3,14 +3,14 @@
     "name": "Donald S. Beyer, Jr.",
     "address": [
       {
-        "line1": "5285 Shawnee Rd.",
-        "line2": "Suite 250",
-        "city": "Alexandria",
+        "line1": "1901 N Moore St",
+        "line2": "Suite 1108",
+        "city": "Arlington",
         "state": "VA",
-        "zip": "22312",
+        "zip": "22209-1728",
         "phone": "703-658-5403",
-        "longitude": -77.165008,
-        "latitude": 38.8086036
+        "longitude": -77.07119,
+        "latitude": 38.8976
       }
     ],
     "party": "Democratic",

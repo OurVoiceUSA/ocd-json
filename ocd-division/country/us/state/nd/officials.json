@@ -43,6 +43,11 @@
         "phone": "701-838-1361",
         "longitude": -101.2950057,
         "latitude": 48.2351551
+      },
+      {
+        "city": "Watford City",
+        "state": "ND",
+        "phone": "701-609-2727"
       }
     ],
     "party": "Republican",
@@ -130,7 +135,7 @@
     ],
     "emails": [],
     "urls": [
-      "https://www.senate.gov/senators/116thCongress/CramerKevin.htm"
+      "https://www.cramer.senate.gov"
     ],
     "photoUrl": "https://theunitedstates.io/images/congress/450x550/C001096.jpg",
     "channels": [
@@ -161,7 +166,29 @@
   },
   {
     "name": "Kelly Armstrong",
-    "address": [],
+    "address": [
+      {
+        "line1": "220 E Rosser Ave",
+        "line2": "Suite 228",
+        "line3": "U.S. Federal Building",
+        "city": "Bismarck",
+        "state": "ND",
+        "zip": "58501-3869",
+        "phone": "701-354-6700",
+        "longitude": -100.78881,
+        "latitude": 46.80868
+      },
+      {
+        "line1": "3217 Fiechtner Dr S",
+        "line2": "D",
+        "city": "Fargo",
+        "state": "ND",
+        "zip": "58103-8735",
+        "phone": "701-353-6665",
+        "longitude": -96.83182,
+        "latitude": 46.86533
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2611"

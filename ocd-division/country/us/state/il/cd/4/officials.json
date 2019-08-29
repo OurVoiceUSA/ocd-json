@@ -1,14 +1,24 @@
 [
   {
-    "name": "Jesús G. García",
-    "address": [],
+    "name": "Jesús G. \"Chuy\" García",
+    "address": [
+      {
+        "line1": "3240 W Fullerton Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60647-2512",
+        "phone": "773-342-0774",
+        "longitude": -87.70907,
+        "latitude": 41.92478
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-8203"
     ],
     "emails": [],
     "urls": [
-      "https://jesusgarcia.house.gov/"
+      "https://chuygarcia.house.gov/"
     ],
     "photoUrl": "https://theunitedstates.io/images/congress/450x550/G000586.jpg",
     "channels": [

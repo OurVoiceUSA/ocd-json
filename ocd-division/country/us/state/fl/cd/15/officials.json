@@ -1,7 +1,18 @@
 [
   {
     "name": "Ross Spano",
-    "address": [],
+    "address": [
+      {
+        "line1": "170 Fitzgerald Rd",
+        "line2": "Suite 1",
+        "city": "Lakeland",
+        "state": "FL",
+        "zip": "33813-2633",
+        "phone": "863-644-8215",
+        "longitude": -81.95722,
+        "latitude": 27.97002
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-1252"

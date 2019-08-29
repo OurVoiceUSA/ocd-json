@@ -1,7 +1,17 @@
 [
   {
     "name": "Lizzie Fletcher",
-    "address": [],
+    "address": [
+      {
+        "line1": "5599 San Felipe St",
+        "line2": "Suite 950",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77056-2724",
+        "longitude": -95.47373,
+        "latitude": 29.74946
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-2571"

@@ -1,7 +1,27 @@
 [
   {
     "name": "Lori Trahan",
-    "address": [],
+    "address": [
+      {
+        "line1": "15 Union St",
+        "line2": "4th Floor",
+        "city": "Lawrence",
+        "state": "MA",
+        "zip": "01840-1866",
+        "longitude": -71.15331,
+        "latitude": 42.70637
+      },
+      {
+        "line1": "126 John St",
+        "line2": "Suite 12",
+        "city": "Lowell",
+        "state": "MA",
+        "zip": "01852-1152",
+        "phone": "978-459-0101",
+        "longitude": -71.30745,
+        "latitude": 42.64756
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3411"

@@ -77,6 +77,25 @@
     "name": "Tammy Duckworth",
     "address": [
       {
+        "line1": "23 Public Sq",
+        "line2": "Suite 460",
+        "city": "Belleville",
+        "state": "IL",
+        "zip": "62220-1650",
+        "phone": "618-722-7070",
+        "longitude": -89.98093,
+        "latitude": 38.5135
+      },
+      {
+        "line1": "441 E Willow St",
+        "city": "Carbondale",
+        "state": "IL",
+        "zip": "62901-1659",
+        "phone": "618-677-7000",
+        "longitude": -89.21251,
+        "latitude": 37.73428
+      },
+      {
         "line1": "230 South Dearborn Street",
         "line2": "Suite 3900",
         "city": "Chicago",
@@ -87,11 +106,21 @@
         "latitude": 41.8784454
       },
       {
+        "line1": "1823 2nd Ave",
+        "line2": "Suite 2",
+        "city": "Rock Island",
+        "state": "IL",
+        "zip": "61201-8002",
+        "phone": "309-606-7060",
+        "longitude": -90.57433,
+        "latitude": 41.51114
+      },
+      {
         "line1": "8 South Old State Capitol Plaza",
         "city": "Springfield",
         "state": "IL",
         "zip": "62701",
-        "phone": "312-528-6124",
+        "phone": "217-528-6124",
         "longitude": -89.6509028,
         "latitude": 39.800468
       }

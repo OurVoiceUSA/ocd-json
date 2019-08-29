@@ -1,7 +1,18 @@
 [
   {
     "name": "Ben McAdams",
-    "address": [],
+    "address": [
+      {
+        "line1": "9067 S 1300 W",
+        "line2": "Suite 101",
+        "city": "West Jordan",
+        "state": "UT",
+        "zip": "84088-5581",
+        "phone": "801-999-9801",
+        "longitude": -111.92715,
+        "latitude": 40.58582
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3011"

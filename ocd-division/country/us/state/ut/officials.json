@@ -72,7 +72,18 @@
   },
   {
     "name": "Mitt Romney",
-    "address": [],
+    "address": [
+      {
+        "line1": "125 S State St",
+        "line2": "Suite 8402",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84138-1102",
+        "phone": "801-524-4380",
+        "longitude": -111.88714,
+        "latitude": 40.76664
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-224-5251"

@@ -1,7 +1,27 @@
 [
   {
     "name": "Daniel Meuser",
-    "address": [],
+    "address": [
+      {
+        "line1": "1044 E Main St",
+        "city": "Palmyra",
+        "state": "PA",
+        "zip": "17078-9501",
+        "longitude": -76.57823,
+        "latitude": 40.31559
+      },
+      {
+        "line1": "121 Progress Ave",
+        "line2": "Suite 110",
+        "line3": "Losch Plaza",
+        "city": "Pottsville",
+        "state": "PA",
+        "zip": "17901-2968",
+        "phone": "570-871-6370",
+        "longitude": -76.19489,
+        "latitude": 40.68623
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-6511"

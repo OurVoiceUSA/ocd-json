@@ -1,7 +1,18 @@
 [
   {
     "name": "Sylvia R. Garcia",
-    "address": [],
+    "address": [
+      {
+        "line1": "11811 East Fwy",
+        "line2": "Suite 430",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77029-1974",
+        "phone": "832-325-3150",
+        "longitude": -95.22857,
+        "latitude": 29.77243
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-1688"

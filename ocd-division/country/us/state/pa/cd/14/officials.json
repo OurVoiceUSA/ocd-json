@@ -1,7 +1,18 @@
 [
   {
     "name": "Guy Reschenthaler",
-    "address": [],
+    "address": [
+      {
+        "line1": "700 Pellis Rd",
+        "line2": "Suite 1",
+        "city": "Greensburg",
+        "state": "PA",
+        "zip": "15601-4488",
+        "phone": "724-219-4200",
+        "longitude": -79.52448,
+        "latitude": 40.29199
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-2065"

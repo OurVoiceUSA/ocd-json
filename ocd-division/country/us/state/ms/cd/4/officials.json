@@ -3,23 +3,13 @@
     "name": "Steven M. Palazzo",
     "address": [
       {
-        "line1": "970 Tommy Munro Dr.",
-        "line2": "Suite D",
-        "city": "Biloxi",
+        "line1": "84 48th St",
+        "city": "Gulfport",
         "state": "MS",
-        "zip": "39532",
+        "zip": "39507-4052",
         "phone": "228-864-7670",
-        "longitude": -88.9391931,
-        "latitude": 30.44543689999999
-      },
-      {
-        "line1": "72 Technology Blvd.",
-        "city": "Ellisville",
-        "state": "MS",
-        "zip": "39437",
-        "phone": "601-582-3246",
-        "longitude": -89.2424367,
-        "latitude": 31.58146
+        "longitude": -89.05056,
+        "latitude": 30.40959
       },
       {
         "line1": "641 Main St.",

@@ -1,7 +1,18 @@
 [
   {
     "name": "Ilhan Omar",
-    "address": [],
+    "address": [
+      {
+        "line1": "404 3rd Ave N",
+        "line2": "Suite 203",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55401-1779",
+        "phone": "612-333-1272",
+        "longitude": -93.27497,
+        "latitude": 44.98287
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4755"

@@ -3,14 +3,14 @@
     "name": "Kyrsten Sinema",
     "address": [
       {
-        "line1": "2944 N. 44th St.",
-        "line2": "Suite 150",
+        "line1": "2200 E Camelback Rd",
+        "line2": "Suite 120",
         "city": "Phoenix",
         "state": "AZ",
-        "zip": "85018",
-        "phone": "602-956-2285",
-        "longitude": -111.9874218,
-        "latitude": 33.481675
+        "zip": "85016-3454",
+        "phone": "602-598-7327",
+        "longitude": -112.03408,
+        "latitude": 33.50965
       }
     ],
     "party": "Democratic",
@@ -50,7 +50,28 @@
   },
   {
     "name": "Martha McSally",
-    "address": [],
+    "address": [
+      {
+        "line1": "2201 E Camelback Rd",
+        "line2": "Suite 115",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85016-3431",
+        "phone": "602-952-2410",
+        "longitude": -112.03395,
+        "latitude": 33.50826
+      },
+      {
+        "line1": "407 W Congress St",
+        "line2": "Suite 103",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85701-1310",
+        "phone": "520-670-6334",
+        "longitude": -110.97729,
+        "latitude": 32.21986
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-224-2235"

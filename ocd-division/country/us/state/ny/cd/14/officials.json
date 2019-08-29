@@ -1,7 +1,17 @@
 [
   {
     "name": "Alexandria Ocasio-Cortez",
-    "address": [],
+    "address": [
+      {
+        "line1": "7409 37th Ave",
+        "line2": "Suite 305",
+        "city": "Jackson Heights",
+        "state": "NY",
+        "zip": "11372-6300",
+        "longitude": -73.89132,
+        "latitude": 40.74924
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-3965"

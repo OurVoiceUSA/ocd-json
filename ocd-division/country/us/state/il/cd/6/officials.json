@@ -1,7 +1,17 @@
 [
   {
     "name": "Sean Casten",
-    "address": [],
+    "address": [
+      {
+        "line1": "2700 International Dr",
+        "line2": "Suite 304",
+        "city": "West Chicago",
+        "state": "IL",
+        "zip": "60185-1670",
+        "longitude": -88.25793,
+        "latitude": 41.8672
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4561"

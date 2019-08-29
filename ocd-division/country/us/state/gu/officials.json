@@ -1,7 +1,17 @@
 [
   {
     "name": "Michael F. Q. San Nicolas",
-    "address": [],
+    "address": [
+      {
+        "line1": "330 Hernan Cortez Ave",
+        "line2": "Fl 3",
+        "city": "Hagatna",
+        "state": "GU",
+        "zip": "96910-5081",
+        "longitude": 144.7455451,
+        "latitude": 13.4763888
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-1188"

@@ -58,8 +58,8 @@
     "name": "Patrick J. Leahy",
     "address": [
       {
-        "line1": "199 Main St.",
-        "line3": "4th Floor",
+        "line1": "199 Main St",
+        "line2": "4th Floor",
         "city": "Burlington",
         "state": "VT",
         "zip": "05401",

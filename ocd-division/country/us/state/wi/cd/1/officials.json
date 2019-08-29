@@ -1,7 +1,39 @@
 [
   {
     "name": "Bryan Steil",
-    "address": [],
+    "address": [
+      {
+        "line1": "20 S Main St",
+        "line2": "Suite 10",
+        "city": "Janesville",
+        "state": "WI",
+        "zip": "53545-3959",
+        "phone": "608-752-4050",
+        "longitude": -89.02214,
+        "latitude": 42.68247
+      },
+      {
+        "line1": "730 Wisconsin Ave",
+        "line2": "Suite 101",
+        "line3": "Racine County Courthouse",
+        "city": "Racine",
+        "state": "WI",
+        "zip": "53403-1238",
+        "phone": "262-637-0510",
+        "longitude": -87.78431,
+        "latitude": 42.72521
+      },
+      {
+        "line1": "7511 12th Street",
+        "line3": "Somers Village/Town Hall",
+        "city": "Somers",
+        "state": "WI",
+        "zip": "53171",
+        "phone": "262-654-1901",
+        "longitude": -87.9002263,
+        "latitude": 42.6381671
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-3031"

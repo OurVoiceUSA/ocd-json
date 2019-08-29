@@ -3,13 +3,13 @@
     "name": "Michael F. Doyle",
     "address": [
       {
-        "line1": "1350 Fifth Ave.",
-        "city": "Coraopolis",
+        "line1": "4705 Library Rd",
+        "city": "Bethel Park",
         "state": "PA",
-        "zip": "15108",
-        "phone": "412-264-3460",
-        "longitude": -80.157861,
-        "latitude": 40.5150506
+        "zip": "15102-2969",
+        "phone": "412-283-4451",
+        "longitude": -80.02294,
+        "latitude": 40.34915
       },
       {
         "line1": "627 Lysle Blvd.",
@@ -19,15 +19,6 @@
         "phone": "412-664-4049",
         "longitude": -79.858547,
         "latitude": 40.352477
-      },
-      {
-        "line1": "11 Duff Rd.",
-        "city": "Penn Hills",
-        "state": "PA",
-        "zip": "15235",
-        "phone": "412-241-6055",
-        "longitude": -79.8281138,
-        "latitude": 40.4644937
       },
       {
         "line1": "2637 E. Carson St.",

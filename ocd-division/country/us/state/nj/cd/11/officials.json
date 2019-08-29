@@ -1,7 +1,18 @@
 [
   {
     "name": "Mikie Sherrill",
-    "address": [],
+    "address": [
+      {
+        "line1": "8 Woodhollow Rd",
+        "line2": "Suite 203",
+        "city": "Parsippany",
+        "state": "NJ",
+        "zip": "07054-2828",
+        "phone": "973-526-5668",
+        "longitude": -74.41507,
+        "latitude": 40.86193
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5034"

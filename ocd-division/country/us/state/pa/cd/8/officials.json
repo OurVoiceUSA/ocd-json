@@ -3,26 +3,6 @@
     "name": "Matt Cartwright",
     "address": [
       {
-        "line1": "400 Northampton St.",
-        "line2": "Suite 307",
-        "city": "Easton",
-        "state": "PA",
-        "zip": "18042",
-        "phone": "484-546-0776",
-        "longitude": -75.2111997,
-        "latitude": 40.6908081
-      },
-      {
-        "line1": "121 Progress Ave.",
-        "line2": "Suite 310",
-        "city": "Pottsville",
-        "state": "PA",
-        "zip": "17901",
-        "phone": "570-624-0140",
-        "longitude": -76.1950516,
-        "latitude": 40.6864175
-      },
-      {
         "line1": "226 Wyoming Ave.",
         "city": "Scranton",
         "state": "PA",

@@ -12,15 +12,6 @@
         "latitude": 27.5968913
       },
       {
-        "line1": "2864 W. Trenton Rd.",
-        "city": "Edinburg",
-        "state": "TX",
-        "zip": "78539",
-        "phone": "956-682-5545",
-        "longitude": -98.20102790000001,
-        "latitude": 26.2658508
-      },
-      {
         "line1": "404 S. Mier St.",
         "city": "San Diego",
         "state": "TX",
@@ -38,6 +29,24 @@
         "phone": "361-209-3027",
         "longitude": -98.1424972,
         "latitude": 27.2260914
+      },
+      {
+        "line1": "1305 W Hackberry Ave",
+        "city": "McAllen",
+        "state": "TX",
+        "zip": "78501-4306",
+        "phone": "956-682-5545",
+        "longitude": -98.23214,
+        "latitude": 26.21101
+      },
+      {
+        "line1": "1243 Cardinal Ln",
+        "city": "Seguin",
+        "state": "TX",
+        "zip": "78155-3915",
+        "phone": "830-358-0497",
+        "longitude": -97.94818,
+        "latitude": 29.57597
       }
     ],
     "party": "Democratic",

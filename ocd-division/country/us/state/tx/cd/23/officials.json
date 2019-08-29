@@ -27,30 +27,19 @@
         "city": "Fort Stockton",
         "state": "TX",
         "zip": "79735",
-        "phone": "210-245-1548",
+        "phone": "210-245-1961",
         "longitude": -102.881413,
         "latitude": 30.8834552
       },
       {
-        "line1": "17721 Rogers Ranch Parkway",
-        "line2": "Suite 120",
+        "line1": "727 E Cesar E Chavez Blvd",
+        "line3": "San Antonio Federal Building",
         "city": "San Antonio",
         "state": "TX",
-        "zip": "78258",
+        "zip": "78206-1209",
         "phone": "210-921-3130",
-        "longitude": -98.5350201,
-        "latitude": 29.6043724
-      },
-      {
-        "line1": "One University Way",
-        "line2": "Suite 202A",
-        "line3": "Texas A&M San Antonio Patriots' Casa",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "78224",
-        "phone": "210-784-5023",
-        "longitude": -98.52465839999999,
-        "latitude": 29.3113119
+        "longitude": -98.48416,
+        "latitude": 29.41656
       },
       {
         "line1": "124 S. Horizon",

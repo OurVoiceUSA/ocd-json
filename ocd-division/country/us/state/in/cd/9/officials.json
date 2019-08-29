@@ -12,14 +12,13 @@
         "latitude": 38.2842586
       },
       {
-        "line1": "720 Executive Park Dr.",
-        "line2": "Suite 3000B",
-        "city": "Greenwood",
+        "line1": "100 E Jefferson St",
+        "city": "Franklin",
         "state": "IN",
-        "zip": "46143",
+        "zip": "46131-2323",
         "phone": "317-851-8710",
-        "longitude": -86.1128416,
-        "latitude": 39.6053692
+        "longitude": -86.05373,
+        "latitude": 39.48083
       }
     ],
     "party": "Republican",

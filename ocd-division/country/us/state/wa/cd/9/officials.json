@@ -4,7 +4,8 @@
     "address": [
       {
         "line1": "15 S. Grady Way",
-        "line3": "101 Evergreen Building",
+        "line2": "Suite 101",
+        "line3": "Evergreen Building",
         "city": "Renton",
         "state": "WA",
         "zip": "98057",

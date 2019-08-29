@@ -1,7 +1,17 @@
 [
   {
-    "name": "Gil Cisneros",
-    "address": [],
+    "name": "Gilbert Ray Cisneros, Jr.",
+    "address": [
+      {
+        "line1": "1440 N Harbor Blvd",
+        "line2": "Suite 601",
+        "city": "Fullerton",
+        "state": "CA",
+        "zip": "92835-4127",
+        "longitude": -117.92383,
+        "latitude": 33.88561
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-4111"

@@ -1,7 +1,18 @@
 [
   {
     "name": "Greg Pence",
-    "address": [],
+    "address": [
+      {
+        "line1": "555 1st St",
+        "line2": "B",
+        "city": "Columbus",
+        "state": "IN",
+        "zip": "47201-6703",
+        "phone": "812-799-5230",
+        "longitude": -85.91904,
+        "latitude": 39.19891
+      }
+    ],
     "party": "Republican",
     "phones": [
       "202-225-3021"

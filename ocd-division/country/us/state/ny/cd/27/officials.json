@@ -12,14 +12,14 @@
         "latitude": 42.794794
       },
       {
-        "line1": "2813 Wehrle Dr.",
-        "line2": "Suite 13",
+        "line1": "8203 Main St",
+        "line2": "Suite 2",
         "city": "Williamsville",
         "state": "NY",
-        "zip": "14221",
+        "zip": "14221-6050",
         "phone": "716-634-2324",
-        "longitude": -78.6780537,
-        "latitude": 42.9552643
+        "longitude": -78.68888,
+        "latitude": 42.96282
       }
     ],
     "party": "Republican",

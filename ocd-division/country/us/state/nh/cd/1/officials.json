@@ -1,7 +1,18 @@
 [
   {
     "name": "Chris Pappas",
-    "address": [],
+    "address": [
+      {
+        "line1": "660 Central Ave",
+        "line2": "Suite 101",
+        "city": "Dover",
+        "state": "NH",
+        "zip": "03820-3491",
+        "phone": "603-285-4300",
+        "longitude": -70.87583,
+        "latitude": 43.20588
+      }
+    ],
     "party": "Democratic",
     "phones": [
       "202-225-5456"
