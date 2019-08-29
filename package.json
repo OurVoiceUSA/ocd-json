@@ -12,14 +12,14 @@
     ]
   },
   "dependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.2.2",
-    "@babel/node": "^7.2.2",
-    "@babel/preset-env": "^7.2.3",
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "csvjson": "^5.1.0",
     "geojson-bbox": "0.0.0",
-    "node-fetch": "^2.3.0",
-    "rbush": "^2.0.2",
+    "node-fetch": "^2.6.0",
+    "rbush": "^3.0.1",
     "rtree": "^1.4.2",
     "sha1": "^1.1.1"
   }

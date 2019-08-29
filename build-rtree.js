@@ -10,11 +10,11 @@ then:
 */
 
 import fs from 'fs';
-import rbush from 'rbush';
+import RBush from 'rbush';
 import bbox from 'geojson-bbox';
 
 // top level tree
-var tree = rbush();
+var tree = new RBush(9);
 
 doYerThang();
 
@@ -29,7 +29,7 @@ async function doYerThang() {
 
   fs.readdirSync('./ocd-division/country/us/state/').forEach(state => {
     // new rtree for this state
-    tree = rbush();
+    tree = new RBush(9);
 
     fs.readdirSync('./ocd-division/country/us/state/'+state).forEach(type => {
       // is not a directory if it has a file extention
